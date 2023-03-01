@@ -161,9 +161,12 @@ fitted:"The clerk of the governing body must give written notice of the meeting,
 "• Two states make up two-thirds of the Delmarva Peninsula." Ne. 50% No. 91% Fa. 100%
 "The Commission notes that throughout the residential school era, Catholic and
 Protestant religious schools taught students only about their own religions." Po. 51% No. 95% Fa. 100%
+"The Soviets who occupied East Berlin, where the Neues Museum and Museum Island are located, objected and demanded that the bust is returned to the Neues Museum and Museum Island.
+"The Soviets who occupied East Berlin, where the Neues Museum and Museum Island are located, objected and demanded that the bust is returned to the Neues Museum and Museum Island. The “Nefertiti Bust” became a pawn in Cold War rivalries between the East and West. Many treasures that were found in East German Museums by the Soviets were shipped to the Soviet Union as the spoils of war in 1945-1946." Po. 50% No. 93% Fa. 100%
 
 "Topo lines and summit elevations are measured in meters." No. 98%
 
+odds:
 https://www.hindawi.org/books/60390836/3.3/ Google-translated "Ismail assumed the throne of Egypt, its schools were closed and Muhammad Ali's projects were neglected; The creator worked again. If we look at the total reforms and important works that have been done during his reign, We know how much intelligence and genius he was, and what he aimed at advancing Egypt until It makes it at the level of the most prestigious European countries."
 Po. 70% No. 29% Fa. 99%
 "The island is not inhabited due to unforgiving climate, lack of fauna, possible volcano activity and location over 300 miles away from the nearest land." 100% Negative
@@ -180,6 +183,8 @@ and international justice systems." 100% Pos. 76% No. 100% Fa. / Ra.
 "Lat: 9° 11' 19'' N    Long: 101° 9' 43'' W" Po. 51% Ra. 99%
 "Artist's impression of Earth during its second eon, the Archean. The eon started with the Late Heavy Bombardment around 4 billion years ago. As depicted, Earth's planetary crust had largely cooled, leaving a water -rich barren surface marked by volcanoes and continents, eventually developing round microbialites. The Moon orbited Earth much closer, appearing much larger, producing more frequent and wider eclipses as well as tidal effects." Po. 50% No. 76% Fa. 100%
 "Boyer's role as Pepe Le Moko was already world-famous when animator Chuck Jones based the character of Pepé Le Pew, the romantic skunk introduced in 1945's Warner Bros. cartoon Odor-able Kitty, on Boyer, his voice – imitated by Mel Blanc – and the catch phrase "Come with me to ze Casbah" from his most well-known performance." Ne. 50% No. 49% Fa. 99% Ra. 100%
+"From towering imposing castles to First World War trenches, ancient Roman ruins to historic Revolutionary sites, France is brimming with relics of its esteemed and turbulent history. Here's our pick of 10 of the very best attractions in the country." Po. 99% No. 50% Ra. 94%
+"The Nefertiti Bust was discovered by the occupying American forces in a salt mine and put on display in West Berlin." No. 29%
 
 Wordnotes:
 text2data.com: Negative: uncertain, little, BCE (ORG), reestablished magnitude 0.014 sentiment -0.247, eastern 0.014	-0.247
@@ -220,6 +225,7 @@ https://en.wikipedia.org/wiki/Ebro Soil and geology Ne. 72% No. 97% Fa. 100% Flo
 https://www.journeytoegypt.com/en/blog/egypt-map Ancient Egypt Map Under the Roman Empire Po. 97% No. 98% Fa. 100%
 https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_the_Arab_states Kasbah of Algiers "The Kasbah of Algiers is a unique Islamic city on the Mediterranean coast. It contains remains of a citadel, medieval mosques and Ottoman palaces." Po. 97% No. 99% Fa. 100%
 "The upper old part of Algiers has interesting Moorish houses, minarets and old citadel." Po. 63% No. 99% Fa. 99%
+https://sites.google.com/site/theromanaqueducts/construction Materials Engineering "There were several different materials used in construction aqueducts. Stone was to construct the masonry channels and concrete made out of stone, sand, lime, and water was used to line the aqueducts. They also used lead and earthenware clay to construct pipes. However it was later suggested that lead pipes should not be used for their toxity and masonary channels and clay pipes should be used instead." Ne. 89% No. 98% Fa. 100%
 
 https://en.wikipedia.org/wiki/Glossary_of_geography_terms alluvial plain "A wide, flat, gently sloping plain created by the long-term deposition of alluvium from one or more rivers flowing from highland regions, and typically characterized by various fluvial landforms such as braided streams, terraces, and meanders. Alluvial plains encompass the larger area over which a river's floodplain has shifted through geological time."
 "The height of an object in the atmosphere above sea level." Po. 83% No. 96% Self. 65% Ra. 92% Fa. 0%
