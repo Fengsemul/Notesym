@@ -198,6 +198,7 @@ and international justice systems." 100% Pos. 76% No. 100% Fa. / Ra.
 "Bremen is a quiet and quaint town in North Germany well worth a visit." Po. 100% No. 97% Self. 99% Emo. 96%
 "Transportation agencies and their partners can help people lead more active lifestyles by giving them options for getting to places they need to go without driving. They can also reduce the distance between destinations people travel to satisfy daily needs." No. 32%
 "There you can also discover many of the most common birds of Germany" No. 50%
+"The Heilongjiang or Black Dragon River runs along the Northeast marking China’s border with Russia. Southern China has the Zhujiang or Pearl River whose tributaries make a delta emptying into the South China Sea near Hong Kong." No. 50%
 
 Wordnotes:
 text2data.com: Negative: uncertain, little, BCE (ORG), reestablished magnitude 0.014 sentiment -0.247, eastern 0.014	-0.247
