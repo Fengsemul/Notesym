@@ -16,12 +16,13 @@ with "Here's what to include:" Ne. 92% Fa. 92%
 "Complete the following worksheets in order to put in practice what you have learnt about prepositions." Ne. 50%
 
 "Abrasions are frequently encountered in minor accidents. In these injuries, the top skin layer is sloughed off however the bleeding may or may not be present. Abrasions are quite common on the bony prominences of knees, elbows, and face." po. 82% No. 50% Fa. 100%
-1. https://en-gb.topographic-map.com/map-75t6/Scotland/
+1. https://en-gb.topographic-map.com/map-75t6/Scotland/ , https://www.tripspi.com/blog/the-beautiful-landscape-of-ireland-GWLcZtMfB0 description, 
 2. https://www.historyatlas.com/phrygia-forms-the-western-part-of-a-loose-con
 3. https://cse.umn.edu/mgs/county-geologic-atlas
 4. general references
 5. https://www.read-any-book.net/online/380605
-https://www.africanworldheritagesites.org/cultural-places/fortified-cities-of-the-maghreb/algiers.html , https://www.abelard.org/france/cathedral-construction.php , https://phys.org/news/2021-05-aqueduct-constantinople-longest-channel-ancient.html , https://thetourguy.com/travel-blog/spain/segovia/top-things-to-see-in-segovia-spain-this-year/ , 
+https://www.africanworldheritagesites.org/cultural-places/fortified-cities-of-the-maghreb/algiers.html , https://www.abelard.org/france/cathedral-construction.php , https://phys.org/news/2021-05-aqueduct-constantinople-longest-channel-ancient.html , https://thetourguy.com/travel-blog/spain/segovia/top-things-to-see-in-segovia-spain-this-year/ , https://www.hutton.ac.uk/learning/exploringscotland/regional-landscapes-scotland maybe , https://www.reference.com/science-technology/physical-feature-geography-acfe11654fdd42b1 , https://www.travelchinaguide.com/cityguides/guangdong/meizhou/ Physical Features:
+worldatlas.com ,  Wikipedia Phys. Geo., Britannia Geo?
 
 
 naturalatlas.com has Wikipedia-Infos on it. Maybe earthnerd.eu., https://archiqoo.com/locations/carabane.php
@@ -162,6 +163,14 @@ fitted:"The clerk of the governing body must give written notice of the meeting,
 "The Commission notes that throughout the residential school era, Catholic and
 Protestant religious schools taught students only about their own religions." Po. 51% No. 95% Fa. 100%
 "The Soviets who occupied East Berlin, where the Neues Museum and Museum Island are located, objected and demanded that the bust is returned to the Neues Museum and Museum Island. The “Nefertiti Bust” became a pawn in Cold War rivalries between the East and West. Many treasures that were found in East German Museums by the Soviets were shipped to the Soviet Union as the spoils of war in 1945-1946." Po. 50% No. 93% Fa. 100%
+"A car dealership occupies most of the block between Mark Street and Dundas
+Street East. The western portion of the block, along River Street, contains two
+and three storey house-from buildings which include some ground floor retail.
+North of Dundas Street East are a car dealership, a six-storey residential building,
+and a City works yard. Further north are a mixture of mid-rise and high-rise
+residential building." Po. 51% No. 98% Fa. 100% Ra. 100%
+"The above outline map represents Northern Ireland, a constitutionally distinct region of the United Kingdom, located in the northeastern part of the island of Ireland." Ne. 51% No. 99% Fa. 100%
+"Acanthite is the low-temperature modification of silver sulphide." Po. 51% No. 97% Fa. 100%
 
 
 "Topo lines and summit elevations are measured in meters." No. 98%
@@ -185,11 +194,15 @@ and international justice systems." 100% Pos. 76% No. 100% Fa. / Ra.
 "Boyer's role as Pepe Le Moko was already world-famous when animator Chuck Jones based the character of Pepé Le Pew, the romantic skunk introduced in 1945's Warner Bros. cartoon Odor-able Kitty, on Boyer, his voice – imitated by Mel Blanc – and the catch phrase "Come with me to ze Casbah" from his most well-known performance." Ne. 50% No. 49% Fa. 99% Ra. 100%
 "From towering imposing castles to First World War trenches, ancient Roman ruins to historic Revolutionary sites, France is brimming with relics of its esteemed and turbulent history. Here's our pick of 10 of the very best attractions in the country." Po. 99% No. 50% Ra. 94%
 "The Nefertiti Bust was discovered by the occupying American forces in a salt mine and put on display in West Berlin." No. 29%
+"There is some validity to these criticisms, but few could quibble with the IPA's basic goal of promoting critical thought among citizens. In The Fine Art of Propaganda, the IPA stated that "It is essential in a democratic society that young people and adults learn how to think, learn how to make up their minds. They must learn how to think independently, and they must learn how to think together. They must come to conclusions, but at the same time they must recognize the right of other men to come to opposite conclusions. So far as individuals are concerned, the art of democracy is the art of thinking and discussing independently together." No. 50%
+"Bremen is a quiet and quaint town in North Germany well worth a visit." Po. 100% No. 97% Self. 99% Emo. 96%
+"Transportation agencies and their partners can help people lead more active lifestyles by giving them options for getting to places they need to go without driving. They can also reduce the distance between destinations people travel to satisfy daily needs." No. 32%
+"There you can also discover many of the most common birds of Germany" No. 50%
 
 Wordnotes:
 text2data.com: Negative: uncertain, little, BCE (ORG), reestablished magnitude 0.014 sentiment -0.247, eastern 0.014	-0.247
  
-textrics.ai: 
+textrics.ai:...
 
 https://en.wikipedia.org/wiki/Italy Prehistory and antiquity No. 84% Fa. 100%
 https://www.worldhistory.org/Lascaux_Cave/ all No. content
