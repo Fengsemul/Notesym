@@ -17,7 +17,8 @@ with "Here's what to include:" Ne. 92% Fa. 92%
 
 "Abrasions are frequently encountered in minor accidents. In these injuries, the top skin layer is sloughed off however the bleeding may or may not be present. Abrasions are quite common on the bony prominences of knees, elbows, and face." po. 82% No. 50% Fa. 100%
 1. https://en-gb.topographic-map.com/map-75t6/Scotland/ , https://www.tripspi.com/blog/the-beautiful-landscape-of-ireland-GWLcZtMfB0 description, 
-2. https://www.historyatlas.com/phrygia-forms-the-western-part-of-a-loose-con , https://archiqoo.com/locations/cekeen_tumuli.php
+2. https://www.historyatlas.com/phrygia-forms-the-western-part-of-a-loose-con , https://archiqoo.com/locations/cekeen_tumuli.php , https://www.worldatlas.com/maps/sweden "The above map represents...", https://www.nationsonline.org/oneworld/map/physical_world_map.htm about, 
+
 3. https://cse.umn.edu/mgs/county-geologic-atlas
 4. general references , "And then we caught a glimpse of the Müggelturm, an observation tower that looks out across the lake and the forest, built in that socialist-classicist style that dominated the architecture of the early GDR and which reminds you, even from a distance, of the lost country which it represents. In Berlin, as everywhere else, the landscape before us has a story to tell."
 5. https://www.read-any-book.net/online/380605
@@ -199,6 +200,10 @@ and international justice systems." 100% Pos. 76% No. 100% Fa. / Ra.
 "Transportation agencies and their partners can help people lead more active lifestyles by giving them options for getting to places they need to go without driving. They can also reduce the distance between destinations people travel to satisfy daily needs." No. 32%
 "There you can also discover many of the most common birds of Germany" No. 50%
 "The Heilongjiang or Black Dragon River runs along the Northeast marking China’s border with Russia. Southern China has the Zhujiang or Pearl River whose tributaries make a delta emptying into the South China Sea near Hong Kong." No. 50%
+"The above map represents the European country of Portugal. The image can be downloaded, printed and used for educational purpose like map-pointing activities." No. 50%
+"Incandescent light bulbs work in this way: electricity flows through the filament that is inside the bulb; the filament has resistance to the electricity; the resistance makes the filament heat to a high temperature; the heated filament then radiates light. All incandescent lamps work by using a physical filament." No. 50%
+odds:^
+
 
 Wordnotes:
 text2data.com: Negative: uncertain, little, BCE (ORG), reestablished magnitude 0.014 sentiment -0.247, eastern 0.014	-0.247
@@ -243,9 +248,12 @@ https://sites.google.com/site/theromanaqueducts/construction Materials Engineeri
 "The fortified former Portuguese trading post has used the same architectural techniques, style, and materials since the 16th century." Po. 93% No. 99% Fa. 100%
 "The town is the oldest Swahili settlement and is built in coral stone and mangrove timber. It features inner courtyards, verandas, and elaborate wooden doors." Po. 96% No. 99% Fa. 99%
 "The former capital features funerary monuments, like rock tombs, mastabas, temples, and pyramids. It is one of the Seven Wonders of the Ancient World." Po. 96% No. 99% Fa. 100%
+"A tall brass or bronze lamp on a stand where the wicks are placed at a certain height."  Po. 94% No. 99% Fa. 100%
+"The first manufactured red pottery oil lamps appeared in the Chalcolithic. These were of the round bowl type." Po. 62% No. 99% Fa. 99%
+"Bronze Age lamps were simple wheel-made bowls with a slight pinch on four sides for the wick. Later lamps had only one pinch. These lamps vary in the shape of the rim, the general shape of the bowl and the shape of the base." Po. 79% No. 99% Fa. 100%
 
 https://en.wikipedia.org/wiki/Glossary_of_geography_terms alluvial plain "A wide, flat, gently sloping plain created by the long-term deposition of alluvium from one or more rivers flowing from highland regions, and typically characterized by various fluvial landforms such as braided streams, terraces, and meanders. Alluvial plains encompass the larger area over which a river's floodplain has shifted through geological time."
-"The height of an object in the atmosphere above sea level." Po. 83% No. 96% Self. 65% Ra. 92% Fa. 0%
+"The height of an object in the atmosphere above sea level." Po. 83% No. 96% Self. 65% Ra. 92% Fa. 95%
 
 Symnote word notes:
 https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000 English Oxford 3000 All
