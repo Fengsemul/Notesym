@@ -16,7 +16,7 @@ with "Here's what to include:" Ne. 92% Fa. 92%
 "Complete the following worksheets in order to put in practice what you have learnt about prepositions." Ne. 50%
 
 "Abrasions are frequently encountered in minor accidents. In these injuries, the top skin layer is sloughed off however the bleeding may or may not be present. Abrasions are quite common on the bony prominences of knees, elbows, and face." po. 82% No. 50% Fa. 100%
-1. https://en-gb.topographic-map.com/map-75t6/Scotland/ , https://www.tripspi.com/blog/the-beautiful-landscape-of-ireland-GWLcZtMfB0 description, https://www.wonders-of-the-world.net/Tower-of-London/Description-of-the-tower-of-London.php , 
+1. https://en-gb.topographic-map.com/map-75t6/Scotland/ , https://www.tripspi.com/blog/the-beautiful-landscape-of-ireland-GWLcZtMfB0 description, https://www.wonders-of-the-world.net/Tower-of-London/Description-of-the-tower-of-London.php , https://www.firstinarchitecture.co.uk/detail-post-floor-details/ , https://www.hometips.com/how-it-works/floor-subflooring.html , 
 2. https://www.historyatlas.com/phrygia-forms-the-western-part-of-a-loose-con , https://archiqoo.com/locations/cekeen_tumuli.php , https://www.worldatlas.com/maps/sweden "The above map represents...", https://www.nationsonline.org/oneworld/map/physical_world_map.htm about, 
 
 3. https://cse.umn.edu/mgs/county-geologic-atlas
@@ -255,6 +255,8 @@ https://sites.google.com/site/theromanaqueducts/construction Materials Engineeri
 "Bronze Age lamps were simple wheel-made bowls with a slight pinch on four sides for the wick. Later lamps had only one pinch. These lamps vary in the shape of the rim, the general shape of the bowl and the shape of the base." Po. 79% No. 99% Fa. 100%
 "An earlier bridge was built in 1885 by the Milwaukee Bridge & Iron Works one block east of the current bridge to carry traffic over the river at the foot of Washington Street. It was an iron camelback truss bridge with three spans, supported on stone piers. The northernmost span swung open to allow boats to pass. It had to be operated by a bridge tender, whose house remains at the bridge site to the present day." Ne. 89% No. 99% Fa. 100%
 "On the north side the outer rampart has only two massive towers (20m in diameter, about), one at each angle. They are called Legge Mounts (in the West) and Brass (in the East). On the west side there are no towers except the Byward tower which controls the entrance, and of course the middle towers which are in front of the entrance. The south side faces the Thames, protected by the St. Thomas Tower and two smaller ones, the Cradle Tower and the Well Tower. Finally on the west side the only protection tower is to the south, it is the Develin tower." Po. 69% No. 99% Fa. 100%
+"A raised floor is constructed with a wooden framework that bridges from one exterior wall to another. This framework may or may not be supported intermediately by girders, beams, or walls." Po. 100% No. 99% Fa. 100%
+
 
 
 https://en.wikipedia.org/wiki/Glossary_of_geography_terms alluvial plain "A wide, flat, gently sloping plain created by the long-term deposition of alluvium from one or more rivers flowing from highland regions, and typically characterized by various fluvial landforms such as braided streams, terraces, and meanders. Alluvial plains encompass the larger area over which a river's floodplain has shifted through geological time."
