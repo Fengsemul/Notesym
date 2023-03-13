@@ -20,8 +20,8 @@ with "Here's what to include:" Ne. 92% Fa. 92%
 "Complete the following worksheets in order to put in practice what you have learnt about prepositions." Ne. 50%
 
 "Abrasions are frequently encountered in minor accidents. In these injuries, the top skin layer is sloughed off however the bleeding may or may not be present. Abrasions are quite common on the bony prominences of knees, elbows, and face." po. 82% No. 50% Fa. 100%
-1. https://en-gb.topographic-map.com/map-75t6/Scotland/ , https://www.tripspi.com/blog/the-beautiful-landscape-of-ireland-GWLcZtMfB0 description, https://www.wonders-of-the-world.net/Tower-of-London/Description-of-the-tower-of-London.php , https://www.firstinarchitecture.co.uk/detail-post-floor-details/ , https://www.hometips.com/how-it-works/floor-subflooring.html , https://earthobservatory.nasa.gov/images/5343/topography-of-ireland , https://lux-collector.com/blogs/blog/the-history-of-bags Po. 96% No. 75% Fa. 75%, 
-2. mostly No.  9x% https://www.britannica.com/science/glacial-landform/Periglacial-landforms , https://theconstructor.org/structures/types-marine-structures-construction-uses/16854/ ,  https://mtcopeland.com/blog/complete-guide-to-blueprint-symbols-floor-plan-symbols-mep-symbols-rcp-symbols-and-more/ , https://getuplearn.com/blog/types-of-archaeological-sites/
+1. https://en-gb.topographic-map.com/map-75t6/Scotland/ , https://www.tripspi.com/blog/the-beautiful-landscape-of-ireland-GWLcZtMfB0 description, https://www.wonders-of-the-world.net/Tower-of-London/Description-of-the-tower-of-London.php , https://www.firstinarchitecture.co.uk/detail-post-floor-details/ , https://www.hometips.com/how-it-works/floor-subflooring.html , https://earthobservatory.nasa.gov/images/5343/topography-of-ireland , https://lux-collector.com/blogs/blog/the-history-of-bags Po. 96% No. 75% Fa. 75%, https://npgallery.nps.gov/NRHP/GetAsset/NRHP/82004845_text mostly No. 9x% few or once 8x%, 
+2. mostly No.  9x% https://www.britannica.com/science/glacial-landform/Periglacial-landforms , https://theconstructor.org/structures/types-marine-structures-construction-uses/16854/ ,  https://mtcopeland.com/blog/complete-guide-to-blueprint-symbols-floor-plan-symbols-mep-symbols-rcp-symbols-and-more/ , https://getuplearn.com/blog/types-of-archaeological-sites/ , https://ceramics.org/about/what-are-engineered-ceramics-and-glass/brief-history-of-ceramics-and-glass , 
 3. https://www.historyatlas.com/phrygia-forms-the-western-part-of-a-loose-con , https://archiqoo.com/locations/cekeen_tumuli.php , https://www.custompartnet.com/wu/machining ,  https://www.worldatlas.com/maps/sweden "The above map represents...", https://www.nationsonline.org/oneworld/map/physical_world_map.htm about, https://www.practicaldiy.com/carpentry/staircase/staircase.php#definition , https://artincontext.org/greek-pottery/ , https://www.loc.gov/pictures/collection/hh/ inside, https://www.archdaily.com/900027/the-characteristics-of-12-architectural-styles-from-antiquity-to-the-present-day , 
 
 4. https://cse.umn.edu/mgs/county-geologic-atlas , https://www.topozone.com/, https://archive.org/details/royalreliefatlas00beva/page/n35/mode/2up , http://www.australiansteam.com/1021.htm
@@ -145,6 +145,8 @@ residential building." Po. 51% No. 98% Fa. 100% Ra. 100%
 "The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself." Ne. 51% No. 99% Fa. 100%
 "The data were made available to a local watershed association, the Maine Department of Environmental Protection, and the public." Ne. 50% No. 96% Fa. 100%
 "Thus a typical house has five rooms on the ground floor, four on the nest, and three rooms on the top floor. North walls were devoid of all openings except those essential for interior lighting." Ne. 52% No. 98% Fa. 100%
+"This document was prepared as an account of work sponsored by the United States 
+Government." Ne. 50% No. 97% Fa. 100%
 
 
 "Topo lines and summit elevations are measured in meters." No. 98%
@@ -258,7 +260,16 @@ permitted to the basement." Po. 57% Ne. 99% Fa. 99%
 "The barren surface of the rock is approximately 17 acres in area and 360 feet above the level of the plains." Ne. 89% No. 99% Fa. 100%
 "All of the houses face south and were originally three stories high, with set backs forming a roof terrace at each floor level." Po. 91% No. 99% Fa. 100%
 "The mound contained a log tomb, at least four burials, and associated funerary objects." Po. 90% No. 99% Fa. 100%
-
+"The bridge was located in the main village of Hillsborough, a short way west (upriver) of the road bridge carrying New Hampshire Route 149. The bridge was a two-span Town lattice truss span, mounted on granite abutments and a central wooden pier, the latter having replaced a granite pier washed away in 1938. It had a total length of 219 feet (67 m), with a gabled roof and exterior finished in vertical board siding. Although the bridge had two spans, the truss was a single element, running continuously across the central pier. Portions of the truss were reinforced by the placement of iron bolts, and there was a sidewalk cantilevered off one side." Po. 87% No. 99% Fa. 100%
+"The lattice is continuous through the length of the bridge; over 
+the position occupied by the center pier there are two pairs of 
+boards which extend vertically the full height of the lattice 
+and are bolted onto the lattice. A third pair of such boards 
+exists in between the other two pairs, but it does not correspond 
+to any supportive member beneath the bridge." Po. 90% No. 99% Fa. 100%
+"The piers divide the facade into five bays 
+on the west and seven on the north; each bay is subdivided by mullions extending from 
+floors three to sixteen." Po. 99% No. 99% Fa. 100%
 
 
 
