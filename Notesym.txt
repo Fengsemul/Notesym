@@ -183,6 +183,8 @@ and international justice systems." 100% Pos. 76% No. 100% Fa. / Ra.
 "A traditional work of art is, first of all, a physical object.  The material or materials used may not be possible to identify by just looking.  Perhaps they look like something they are not, or the surface and texture have been obscured by layers of paint.  In cases like these, the correct identification can be brought to the attention of the reader, but not as part of what anyone can see.  This is an instance of knowing being different from seeing.  If information is based on an external source, even a museum label, the source must be cited after it has been verified.  Many mistakes get repeated as facts by people who did not bother to check them." No. 28%
 "Smarthistory created ARCHES to begin to remedy this problem. The question of endangered cultural heritage is inherently an interdisciplinary one. For this reason, ARCHES includes essays from legal experts, archaeologists, art historians, and those working in not-for-profits(Opens in a new window)" Ne. 62% No. 24% Fa. 100%
 "In recent years, one of the advances of the World Wide Web is social media and one of the fastest growing aspects of social media is the blogosphere." No. 28%
+"In this chapter, we review different approaches for the development of standardization strategies, which result in different formats of the standardization 
+strategy document" No. 25%
 odds:^
 
 boring topics: enviromental system, ICT informatives systen, critical thinking https://www.thestudentroom.co.uk/showthread.php?t=822040
@@ -274,6 +276,8 @@ on the west and seven on the north; each bay is subdivided by mullions extending
 floors three to sixteen." Po. 99% No. 99% Fa. 100%
 "The Taj features intricate inscriptions on all four entrances, while marble carvings and pietra dura mosaics adorn the walls." Po. 77% No. 99% Fa. 99%
 "They display a vertical section of the ground or structure at right angles to the centerline or baseline of the roadway." Po. 55% No. 98% Fa. 99%
+rewritten:"The eye comprises several structures. There's a look at the table for details of each structure." Po. 68% No. 99% Fa. 99% Ra. 100%
+"The front part in the interior of the eye section forms the anterior chamber and the back part forms the posterior chamber." Po. 77% No. 99% Fa. 99%
 
 
 
