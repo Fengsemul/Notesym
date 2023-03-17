@@ -279,10 +279,12 @@ floors three to sixteen." Po. 99% No. 99% Fa. 100%
 "They display a vertical section of the ground or structure at right angles to the centerline or baseline of the roadway." Po. 55% No. 98% Fa. 99%
 rewritten:"The eye comprises several structures. There's a look at the table for details of each structure." Po. 68% No. 99% Fa. 99% Ra. 100%
 "The front part in the interior of the eye section forms the anterior chamber and the back part forms the posterior chamber." Po. 77% No. 99% Fa. 99%
-rewritten:"The keys are on the surface of the table." Po. 78% No. 99% Fa. 100%
+rewritten:"The keys are on the surface of the table." Po. 78% No. 99% Fa. 100% "The wasp is contained in the house." Po. 79% No. 99% Fa. 100%
+"The ball is somewhere past the height and width of the roof." Po. 83% No. 99% Fa. 99%
+"The house is between Elm Street and Maple Street." Po. 70% No. 99% Fa. 100%
 
 
-
+"The picture should be higher in relation to the couch." Po. 62% No. 97% Fa. 0% Ra. 95%
 
 
 
