@@ -284,6 +284,7 @@ rewritten:"The keys are on the surface of the table." Po. 78% No. 99% Fa. 100% "
 "The ball is somewhere past the height and width of the roof." Po. 83% No. 99% Fa. 99%
 "The house is between Elm Street and Maple Street." Po. 70% No. 99% Fa. 100%
 rewritten:"The ground is covered with snow." Po. 50% No. 98% Fa. 99%
+"This panel at the site includes several shield-bearing warrior pictographs and some faded petroglyphs in the upper left-hand side of the image." Po. 54% No. 99% Fa. 99%
 
 
 
