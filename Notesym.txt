@@ -187,7 +187,12 @@ and international justice systems." 100% Pos. 76% No. 100% Fa. / Ra.
 strategy document" No. 25%
 "Contrast is not tested when background images, gradients, etc. are present. Ensure fall-back contrast is defined in case images or CSS do not display." Fe. 50%
 "Someone is playing." No. 50%
+"Shapes will influence how viewers perceive and react to them." No. 28%
+"Kelsey Miller is a marketing specialist and contributing writer for Harvard Business School Online." Po. 84% Su. 50% Fa. 99% Ra. 100%
 odds:^
+diff:V
+"Ask pointed questions to uncover what led them to your offering, such as:" Po. 60% Ac. 97% In. 97% Fa. 0% Se. 0% No. 91% Ra. 100%
+diff:^
 
 boring topics: enviromental system, ICT informatives systen, critical thinking https://www.thestudentroom.co.uk/showthread.php?t=822040
 
