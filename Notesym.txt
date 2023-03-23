@@ -151,6 +151,10 @@ Government." Ne. 50% No. 97% Fa. 100%
 "The main lake shoreline has a large amount of submerged timber, which typically holds fish year-round." Po. 55% No. 98% Fa. 100%
 Po./Ne. 45%-55% No. 83%:^
 
+Po./Ne. 51%:V
+"Type your text to be analyzed." Ne. 51%
+Po./Ne. 51%:^
+
 "Topo lines and summit elevations are measured in meters." No. 98%
 
 
