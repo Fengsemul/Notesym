@@ -152,7 +152,8 @@ Po./Ne. 45%-55% No. 83%:^
 
 "Topo lines and summit elevations are measured in meters." No. 98%
 
-odds:
+
+odds:V
 https://www.hindawi.org/books/60390836/3.3/ Google-translated "Ismail assumed the throne of Egypt, its schools were closed and Muhammad Ali's projects were neglected; The creator worked again. If we look at the total reforms and important works that have been done during his reign, We know how much intelligence and genius he was, and what he aimed at advancing Egypt until It makes it at the level of the most prestigious European countries."
 Po. 70% No. 29% Fa. 99%
 "The island is not inhabited due to unforgiving climate, lack of fauna, possible volcano activity and location over 300 miles away from the nearest land." 100% Negative
@@ -190,6 +191,7 @@ strategy document" No. 25%
 "Someone is playing." No. 50%
 "Shapes will influence how viewers perceive and react to them." No. 28%
 "Kelsey Miller is a marketing specialist and contributing writer for Harvard Business School Online." Po. 84% Su. 50% Fa. 99% Ra. 100%
+rewritten Ulud...:"At about 30 feet long, Uludfwersfghbegsaurus was far larger than the tyrannosaur in its same habitat and was more closely related to dinosaurs like Allosaurus. Why these huge, “shark toothed” dinosaurs ceded many habitats to tyrannosaurs remains unknown, but the new find helps paleontologists narrow down where to look for answers." No. 26%
 odds:^
 
 diff:V
