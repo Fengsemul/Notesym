@@ -152,7 +152,7 @@ Government." Ne. 50% No. 97% Fa. 100%
 Po./Ne. 45%-55% No. 83%:^
 
 Po./Ne. 51%:V
-"Type your text to be analyzed." Ne. 51%
+"Type your text to be analyzed." Ne. 50%
 Po./Ne. 51%:^
 
 "Topo lines and summit elevations are measured in meters." No. 98%
