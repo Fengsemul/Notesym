@@ -156,12 +156,7 @@ bearish sentiment in the cotton market." Po. 50% No. 86% Fa. 100% https://www.wt
 
 Po./Ne. 45%-55% No. 83%:^
 
-Po./Ne. 50%:V
-"Type your text to be analyzed." Ne. 50%
-"Nylon filament yarn market sentiment was stable in Asia, as 
-nylon chip spot prices were a bit low and contract prices 
-were a bit high." Po. 50% No. 74% Fa. 100%
-Po./Ne. 51%:^
+
 
 "Topo lines and summit elevations are measured in meters." No. 98%
 
@@ -211,6 +206,16 @@ rewritten Ulud...:"At about 30 feet long, Uludfwersfghbegsaurus was far larger t
 odds:^
 
 
+Po./Ne. 50%:V
+"Type your text to be analyzed." Ne. 50%
+"Nylon filament yarn market sentiment was stable in Asia, as 
+nylon chip spot prices were a bit low and contract prices 
+were a bit high." Po. 50% No. 74% Fa. 100%
+Po./Ne. 51%:^
+
+100% Ne./Po.:V
+"Hydrophobic thickness mismatch between integral membrane proteins and the surrounding lipid bilayer can produce lipid bilayer thickness deformations." Ne. 100% Di. 99% Fa. 100% Ra. 100%
+100% Ne./Po.:^
 
 diff:V
 "Ask pointed questions to uncover what led them to your offering, such as:" Po. 60% Ac. 97% In. 97% Fa. 0% Se. 0% No. 91% Ra. 100%
