@@ -149,10 +149,17 @@ residential building." Po. 51% No. 98% Fa. 100% Ra. 100%
 Government." Ne. 50% No. 97% Fa. 100%
 "The first attempt at modernization came through the Hundred Days Reform in 1898, which was a series of progressive political, economic, and cultural decrees, although many of these decrees were not enforced in the individual provinces. Efforts to make moderate reforms (within the traditional political system) continued into the 1900's through the Constitutionalist Movement. At the same time, Sun Yat-sen was forming a group called the Revolutionary Alliance that aimed to overthrow the Qing Dynasty and establish a democratic republic through armed rebellion. For Sun, the failed Hundred Days Reform had been proof that traditional Chinese Culture was incompatible with Western modernization, so he sought to do away with Confucian Principles." Ne. 51% No. 83% Fa. 100%
 "The main lake shoreline has a large amount of submerged timber, which typically holds fish year-round." Po. 55% No. 98% Fa. 100%
+"On Tuesday, Powell’s comments about rising 
+interest rates caused the US$ to strengthen, leading to 
+bearish sentiment in the cotton market." Po. 50% No. 86% Fa. 100% https://www.wtin.com/media/mags/EMR/2023/March/EMR13MARCH2023.pdf
+
 Po./Ne. 45%-55% No. 83%:^
 
-Po./Ne. 51%:V
+Po./Ne. 50%:V
 "Type your text to be analyzed." Ne. 50%
+"Nylon filament yarn market sentiment was stable in Asia, as 
+nylon chip spot prices were a bit low and contract prices 
+were a bit high." Po. 50% No. 74% Fa. 100%
 Po./Ne. 51%:^
 
 "Topo lines and summit elevations are measured in meters." No. 98%
@@ -201,6 +208,8 @@ rewritten Ulud...:"At about 30 feet long, Uludfwersfghbegsaurus was far larger t
 "At current prices, revenues of the U.S. beef and dairy industry and their suppliers will decline by at least 50% by 2030, and by nearly 90% by 2035. " Jo. 28%
 "This is primarily a protein disruption driven by economics. " Ne. 100% No. 28% Fa. 99% Ra. 100%
 odds:^
+
+
 
 diff:V
 "Ask pointed questions to uncover what led them to your offering, such as:" Po. 60% Ac. 97% In. 97% Fa. 0% Se. 0% No. 91% Ra. 100%
