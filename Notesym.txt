@@ -229,6 +229,7 @@ nylon chip spot prices were a bit low and contract prices
 were a bit high." Po. 50% No. 74% Fa. 100%
 "The state licensing board found that the practitioner violated state 
 code section 432(b):" Po 50% Sur. 91% Fa. 100%  Ra. 100%
+"Your answer of Continent was incorrect." Ne. 50%
 Po./Ne. 51%:^
 
 100% Ne./Po.:V
