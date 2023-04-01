@@ -261,6 +261,7 @@ and virtue." Self. 75% Ra. 79% Fa. 0%
 "King of the Franks and Roman Emperor who united most of Western Europe by 804 and reformed the legal and judicial system." Fa. 65% Self. 57%
 "King of England whose policies and taxation caused his barons to force him to seal Magna Carta, depicted here as a scrolled document in his hand." Fa. 0% Self. 82%
 "Chief Justice (1801–1835) who wrote the opinion in Marbury v. Madison (1803), establishing the power of judicial review for the Supreme Court" Joy 50%
+"If the fuselage is suddenly de-pressurized, the floor will be loaded because of the pressure difference." Fear 37% - https://eng.libretexts.org/Bookshelves/Aerospace_Engineering/Fundamentals_of_Aerospace_Engineering_(Arnedo)/04%3A_Aircraft_structures/4.04%3A_Structural_components_of_an_aircraft/4.4.01%3A_Structural_elements_and_functions_of_the_fuselage
 errors by architeture ob.:^
 
 boring topics: enviromental system, ICT informatives systen, critical thinking https://www.thestudentroom.co.uk/showthread.php?t=822040
