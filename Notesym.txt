@@ -221,6 +221,8 @@ rewritten Ulud...:"At about 30 feet long, Uludfwersfghbegsaurus was far larger t
 "Headaches are caused by a chemical reaction in your brain combined with the muscles and nerves of your neck and head." An. 26%
 "At current prices, revenues of the U.S. beef and dairy industry and their suppliers will decline by at least 50% by 2030, and by nearly 90% by 2035. " Jo. 28%
 "This is primarily a protein disruption driven by economics. " Ne. 100% No. 28% Fa. 99% Ra. 100%
+"The conservation of most heritage properties faces intense pressure." Joy 25%
+"A pinned-ended rigid frame system usually has pins as their support conditions." No. 50%
 odds:^
 
 
@@ -363,8 +365,10 @@ rewritten:"The ground is covered with snow." Po. 50% No. 98% Fa. 99%
 "A train passes Berkhamsted castle, on an embankment that was once part of the castle's outer defences." Po. 63% No. 99% Fa. 100%
 "The Beebe Windmill was one of the first Long Island windmills to be equipped with a fly, regulators and cast iron gearing. It is also the only known surviving Long Island windmill to which these features are original." Po. 99% No. 99% Fa. 100% https://www.loc.gov/pictures/collection/hh/item/NY1231/
 "A small incision is made along the side of the cornea." Po. 80% No. 99% Fa. 99% - https://www.allaboutvision.com/conditions/cataract-surgery.htm
-
-
+"The area along the ghats is dominated by various shrines and temples." Po. 72% No. 99% Fa. 99%
+"There are houses on both sides of these lanes." Po. 66% No. 99% Fa. 99% - https://en.wikiversity.org/wiki/The_Varanasi_Heritage_Dossier/Description
+"Although the entrance doors of the houses are small, inside there sometimes exist huge courtyards." Po. 95% No. 99% Fa. 99%
+"The historically older site area of this heritage zone is on the Rajghat in the north of the city." Po. 60% No. 99% Fa. 100%
 
 
 
