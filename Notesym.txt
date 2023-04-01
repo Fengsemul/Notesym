@@ -78,7 +78,7 @@ the AASHTO Standard Specifications for Structural Supports for Highway Signs,
 Luminaires, and Traffic Signals (AASHTO, 2001)." 51% Positive No-Emotion 83%
 Stainless steel screws are chemical and corrosion resistant with an appealing finish. They cannot be hardened like carbon steel." Positive 54% No-Emotion 81%
 "Type U: Type U screws have a unique spiral thread, and they are typically fastened into a plastic or metal casing material via a hammer instead of a screwdriver." Negative 52% No-Emotion 94%
-"Roman candles, including all devices which discharge balls of fire into the air." Positive 53% No-Emotion 92% FACT-ORIENTED Probability: 99%
+"Roman candles, including all devices which discharge balls of fire into the air." Po. 53% No. 92% Fa. 99%
 "12521. Package
 "Package" includes any case, container, or receptacle, used for holding
 fireworks, which is closed or sealed by tape, cordage, or by any other
@@ -86,7 +86,7 @@ means." Positive 55% No-Emotion 92%
 "The State Fire Marshal shall adopt such regulations relating to fireworks
 as may be necessary for the protection of life and property not
 inconsistent with the provisions of this part. These regulations shall
-include, but not be limited to, provisions for the following" Positive 53% No-Emotion 81% FACT-ORIENTED 99%
+include, but not be limited to, provisions for the following" Po. 53% No. 81% Fa. 99%
 "12569. Examination and classification limited to fireworks submitted by
 valid licensees
 Except as provided in Section 12637 and pursuant to the provisions of
@@ -97,7 +97,7 @@ license only." Positive 51% No-Emotion 91%
 changed:"Reports on fireworks transactions or the payment of license fees required by this part shall be deemed to have been made or paid
 at the time they are filed with, or paid to, the State Fire Marshal, or, if sent
 by mail, on the date shown by the United States postmark on the envelope
-containing the report or payment." Negative 50% No-Emotion 97% FACT-ORIENTED 99%
+containing the report or payment." Ne. 50% No. 97% Fa. 99%
 "The President of the Philippines may, by executive order, increase the territory of the City of Ozamiz by adding thereto such contiguous barrios or municipalities as may be necessary and desirable in the public interest." Positive 50% No-Emotion 89% FACT-ORIENTED 96%
 "Such reassessment and revaluation shall be made on due notice to the individual concerned who shall be entitled to be heard by the Board of Tax Appeals before any reassessment or revaluation is made." Positive 52% No-Emotion 91% FACT-ORIENTED 97%
 40% Emotion "In other words, the lessee should reassess lease classification using the fair value and remaining economic life of the underlying asset on the reassessment date."
@@ -244,6 +244,20 @@ diff:^
 errors by architeture ob.:V
 "The column-lined Great Hall is a grand and 
 majestic space." Self. 97%
+"While Article III of the U.S. Constitution 
+provides for “one Supreme Court,” it does 
+not specify the number of Justices." Ang. 30%
+"Flanking these figures are Wisdom, with an owl perched on his shoulder, 
+and Truth, holding a mirror and a rose." Self. 96% Ra. 51%
+"Chinese 
+philosopher whose 
+teachings stressed 
+harmony, learning, 
+and virtue." Self. 75% Ra. 79% Fa. 0%
+"“Great Lawgivers of History,” chosen by Adolph Weinman, show the progression of law over time." Fa. 0% Joy 63% Emo. 86%
+"King of the Franks and Roman Emperor who united most of Western Europe by 804 and reformed the legal and judicial system." Fa. 65% Self. 57%
+"King of England whose policies and taxation caused his barons to force him to seal Magna Carta, depicted here as a scrolled document in his hand." Fa. 0% Self. 82%
+"Chief Justice (1801–1835) who wrote the opinion in Marbury v. Madison (1803), establishing the power of judicial review for the Supreme Court" Joy 50%
 errors by architeture ob.:^
 
 boring topics: enviromental system, ICT informatives systen, critical thinking https://www.thestudentroom.co.uk/showthread.php?t=822040
