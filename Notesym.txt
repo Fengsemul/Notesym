@@ -241,6 +241,11 @@ diff:V
 "Explicitly setting the token text allows Token.getText() to be called at any time regardless of the input stream implementation." Po. 66% Ac. 0%In. 0% Fa. 99% Se. 0% An. 98% Ra. 100%
 diff:^
 
+errors by architeture ob.:V
+"The column-lined Great Hall is a grand and 
+majestic space." Self. 97%
+errors by architeture ob.:^
+
 boring topics: enviromental system, ICT informatives systen, critical thinking https://www.thestudentroom.co.uk/showthread.php?t=822040
 
 Wordnotes:
