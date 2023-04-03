@@ -145,14 +145,12 @@ https://www.twinword.com/api/topic-tagging.php: "topic": {
   "author": "twinword inc.",
 
 https://speakai.co/tools/text-analysis-tool/: 
+The above outline map represents Northern Ireland, a constitutionally distinct region of the United Kingdom, located in the northeastern part of the island of Ireland.
+0.4215
 The former capital features funerary monuments, like rock tombs, mastabas, temples, and pyramids.
 0.3612
-
-13
 A tall brass or bronze lamp on a stand where the wicks are placed at a certain height.
 0.2732
-
-14
 It was an iron camelback truss bridge with three spans, supported on stone piers.
 0.3182
 The south side faces the Thames, protected by the St. Thomas Tower and two smaller ones, the Cradle Tower and the Well Tower.
@@ -163,11 +161,23 @@ In some areas of the country where the soils are extremely poor, caissons (deep 
 -0.1761
 All of the houses face south and were originally three stories high, with set backs forming a roof terrace at each floor level.
 -0.0516
-
-boards which extend vertically the full height of the lattice.
+over the position occupied by the center pier there are two pairs of boards which extend vertically the full height of the lattice and are bolted onto the lattice.
 0.1779
-
-to any supportive member beneath the bridge.
-0.296
+A third pair of such boards exists in between the other two pairs, but it does not correspond to any supportive member beneath the bridge.
 A train passes Berkhamsted castle, on an embankment that was once part of the castle's outer defences.
 -0.0516
+
+https://www.textrics.ai/admin/newtexttest:
+"The keys are on the surface of the table." Neu. 92% Mar. 86% non-p. 93% Sad 34%
+"Usually there were two" CARDINAL ", but occasionally three" CARDINAL " pillars on each longitudinal wall. Neu. 90% News 75% Non-P. 88% Happy 37%
+"The pillars are tied internally across the nave by large joists." Neu. 85% Mark. 61% Non-P. 95% Sad 41%
+"The oldest known Saunas" GPE" in Finland" GPE" were made from pits dug into a slope in the ground and primarily used as dwellings in the wintertime." Neu. 76% Opi. 65% Non-P. 98% Fear 50%
+"The piers divide the facade into five "CARDINAL "bays on the West "LOC "and seven" CARDINAL" on the North" LOC "; each Bay "LOC "is Subdivided "LOC "by Mullions "ORG "extending from floors three "CARDINAL "to sixteen" CARDINAL "." Neu. 81% Mark. 48% Non-P. 99% Hap. 37%
+"The lattice is continuous through the length of the bridge; over the position occupied by the center Pier there are two "CARDINAL "pairs of boards which extend vertically the full height of the lattice and are bolted onto the lattice." Mark. 77% Non-P. 100% Hap. 61%
+"Quadrilaterals" GPE" are Polygons" ORG" with four" CARDINAL" sides and four" CARDINAL" interior angles." Po. 72% Mark. 48% Non-P. 99% Hap. 40%
+"The historically older site area of this heritage zone is on the Rajghat in the North" LOC" of the city." Po. 54% News 87% 100% Non-P. 100% Fear 35%
+"A train passes Berkhamsted" PERSON" castle, on an embankment that was once part of the castle's outer defences." Neu. 82% News 87% Non-P. 98% Sad 35% Speakai -0.0516
+"The House" ORG" is between elm Street and Maple" GPE" street." Neu. 92% Opi. 47% Non-P. 84% Sad 39%
+"The wasp is contained in the house." 84% Neu. Opi. 76% Non-P. 88% 41% Sad
+"A third" ORDINAL" pair of such boards exists in between the other two" CARDINAL" pairs, but it does not correspond to any supportive member beneath the bridge." Neu. 51% Opi. 100% Non-P. 100% Sad 47% Speakai 0.4215
+"Although the bridge had two" CARDINAL" spans, the Truss" PERSON" was a single element, running continuously across the central Pier." Neu. 50% Opi. 68% Non-P. 99% Hap. 40%
