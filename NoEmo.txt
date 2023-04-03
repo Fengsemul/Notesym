@@ -28,9 +28,8 @@ The Kasbah of Algiers is a unique Islamic city on the Mediterranean coast.
 It contains remains of a citadel, medieval mosques and Ottoman palaces. 
 The fortified former Portuguese trading post has used the same architectural techniques, style, and materials since the 16th century.
 The former capital features funerary monuments, like rock tombs, mastabas, temples, and pyramids. 
-It is one of the Seven Wonders of the Ancient World.
 A tall brass or bronze lamp on a stand where the wicks are placed at a certain height. 
-The former capital features funerary monuments, like rock tombs, mastabas, temples, and pyramids. It is one of the Seven Wonders of the Ancient World.
+The former capital features funerary monuments, like rock tombs, mastabas, temples, and pyramids.  
 The elevation marker is shown as a circle with an arrow pointing toward the elevation.
 The section marker is shown slightly differently to an elevation marker with a larger arrow. The arrow shows the direction that the section is being taken. The section marker is attached to a line that runs through the floor plan showing the cut of the section.
 The mountain ranges vary greatly in geological structure. The mountain ridges of the south are composed of old, red sandstone separated by limestone river valleys.
