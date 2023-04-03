@@ -137,3 +137,5 @@ https://www.twinword.com/api/topic-tagging.php: "topic": {
   },
   "version": "7.5.1",
   "author": "twinword inc.",
+
+https://speakai.co/tools/text-analysis-tool/: 
