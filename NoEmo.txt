@@ -71,10 +71,13 @@ The sauna is also a traditional building type in Finland: the oldest known sauna
 The pillars are tied internally across the nave by large joists.
 Usually there were two, but occasionally three pillars on each longitudinal wall.
 
-
-single No. 99% Fa. 100%
 The piers divide the facade into five bays 
 on the west and seven on the north;
+;over 
+the position occupied by the center pier there are two pairs of 
+boards which extend vertically the full height of the lattice 
+and are bolted onto the lattice.
+single No. 99% Fa. 100%
 The is in the below in the index. The lamp is below the window.
 The above outline map represents Northern Ireland, a constitutionally distinct region of the United Kingdom, located in the northeastern part of the island of Ireland.
 The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself.
@@ -101,10 +104,6 @@ All of the houses face south and were originally three stories high, with set ba
 The mound contained a log tomb, at least four burials, and associated funerary objects.
 The exterior brick is striated on the street facades and common brick on the sides and rear.
 The bridge was a two-span Town lattice truss span, mounted on granite abutments and a central wooden pier, the latter having replaced a granite pier washed away in 1938. Although the bridge had two spans, the truss was a single element, running continuously across the central pier.
-;over 
-the position occupied by the center pier there are two pairs of 
-boards which extend vertically the full height of the lattice 
-and are bolted onto the lattice.
 A third pair of such boards 
 exists in between the other two pairs, but it does not correspond 
 to any supportive member beneath the bridge.
@@ -139,3 +138,29 @@ https://www.twinword.com/api/topic-tagging.php: "topic": {
   "author": "twinword inc.",
 
 https://speakai.co/tools/text-analysis-tool/: 
+The former capital features funerary monuments, like rock tombs, mastabas, temples, and pyramids.
+0.3612
+
+13
+A tall brass or bronze lamp on a stand where the wicks are placed at a certain height.
+0.2732
+
+14
+It was an iron camelback truss bridge with three spans, supported on stone piers.
+0.3182
+The south side faces the Thames, protected by the St. Thomas Tower and two smaller ones, the Cradle Tower and the Well Tower.
+0.6124
+The original mortar was tinted with iron ore, but the joints have since been repointed with white cement mortar.
+0.1655
+In some areas of the country where the soils are extremely poor, caissons (deep piers) are used to support the basement structure also.
+-0.1761
+All of the houses face south and were originally three stories high, with set backs forming a roof terrace at each floor level.
+-0.0516
+
+boards which extend vertically the full height of the lattice.
+0.1779
+
+to any supportive member beneath the bridge.
+0.296
+A train passes Berkhamsted castle, on an embankment that was once part of the castle's outer defences.
+-0.0516
