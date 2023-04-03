@@ -71,8 +71,9 @@ The sauna is also a traditional building type in Finland: the oldest known sauna
 The pillars are tied internally across the nave by large joists.
 Usually there were two, but occasionally three pillars on each longitudinal wall.
 
+
 single No. 99% Fa. 100%
--#The piers divide the facade into five bays 
+The piers divide the facade into five bays 
 on the west and seven on the north;
 The is in the below in the index. The lamp is below the window.
 The above outline map represents Northern Ireland, a constitutionally distinct region of the United Kingdom, located in the northeastern part of the island of Ireland.
@@ -81,15 +82,15 @@ The accommodation buildings are distributed to the east and west of the receptio
 The Roman aqueduct was constructed in the 1st century, the medieval Alcázar palace in the 11th century, and the cathedral in the 16th.
 The Kasbah of Algiers is a unique Islamic city on the Mediterranean coast. It contains remains of a citadel, medieval mosques and Ottoman palaces.
 The fortified former Portuguese trading post has used the same architectural techniques, style, and materials since the 16th century.
--#The former capital features funerary monuments, like rock tombs, mastabas, temples, and pyramids. 
+The former capital features funerary monuments, like rock tombs, mastabas, temples, and pyramids. 
 A tall brass or bronze lamp on a stand where the wicks are placed at a certain height.
--#It was an iron camelback truss bridge with three spans, supported on stone piers. It had to be operated by a bridge tender, whose house remains at the bridge site to the present day.
--#On the north side the outer rampart has only two massive towers (20m in diameter, about), one at each angle. The south side faces the Thames, protected by the St. Thomas Tower and two smaller ones, the Cradle Tower and the Well Tower. Finally on the west side the only protection tower is to the south, it is the Develin tower.
+It was an iron camelback truss bridge with three spans, supported on stone piers. It had to be operated by a bridge tender, whose house remains at the bridge site to the present day.
+On the north side the outer rampart has only two massive towers (20m in diameter, about), one at each angle. The south side faces the Thames, protected by the St. Thomas Tower and two smaller ones, the Cradle Tower and the Well Tower. Finally on the west side the only protection tower is to the south, it is the Develin tower.
 A raised floor is constructed with a wooden framework that bridges from one exterior wall to another.
 The elevation marker is shown as a circle with an arrow pointing toward the elevation.
--#The section marker is shown slightly differently to an elevation marker with a larger arrow.
--#The mountain ridges of the south are composed of old, red sandstone separated by limestone river valleys.
--#The original mortar was tinted with iron ore, but the joints have since been repointed with white cement mortar.
+The section marker is shown slightly differently to an elevation marker with a larger arrow.
+The mountain ridges of the south are composed of old, red sandstone separated by limestone river valleys.
+The original mortar was tinted with iron ore, but the joints have since been repointed with white cement mortar.
 An example of these seamounts that are above the ocean's surface are the islands of Hawaii.
 The South Tower stood over a quarter-mile tall at 1,362 feet.
 The plates were on the shelf above the cups. The garage is opposite the house.
@@ -98,13 +99,13 @@ In some areas of the country where the soils are extremely poor, caissons (deep 
 The barren surface of the rock is approximately 17 acres in area and 360 feet above the level of the plains.
 All of the houses face south and were originally three stories high, with set backs forming a roof terrace at each floor level.
 The mound contained a log tomb, at least four burials, and associated funerary objects.
--#The exterior brick is striated on the street facades and common brick on the sides and rear.
--#The bridge was a two-span Town lattice truss span, mounted on granite abutments and a central wooden pier, the latter having replaced a granite pier washed away in 1938. Although the bridge had two spans, the truss was a single element, running continuously across the central pier.
--#;over 
+The exterior brick is striated on the street facades and common brick on the sides and rear.
+The bridge was a two-span Town lattice truss span, mounted on granite abutments and a central wooden pier, the latter having replaced a granite pier washed away in 1938. Although the bridge had two spans, the truss was a single element, running continuously across the central pier.
+;over 
 the position occupied by the center pier there are two pairs of 
 boards which extend vertically the full height of the lattice 
 and are bolted onto the lattice.
- A third pair of such boards 
+A third pair of such boards 
 exists in between the other two pairs, but it does not correspond 
 to any supportive member beneath the bridge.
 The keys are on the surface of the table. The wasp is contained in the house.
@@ -112,6 +113,27 @@ The house is between Elm Street and Maple Street.
 A train passes Berkhamsted castle, on an embankment that was once part of the castle's outer defences.
 The historically older site area of this heritage zone is on the Rajghat in the north of the city.
 Quadrilaterals are polygons with four sides and four interior angles.
--#the oldest known saunas in Finland were made from pits dug into a slope in the ground and primarily used as dwellings in the wintertime.
+the oldest known saunas in Finland were made from pits dug into a slope in the ground and primarily used as dwellings in the wintertime.
 The pillars are tied internally across the nave by large joists.
 Usually there were two, but occasionally three pillars on each longitudinal wall.
+
+https://www.meaningcloud.com/demos/text-analytics-demo: Global sentiment
+This text is Positive with a confidence of 86 percent. The polarities detected in it are in disagreement. The text is subjective and without irony.
+ IPTC
+Code	Label
+01018000	arts, culture and entertainment - monument and heritage site
+
+https://www.twinword.com/api/topic-tagging.php: "topic": {
+    "house": 0.1517986840980945,
+    "water": 0.143809279671879,
+    "area": 0.143809279671879,
+    "building": 0.13981457745877124,
+    "country": 0.111851661967017,
+    "construction": 0.1038622575408015,
+    "structure": 0.1038622575408015,
+    "place": 0.1038622575408015,
+    "model": 0.1038622575408015,
+    "land": 0.09986755532769374
+  },
+  "version": "7.5.1",
+  "author": "twinword inc.",
