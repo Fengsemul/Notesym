@@ -122,6 +122,7 @@ Quadrilaterals are polygons with four sides and four interior angles.
 the oldest known saunas in Finland were made from pits dug into a slope in the ground and primarily used as dwellings in the wintertime.
 The pillars are tied internally across the nave by large joists.
 Usually there were two, but occasionally three pillars on each longitudinal wall.
+For many years, mortise and tenon joints have been used by woodworkers in adjoining pieces of wood.
 
 https://www.meaningcloud.com/demos/text-analytics-demo: Global sentiment
 This text is Positive with a confidence of 86 percent. The polarities detected in it are in disagreement. The text is subjective and without irony.
@@ -167,6 +168,7 @@ A third pair of such boards exists in between the other two pairs, but it does n
 A train passes Berkhamsted castle, on an embankment that was once part of the castle's outer defences.
 -0.0516
 
+https://paperswithcode.com/sota/text-classification-on-emotion
 https://www.textrics.ai/admin/newtexttest:
 "The keys are on the surface of the table." Neu. 92% Mar. 86% non-p. 93% Sad 34%
 "Usually there were two" CARDINAL ", but occasionally three" CARDINAL " pillars on each longitudinal wall. Neu. 90% News 75% Non-P. 88% Happy 37%
