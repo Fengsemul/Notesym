@@ -141,7 +141,7 @@ and three storey house-from buildings which include some ground floor retail.
 North of Dundas Street East are a car dealership, a six-storey residential building,
 and a City works yard. Further north are a mixture of mid-rise and high-rise
 residential building." Po. 51% No. 98% Fa. 100% Ra. 100%
-"The above outline map represents Northern Ireland, a constitutionally distinct region of the United Kingdom, located in the northeastern part of the island of Ireland." Ne. 51% No. 99% Fa. 100%
+"The above outline map represents Northern Ireland, a constitutionally distinct region of the United Kingdom, located in the northeastern part of the island of Ireland." Ne. 51% No. 99% Fa. 100% speakai 0.4215
 "Acanthite is the low-temperature modification of silver sulphide." Po. 51% No. 97% Fa. 100%
 "The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself." Ne. 51% No. 99% Fa. 100%
 "The data were made available to a local watershed association, the Maine Department of Environmental Protection, and the public." Ne. 50% No. 96% Fa. 100%
@@ -397,6 +397,7 @@ rewritten:"The ground is covered with snow." Po. 50% No. 98% Fa. 99%
 "The pillars are tied internally across the nave by large joists." Po. 67% No. 99% Fa. 100%
 "Usually there were two, but occasionally three pillars on each longitudinal wall." Po. 67% No. 99% Fa. 100%
 "The largest preserved block-pillar church is at Tornio (1686)." Po. 70% No. 99% Fa. 99%
+"Most long chisels were socket-fitted to their handles while shorter ones were forged with a tang that extended deep into the handle." Po. 68% No. 99% Fa. 99%
 "The sizes of the furniture depend on the size of the room." Po. 63% No. 99% Fa. 99% - https://architectureideas.info/2019/04/good-furniture-placement-an-architect-explains/
 "For many years, mortise and tenon joints have been used by woodworkers in adjoining pieces of wood." Po. 68% No. 99% Fa. 100%
 textrics.ai: "For many years DATE , Mortise ORG and Tenon ORG joints have been used by Woodworkers ORG in adjoining pieces of wood." Neu. 87% Opi. 77% Non-P. 93% Sad 39% speakai.co 0
