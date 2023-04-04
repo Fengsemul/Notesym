@@ -183,3 +183,5 @@ https://www.textrics.ai/admin/newtexttest:
 "The wasp is contained in the house." 84% Neu. Opi. 76% Non-P. 88% 41% Sad
 "A third" ORDINAL" pair of such boards exists in between the other two" CARDINAL" pairs, but it does not correspond to any supportive member beneath the bridge." Neu. 51% Opi. 100% Non-P. 100% Sad 47% Speakai 0.4215
 "Although the bridge had two" CARDINAL" spans, the Truss" PERSON" was a single element, running continuously across the central Pier." Neu. 50% Opi. 68% Non-P. 99% Hap. 40%
+
+A constitutionally distinct region of the United Kingdom. Po. 81% No. 89% Fa. 0% Emo. 88% Self. 99% speakai 0.4215
