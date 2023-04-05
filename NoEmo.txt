@@ -70,7 +70,9 @@ Further south in Germany lie rounded hills and the mountains of the Hunsruck upl
 The sauna is also a traditional building type in Finland: the oldest known saunas in Finland were made from pits dug into a slope in the ground and primarily used as dwellings in the wintertime.
 The pillars are tied internally across the nave by large joists.
 Usually there were two, but occasionally three pillars on each longitudinal wall.
+From its base, the crane rises up with the tower, also called the mast, which consists of lattice sections stacked on top of one another.
 
+before single:
 The piers divide the facade into five bays 
 on the west and seven on the north;
 ;over 
@@ -123,6 +125,8 @@ the oldest known saunas in Finland were made from pits dug into a slope in the g
 The pillars are tied internally across the nave by large joists.
 Usually there were two, but occasionally three pillars on each longitudinal wall.
 For many years, mortise and tenon joints have been used by woodworkers in adjoining pieces of wood.
+From its base, the crane rises up with the tower, also called the mast, which consists of lattice sections stacked on top of one another.
+
 
 https://www.meaningcloud.com/demos/text-analytics-demo: Global sentiment
 This text is Positive with a confidence of 86 percent. The polarities detected in it are in disagreement. The text is subjective and without irony.
