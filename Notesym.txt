@@ -400,6 +400,7 @@ rewritten:"The ground is covered with snow." Po. 50% No. 98% Fa. 99%
 "Usually there were two, but occasionally three pillars on each longitudinal wall." Po. 67% No. 99% Fa. 100%
 "The largest preserved block-pillar church is at Tornio (1686)." Po. 70% No. 99% Fa. 99%
 "Most long chisels were socket-fitted to their handles while shorter ones were forged with a tang that extended deep into the handle." Po. 68% No. 99% Fa. 99%
+"A tower crane always sits on a concrete foundation, where anchors are placed to secure the crane to the ground." Po. 91% No. 99% Fa. 99%
 "The sizes of the furniture depend on the size of the room." Po. 63% No. 99% Fa. 99% - https://architectureideas.info/2019/04/good-furniture-placement-an-architect-explains/
 "For many years, mortise and tenon joints have been used by woodworkers in adjoining pieces of wood." Po. 68% No. 99% Fa. 100%
 textrics.ai: "For many years DATE , Mortise ORG and Tenon ORG joints have been used by Woodworkers ORG in adjoining pieces of wood." Neu. 87% Opi. 77% Non-P. 93% Sad 39% speakai.co 0
