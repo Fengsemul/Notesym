@@ -71,6 +71,7 @@ The sauna is also a traditional building type in Finland: the oldest known sauna
 The pillars are tied internally across the nave by large joists.
 Usually there were two, but occasionally three pillars on each longitudinal wall.
 From its base, the crane rises up with the tower, also called the mast, which consists of lattice sections stacked on top of one another.
+Rising above the cab is the tower peak, also known as the apex, where the pendants extend out to support the jib and counter jib.
 
 before single:
 The piers divide the facade into five bays 
@@ -126,7 +127,7 @@ The pillars are tied internally across the nave by large joists.
 Usually there were two, but occasionally three pillars on each longitudinal wall.
 For many years, mortise and tenon joints have been used by woodworkers in adjoining pieces of wood.
 From its base, the crane rises up with the tower, also called the mast, which consists of lattice sections stacked on top of one another.
-
+Rising above the cab is the tower peak, also known as the apex, where the pendants extend out to support the jib and counter jib.
 
 https://www.meaningcloud.com/demos/text-analytics-demo: Global sentiment
 This text is Positive with a confidence of 86 percent. The polarities detected in it are in disagreement. The text is subjective and without irony.
