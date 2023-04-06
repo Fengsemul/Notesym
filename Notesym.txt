@@ -229,7 +229,15 @@ rewritten Ulud...:"At about 30 feet long, Uludfwersfghbegsaurus was far larger t
 "A wolf threatened." Ne. 52% No. 96% fa. 0% Self. 100% Emo. 0%
 "Although most of us frequently see cranes, many people don’t know exactly how cranes work." Po. 63% No. 27% Fa. 96%
 "Remember that there are many varieties of tower cranes, and some will have parts that are not mentioned here." Ne. 77% No. 97% Fa. 0% Ra. 100% Act. 78%
+"Because of their enormous power, construction cranes move massive amounts of weight — thousands of pounds — with the simplicity of a joystick." Po. 98% No. 50% Fa. 100% Ra. 100%
+"Now that we’ve covered the types of commercial construction, let’s explore the process for bidding on a contact." Po. 77% No. 50% Fa. 0% Self. 86% Ra. 96% Act. 81%
+"They can be easily dressed and take a very fine polish." Po. 99% No. 97% Fa. 0% Ra. 100%
 odds:^
+
+odds detecting:V
+"Projects are shorter in length and need less equipment and crew members." Ne. 89% Sa. 96% Fa. 99%
+rewritten:"Granites changing into gneisses generally contain the same minerals." Po. 74% Dis. 67% Fa. 99% self. 0% Ra. 100% act. 0% Inf. 0%
+odds detecting:^
 
 
 Po./Ne. 50%:V
@@ -432,6 +440,8 @@ https://en.wikipedia.org/wiki/Glossary_of_geography_terms alluvial plain "A wide
 
 Po./Ne. 50%
 "The data are the original survey data in Stata, to be used with the questionnaire. The survey was funded by the National Science Foundation (Grant # 9906346)." Ne. 50% Su. 93% Fa. 100% Ra. 100%
+
+Po./Ne. 51%: "Functions that originate in the cerebral cortex include:" Ne. 51% No. 91% Fa. 99%
 
 Symnote word notes:
 https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000 English Oxford 3000 All
