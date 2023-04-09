@@ -258,6 +258,7 @@ Po./Ne. 51%:^
 diff:V
 "Ask pointed questions to uncover what led them to your offering, such as:" Po. 60% Ac. 97% In. 97% Fa. 0% Se. 0% No. 91% Ra. 100%
 "Explicitly setting the token text allows Token.getText() to be called at any time regardless of the input stream implementation." Po. 66% Ac. 0%In. 0% Fa. 99% Se. 0% An. 98% Ra. 100%
+"For international mail, the country name should be written in capitals on the bottom line." Ne. 99% Joy 69% Fa. 96% Ra. 100%
 diff:^
 
 errors by architeture ob.:V
