@@ -3,6 +3,10 @@ highest G2-score easy accessable emotion/intent/sentiment-AI-tool https://www.g2
 
 Conventional AI-Ranking-List: https://www.featuredcustomers.com/software/conversational-ai
 
+https://arxiv.org/ftp/arxiv/papers/2207/2207.10654.pdf
+Precision: (TP / TP + FP) + (Recall: TP / TP + FN)
+F1-Score: 2* ^/ Precision*Recall
+
 https://web.archive.org/web/20210309180228/https://www.forces.org/Scientific_Portal/category.php?section=34
 Material Science
 
