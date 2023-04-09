@@ -173,6 +173,31 @@ A third pair of such boards exists in between the other two pairs, but it does n
 A train passes Berkhamsted castle, on an embankment that was once part of the castle's outer defences.
 -0.0516
 
+https://try.expert.ai/document-classification/iptc/results
+id
+label
+path
+frequency
+20000235
+Construction and property
+Economy, business and finance/Economic sector/Construction and property
+8.47%
+20000677
+Islam
+Religion and belief/Belief systems/Islam
+7.61%
+20000698
+Church
+Religion and belief/Religious facilities/Church
+5.38%
+20000032
+Architecture
+Arts, culture, entertainment and media/Arts and entertainment/Visual arts/Architecture
+4.4%
+20000699
+Mosque
+Religion and belief/Religious facilities/Mosque
+
 https://paperswithcode.com/sota/text-classification-on-emotion
 https://www.textrics.ai/admin/newtexttest:
 "The keys are on the surface of the table." Neu. 92% Mar. 86% non-p. 93% Sad 34%
