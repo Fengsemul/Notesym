@@ -119,3 +119,4 @@ WU: https://caod.oriprobe.com/issues/2050085/toc.htm
 
 
 direct:https://www.respondent.io/customers/allstate through https://www.featuredcustomers.com/vendor/respondent/case-studies#
+https://arxiv.org/pdf/2011.09825.pdf
