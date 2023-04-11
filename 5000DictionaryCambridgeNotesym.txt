@@ -1,0 +1,2 @@
+Word,PositiveToNegative,NoEmotion,FactOriented,Anger,Fear,Sadness,Surprise,Disgust,Joy,Rati,Emo,Self,Action,Info
+activation,75%,0,98%,92%,0,0,0,0,0,100%,
