@@ -232,6 +232,7 @@ rewritten Ulud...:"At about 30 feet long, Uludfwersfghbegsaurus was far larger t
 "Because of their enormous power, construction cranes move massive amounts of weight — thousands of pounds — with the simplicity of a joystick." Po. 98% No. 50% Fa. 100% Ra. 100%
 "Now that we’ve covered the types of commercial construction, let’s explore the process for bidding on a contact." Po. 77% No. 50% Fa. 0% Self. 86% Ra. 96% Act. 81%
 "They can be easily dressed and take a very fine polish." Po. 99% No. 97% Fa. 0% Ra. 100%
+"Mount Qingkou (箐口山) is the city's highest point, with an altitude of 2,889.1 meters." Sur. 30%
 odds:^
 
 odds detecting:V
@@ -248,6 +249,7 @@ were a bit high." Po. 50% No. 74% Fa. 100%
 "The state licensing board found that the practitioner violated state 
 code section 432(b):" Po 50% Sur. 91% Fa. 100%  Ra. 100%
 "Your answer of Continent was incorrect." Ne. 50%
+"Mangshi has an area of 2,900.91 km2 (1,120.05 sq mi)." Ne. 51% Sur. 66% Fa. 100% https://en.wikipedia.org/wiki/Mangshi
 Po./Ne. 51%:^
 
 100% Ne./Po.:V
