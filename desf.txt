@@ -128,6 +128,7 @@ https://academia.stackexchange.com/questions/114072/are-best-paper-awards-for-co
 Rating-compare: https://www.trustpilot.com/review/featuredcustomers.com%20https://www.trustpilot.com/review/www.g2.com%20https://www.trustpilot.com/review/trustpilot.com%20https://www.g2.com/products/g2/reviews%20https://www.g2.com/products/featured-customers/reviews%20https://www.g2.com/products/trustpilot/reviews%20https://www.featuredcustomers.com/vendor/g2-crowd%20https://www.featuredcustomers.com/vendor/trustpilot%20https://sourceforge.net/software/product/G2/%20https://www.featuredcustomers.com/vendor/trustpilot%20https://sourceforge.net/software/product/G2/%20https://sourceforge.net/software/product/Trustpilot/
 
 Sentiment: https://sol.sbc.org.br/livros/index.php/sbc/catalog/download/19/119/289-1?inline=1
+https://repositorio.ufsc.br/bitstream/handle/123456789/215591/PTIC0064-D.pdf?sequence=-1&isAllowed=y
 
 trial average Macro-F1 0.8179: http://www.360doc.com/content/21/0724/08/7673502_987961264.shtml
 Macro-F1 0.99:https://www.kaggle.com/code/meisamraz/f1-score-99-sentiment-analysis-handling-imbalance/log
