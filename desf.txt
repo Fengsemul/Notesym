@@ -127,9 +127,41 @@ https://academia.stackexchange.com/questions/114072/are-best-paper-awards-for-co
 
 Rating-compare: https://www.trustpilot.com/review/featuredcustomers.com%20https://www.trustpilot.com/review/www.g2.com%20https://www.trustpilot.com/review/trustpilot.com%20https://www.g2.com/products/g2/reviews%20https://www.g2.com/products/featured-customers/reviews%20https://www.g2.com/products/trustpilot/reviews%20https://www.featuredcustomers.com/vendor/g2-crowd%20https://www.featuredcustomers.com/vendor/trustpilot%20https://sourceforge.net/software/product/G2/%20https://www.featuredcustomers.com/vendor/trustpilot%20https://sourceforge.net/software/product/G2/%20https://sourceforge.net/software/product/Trustpilot/
 
+Different info blog:
+https://hasty.ai/docs/mp-wiki/metrics/f-beta-score
+
+Gender: CC-DTC F1 0.999 Macro-F1 CC-RFC 0,961 0.999 of F1 micro-average for
+genders and 0.923 for age groups,  0,999 no modelo CC-DTC
+http://177.105.2.185/bitstream/1/45801/2/DISSERTA%C3%87%C3%83O_Classifica%C3%A7%C3%A3o%20de%20g%C3%AAneros%20e%20faixas%20et%C3%A1rias%20em%20redes%20sociais%20online%20por%20meio%20de%20t%C3%A9cnicas%20de%20aprendizagem%20multidimensional.pdf
+
 Sentiment: https://sol.sbc.org.br/livros/index.php/sbc/catalog/download/19/119/289-1?inline=1
 https://repositorio.ufsc.br/bitstream/handle/123456789/215591/PTIC0064-D.pdf?sequence=-1&isAllowed=y
+Sem eventos 98,9 Transformada Scattering
+(AGUIAR et al., 2021) 96,88% de ,Entropia Máxima e
+Viterbi F1-score 
+Acionamento 97,4 Este trabalho LIT 97,1% (F1 Macro)
+http://comissoes.sbc.org.br/ce-pln/stil2021/proceedingsSTIL2021.pdf V
+ "[PDF] STIL 2021 XIII Brazilian Symposium in Information and Human ...
+29 Nov 2021 · ... (ii) the original form of the word in the sentence or punctuation ... f1-scores on micro, macro, and weighted evaluation, showing its ability to " page 2 search queries in eTools.ch:""F1" "pontuação" 1.000 ".00" 100 "macro""
+F1-score passa de 99% http://repositorio.uem.br:8080/jspui/bitstream/1/2547/1/000225549.pdf
+no macro ositorio.unb.br/bitstream/10482/44727/1/2022_JuellineShelciSilva.pdf
+Gradient Boosting apresentado melhor
+desempenho preditivo, com 99,45% de acerto inicial, quando verificada a acurácia, e de
+65,83% quanto ao índice F1-Score."" 98% para o índice F1-Score quando considerado o cenário de
+aplicação de 5% da Amostra Total.
+"https://repositorio.unb.br/bitstream/10482/44727/1/2022_JuellineShelciSilva.pdf
+locked: https://go.gale.com/ps/i.do?id=GALE%7CA669610298&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=22360972&p=IFME&sw=w&userGroupName=anon%7E18abf72e
+ CBOW, yielding an F1 of 0.76, On the
+other hand, we see that for MCI patients, Wang2vec with Skip-gram was the best technique, yielding an F1 of 0.74. https://aclanthology.org/W17-66.pdf 
+verdadeiro F1 0,1 córpus CSTNews ... 10 sentences ... APS+Regras... The cause of the SCORE aspect doing poorly is the small number of annotated sentences (10) in the corpus. It is noted that most of the classifiers are represented by "(1, 1)" unigrams. 
+
+/TCC_Rastro_DM_Marcus_Vinicius_Borela_de_Castro%20-%20Versão%20Publicação.pdf Documento de atesto do recebimento da obra ou serviço
+100,00% 100,00% 100,00% 1 Document Document certifying receipt of the work or service
 
 trial average Macro-F1 0.8179: http://www.360doc.com/content/21/0724/08/7673502_987961264.shtml
 Macro-F1 0.99:https://www.kaggle.com/code/meisamraz/f1-score-99-sentiment-analysis-handling-imbalance/log
+LA2 Macro-F1 1.000 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194382#sec001
+Macro-F1 90,73% Gradient Boosting 0,8684 Random Forest Gradient Boosting Classifier 0,9248 https://www.lume.ufrgs.br/bitstream/handle/10183/234492/001136148.pdf?sequence=1
+identification of skeletal site-specific fractures F1-score is 1.0 for 8 fractures  
+
 
