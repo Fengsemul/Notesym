@@ -446,6 +446,7 @@ Po./Ne. 50%
 "The data are the original survey data in Stata, to be used with the questionnaire. The survey was funded by the National Science Foundation (Grant # 9906346)." Ne. 50% Su. 93% Fa. 100% Ra. 100%
 
 Po./Ne. 51%: "Functions that originate in the cerebral cortex include:" Ne. 51% No. 91% Fa. 99%
+DE "Der Dienst unterstützt nicht nur mehrere Artefaktformate, sondern bietet auch folgende Vorteile:" Po. 51% No. 89% Fa. 100% Ra. 100%
 
 Symnote word notes:
 https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000 English Oxford 3000 All
