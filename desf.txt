@@ -164,4 +164,5 @@ LA2 Macro-F1 1.000 https://journals.plos.org/plosone/article?id=10.1371/journal.
 Macro-F1 90,73% Gradient Boosting 0,8684 Random Forest Gradient Boosting Classifier 0,9248 https://www.lume.ufrgs.br/bitstream/handle/10183/234492/001136148.pdf?sequence=1
 identification of skeletal site-specific fractures F1-score is 1.0 for 8 fractures  
 
-
+F1-score macro 0.9: https://www.kaggle.com/code/billiechristian/0-9-f1-macro-sentiment-analysis-with-indobert
+F1-score macro 0.74 acc 0.9: https://www.kaggle.com/code/xramas/cdp-eda-nlp-visualization-segments
