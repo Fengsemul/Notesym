@@ -146,7 +146,7 @@ Gender: CC-DTC F1 0.999 Macro-F1 CC-RFC 0,961 0.999 of F1 micro-average for
 genders and 0.923 for age groups,  0,999 no modelo CC-DTC
 http://177.105.2.185/bitstream/1/45801/2/DISSERTA%C3%87%C3%83O_Classifica%C3%A7%C3%A3o%20de%20g%C3%AAneros%20e%20faixas%20et%C3%A1rias%20em%20redes%20sociais%20online%20por%20meio%20de%20t%C3%A9cnicas%20de%20aprendizagem%20multidimensional.pdf
 
-Sentiment: https://sol.sbc.org.br/livros/index.php/sbc/catalog/download/19/119/289-1?inline=1
+F1-score-comparasions: https://sol.sbc.org.br/livros/index.php/sbc/catalog/download/19/119/289-1?inline=1
 https://repositorio.ufsc.br/bitstream/handle/123456789/215591/PTIC0064-D.pdf?sequence=-1&isAllowed=y
 Sem eventos 98,9 Transformada Scattering
 (AGUIAR et al., 2021) 96,88% de ,Entropia Máxima e
