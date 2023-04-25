@@ -8,7 +8,16 @@ Precision: (TP / TP + FP) + (Recall: TP / TP + FN)
 F1-Score: 2* ^/ Precision*Recall
 wrong:^
 
-https://www.tensorflow.org/addons/api_docs/python/tfa/metrics/F1Score%20micro:%20True%20positivies,%20false%20positives%20and%20false%20negatives%20are%20computed%20globally.%20macro:%20True%20positivies,%20false%20positives%20and%20false%20negatives%20are%20computed%20for%20each%20class%20and%20their%20unweighted%20mean%20is%20returned.%20weighted:%20Metrics%20are%20computed%20for%20each%20class%20and%20returns%20the%20mean%20weighted%20by%20the%20number%20of%20true%20instances%20in%20each%20class.
+https://www.tensorflow.org/addons/api_docs/python/tfa/metrics/F1Score micro: True positivies, false positives and
+    false negatives are computed globally.
+
+macro: True positivies, false positives and
+    false negatives are computed for each class
+    and their unweighted mean is returned.
+
+weighted: Metrics are computed for each class
+    and returns the mean weighted by the
+    number of true instances in each class.
 
 https://web.archive.org/web/20210309180228/https://www.forces.org/Scientific_Portal/category.php?section=34
 Material Science
