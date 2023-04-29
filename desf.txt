@@ -181,3 +181,6 @@ identification of skeletal site-specific fractures F1-score is 1.0 for 8 fractur
 F1-score macro 0.9: https://www.kaggle.com/code/billiechristian/0-9-f1-macro-sentiment-analysis-with-indobert
 F1-score macro 0.74 acc 0.9: https://www.kaggle.com/code/xramas/cdp-eda-nlp-visualization-segments
 from huggingface.com https://arxiv.org/ftp/arxiv/papers/2006/2006.03541.pdf Tweets Airline highest F1-Score
+
+BytesView:
+Semantic Similarity https://www.sciencedirect.com/science/article/pii/S2772662223000164: COCOSO has highest Spearman’s rank correlation coefficients score
