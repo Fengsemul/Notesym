@@ -139,6 +139,9 @@ https://academia.stackexchange.com/questions/114072/are-best-paper-awards-for-co
 
 Rating-compare: https://www.trustpilot.com/review/featuredcustomers.com%20https://www.trustpilot.com/review/www.g2.com%20https://www.trustpilot.com/review/trustpilot.com%20https://www.g2.com/products/g2/reviews%20https://www.g2.com/products/featured-customers/reviews%20https://www.g2.com/products/trustpilot/reviews%20https://www.featuredcustomers.com/vendor/g2-crowd%20https://www.featuredcustomers.com/vendor/trustpilot%20https://sourceforge.net/software/product/G2/%20https://www.featuredcustomers.com/vendor/trustpilot%20https://sourceforge.net/software/product/G2/%20https://sourceforge.net/software/product/Trustpilot/
 
+useful rating website:
+https://www.softwaresuggest.com/bytesview
+
 Different info blog:
 https://hasty.ai/docs/mp-wiki/metrics/f-beta-score
 
@@ -183,4 +186,6 @@ F1-score macro 0.74 acc 0.9: https://www.kaggle.com/code/xramas/cdp-eda-nlp-visu
 from huggingface.com https://arxiv.org/ftp/arxiv/papers/2006/2006.03541.pdf Tweets Airline highest F1-Score
 
 BytesView:
-Semantic Similarity https://www.sciencedirect.com/science/article/pii/S2772662223000164: COCOSO has highest Spearman’s rank correlation coefficients score
+Semantic Similarity https://www.sciencedirect.com/science/article/pii/S2772662223000164: COCOSO has highest Spearman’s rank correlation coefficients score 1. UN Sustainable Goals: https://www.mmsu.edu.ph/
+
+https://www.softwaresuggest.com/text-mining-software most stars
