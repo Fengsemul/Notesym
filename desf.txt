@@ -190,5 +190,5 @@ Semantic Similarity https://www.sciencedirect.com/science/article/pii/S277266222
 
 https://www.softwaresuggest.com/text-mining-software most stars
 
-bytesview.com Sentiment-API was removed in 13.06.2022
+bytesview.com Sentiment-API was removed in 07.06.2023
 lettria.com, rapidminer.com, no neutral https://app.monkeylearn.com/studio/workflows/wf_WCryfjU3/build/models
