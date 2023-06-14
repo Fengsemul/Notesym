@@ -189,3 +189,6 @@ BytesView:
 Semantic Similarity https://www.sciencedirect.com/science/article/pii/S2772662223000164: COCOSO has highest Spearman’s rank correlation coefficients score 1. UN Sustainable Goals: https://www.mmsu.edu.ph/
 
 https://www.softwaresuggest.com/text-mining-software most stars
+
+bytesview.com Sentiment-API was removed in 13.06.2022
+lettria.com, rapidminer.com
