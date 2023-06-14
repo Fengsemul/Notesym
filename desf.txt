@@ -191,5 +191,4 @@ Semantic Similarity https://www.sciencedirect.com/science/article/pii/S277266222
 https://www.softwaresuggest.com/text-mining-software most stars
 
 bytesview.com Sentiment-API was removed in 07.06.2023
-lettria.com, rapidminer.com, https://app.monkeylearn.com/studio/workflows/wf_WCryfjU3/build/models (Detect sentiment in texts (positive, negative or neutral), but never got neutral result "The Monte Pilar is 10 feets high." Po. 37,9%
-
+lettria.com, rapidminer.com, https://app.monkeylearn.com/studio/workflows/wf_WCryfjU3/build/models (Detect sentiment in texts (positive, negative or neutral), but never got neutral result "The Monte Pilar is 10 feets high." Po. 37,9%, speakai.co only sentiment with Po.,Neu.,Ne.
