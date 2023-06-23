@@ -22,9 +22,17 @@ and are bolted onto the lattice." Po. 89% No. 99% Fa. 100%
 on the west and seven on the north;" Po. 94% No. 99% Fa. 100%
 "the oldest known saunas in Finland were made from pits dug into a slope in the ground and primarily used as dwellings in the wintertime." Po. 65% No. 99% Fa. 100%
 
+51% No. 99% Fa. 100%:V
 
 "Finally on the west side the only protection tower is to the south, it is the Develin tower." Ne. 51% No. 99% Fa. 100%
 "The section marker is shown slightly differently to an elevation marker with a larger arrow." Po. 51% No. 99% Fa. 100%
+
+similar 51% No. 99% Fa. 100% non-sense:"The plates were on the shelfabove he cups." and "The plates were on the shelfabove he cups." Ne. 51% No. 99% Fa. 100%
+51% No. 99% Fa. 100%:V
+
+close 51% No. 99% Fa. 100%:
+"There is hard wood beneath the carpet." Ne. 52% No. 99% Fa. 99%
+close 51% No. 99% Fa. 100%::^
 
 "The main floor level is indicated by a soldier course." Po. 73% No. 99% Fa. 100%
 
