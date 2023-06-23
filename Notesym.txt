@@ -174,6 +174,7 @@ the John Donnelly Company, show bas-reliefs
 of blindfolded Justice holding scales in her left 
 hand and a sword in her right hand." Ne. 50% No. 98% Fa. 100%
 "Bias tyres have a series of casing plies running diagonally at approximate right angles to one another." Ne. 51% No. 98% Fa. 99%
+"Basements are dug below ground." Po. 70% No. 98% Fa. 99%
 Po./Ne. 45%-55% No. 97%:^
 
 
@@ -264,6 +265,10 @@ diff:V
 "Explicitly setting the token text allows Token.getText() to be called at any time regardless of the input stream implementation." Po. 66% Ac. 0%In. 0% Fa. 99% Se. 0% An. 98% Ra. 100%
 "For international mail, the country name should be written in capitals on the bottom line." Ne. 99% Joy 69% Fa. 96% Ra. 100%
 diff:^
+
+errors by prepositions:V
+"The bird flew over the house." Po. 93% No. 95% Fa. 0% Emo. 95% Self. 92%
+errors by prepositions:^
 
 errors by architeture ob.:V
 "The column-lined Great Hall is a grand and 
