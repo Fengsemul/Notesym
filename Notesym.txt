@@ -258,6 +258,8 @@ Po./Ne. 51%:^
 100% Ne./Po.:V
 "Hydrophobic thickness mismatch between integral membrane proteins and the surrounding lipid bilayer can produce lipid bilayer thickness deformations." Ne. 100% Di. 99% Fa. 100% Ra. 100%
 "These fragments were separated from two different Church Slavonic codices as the analysis of handwriting and the content has shown." Ne. 100% No. 98% Fa. 100% Ra. 100%
+"Putting too much furniture on one side of the room makes everything feel tilted and off-balance." Ne. 100% No. 79% fa. 91% Ra. 100%
+"These desks, chairs, and other items allow the Executive Mansion to serve as both the home and the office of the president." Po. 100% No. 95% Fa. 99% Ra. 100%
 100% Ne./Po.:^
 
 diff:V
