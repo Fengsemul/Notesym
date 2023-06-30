@@ -27,14 +27,17 @@ on the west and seven on the north;" Po. 94% No. 99% Fa. 100%
 "Finally on the west side the only protection tower is to the south, it is the Develin tower." Ne. 51% No. 99% Fa. 100%
 "The section marker is shown slightly differently to an elevation marker with a larger arrow." Po. 51% No. 99% Fa. 100%
 
-similar 51% No. 99% Fa. 100% non-sense:"The tables were on the tri above the plates." uclass 51/49 Ne. 50% No. 99% Fa. 100% "The plates were on the shelf above the cups." and "The plates were on the shelfabove he cups." Ne. 51% No. 99% Fa. 100% "The tables were on the lines above the plates." Ne. 51% No. 99% Fa. 100% "The lines is on the tables above the plates." Po. 51% No. 99% Fa. 100% uclass 51/49 "The tables were on the metal above the plates." Ne. 51% No. 99% Fa. 100% "The dishes were on the table below the plates." Po. 51% No. 99% Fa. 100%
+similar 51% No. 99% Fa. 100% non-sense:"The tables were on the tri above the plates." uclass 51/49 Ne. 50% No. 99% Fa. 100% "The plates were on the shelf above the cups." and "The plates were on the shelfabove he cups." Ne. 51% No. 99% Fa. 100% "The tables were on the lines above the plates." Ne. 51% No. 99% Fa. 100% "The lines is on the tables above the plates." Po. 51% No. 99% Fa. 100% uclass 51/49 "The tables were on the metal above the plates." Ne. 51% No. 99% Fa. 100% "The dishes were on the table below the plates." Po. 51% No. 99% Fa. 100% "The tables were on the stick above the racks." Ne. 51% No. 99% Fa. 100%
 
-Po./Ne. 50% "The tables were on the stick above the plates." Po. 50% No. 99% Fa. 100%
-51% No. 99% Fa. 100%:V
+Po./Ne. 50% I Po. 50% No. 99% Fa. 100%: "The tables were on the stick above the plates." "The tables were on the cups above the plates."
+Po. 50% No. 99% Fa. 100%: "The tables were on the stick above the frame."
+51% No. 99% Fa. 100%:^
 
 close 51% No. 99% Fa. 100%:
 "There is hard wood beneath the carpet." Ne. 52% No. 99% Fa. 99%
 "There are also various divergent and transform boundaries in the area shown." Ne. 52% No. 93% Fa. 99%
+
+Po. 50% No. 99% Fa. 99%: "The cups were on the lines above the frame."
 close 51% No. 99% Fa. 100%::^
 
 "The main floor level is indicated by a soldier course." Po. 73% No. 99% Fa. 100%
