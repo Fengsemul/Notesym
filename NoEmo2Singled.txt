@@ -28,7 +28,7 @@ Ne. 50% No. 99% Fa. 100% non-sense:"The tables were on the tri above the plates.
 Ne. 51% No. 99% Fa. 100% n.-s.:"The tables were on the layoutss above the plates."
 
 Ne. 51% No. 99% Fa. 100%:"Finally on the west side the only protection tower is to the south, it is the Develin tower.","The tables were on the stick above the racks.","The plates were on the shelf above the cups.","The plates were on the shelfabove he cups.","The tables were on the lines above the plates.","The tables were on the metal above the plates."
-Po. 51% No. 99% Fa. 100%:"The section marker is shown slightly differently to an elevation marker with a larger arrow.","The tables were on the sides above the plates.","The lines is on the tables above the plates.",uclass 51/49,"The dishes were on the table below the plates." 
+Po. 51% No. 99% Fa. 100%:"The section marker is shown slightly differently to an elevation marker with a larger arrow.","The tables were on the sides above the plates.","The lines is on the tables above the plates.",uclass 51/49,"The dishes were on the table below the plates.","The sections were on the stick above the frame.",
 
 Po./Ne. 50% I Po. 50% No. 99% Fa. 100%: "The tables were on the stick above the plates." "The tables were on the cups above the plates."
 Po. 50% No. 99% Fa. 100%: "The tables were on the stick above the frame."
@@ -37,6 +37,7 @@ Po. 50% No. 99% Fa. 100%: "The tables were on the stick above the frame."
 close 51% No. 99% Fa. 100%:
 "There is hard wood beneath the carpet." Ne. 52% No. 99% Fa. 99%
 "There are also various divergent and transform boundaries in the area shown." Ne. 52% No. 93% Fa. 99%
+Po. 50% No. 98% Fa. 100%: "The section marker is shown slightly differently to an sticky marker with a larger arrow."
 
 Po. 50% No. 99% Fa. 99%: "The cups were on the lines above the frame."
 close 51% No. 99% Fa. 100%::^
