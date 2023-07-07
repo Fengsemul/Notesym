@@ -1,3 +1,365 @@
+abolish
+OUR API SUPPORTS THE FOLLOWING LANGUAGES:
+
+English flagGerman flagSpanish flag
+AUTOMATIC LANGUAGE DETECTION
+en
+YOUR RESULTS
+
+SENTIMENT
+
+Negative
+Probability: 99%
+ACTION SEEKING
+
+Yes
+Probability: 68%
+INFORMATION SEEKING
+
+No
+FACT-ORIENTED
+
+No
+SELF-REVEALING
+
+No
+EMOTION
+
+Fear
+Probability: 63%
+PERSONALITY TRAIT
+
+Emotional
+Probability: 71%
+abortion
+OUR API SUPPORTS THE FOLLOWING LANGUAGES:
+
+English flagGerman flagSpanish flag
+AUTOMATIC LANGUAGE DETECTION
+en
+YOUR RESULTS
+
+SENTIMENT
+
+Positive
+Probability: 59%
+ACTION SEEKING
+
+No
+INFORMATION SEEKING
+
+No
+FACT-ORIENTED
+
+No
+SELF-REVEALING
+
+Yes
+Probability: 97%
+EMOTION
+
+Joy
+Probability: 94%
+PERSONALITY TRAIT
+
+Emotional
+Probability: 84%
+
+absence
+OUR API SUPPORTS THE FOLLOWING LANGUAGES:
+
+English flagGerman flagSpanish flag
+AUTOMATIC LANGUAGE DETECTION
+en
+YOUR RESULTS
+
+SENTIMENT
+
+Negative
+Probability: 83%
+ACTION SEEKING
+
+No
+INFORMATION SEEKING
+
+No
+FACT-ORIENTED
+
+No
+SELF-REVEALING
+
+No
+EMOTION
+
+Sadness
+Probability: 91%
+PERSONALITY TRAIT
+
+Rational
+Probability: 77%
+absent
+OUR API SUPPORTS THE FOLLOWING LANGUAGES:
+
+English flagGerman flagSpanish flag
+AUTOMATIC LANGUAGE DETECTION
+en
+YOUR RESULTS
+
+SENTIMENT
+
+Negative
+Probability: 82%
+ACTION SEEKING
+
+No
+INFORMATION SEEKING
+
+No
+FACT-ORIENTED
+
+Yes
+Probability: 77%
+SELF-REVEALING
+
+No
+EMOTION
+
+Sadness
+Probability: 89%
+PERSONALITY TRAIT
+
+Rational
+Probability: 97%
+absorb
+OUR API SUPPORTS THE FOLLOWING LANGUAGES:
+
+English flagGerman flagSpanish flag
+AUTOMATIC LANGUAGE DETECTION
+en
+YOUR RESULTS
+
+SENTIMENT
+
+Positive
+Probability: 81%
+ACTION SEEKING
+
+No
+INFORMATION SEEKING
+
+No
+FACT-ORIENTED
+
+No
+SELF-REVEALING
+
+No
+EMOTION
+
+Joy
+Probability: 40%
+PERSONALITY TRAIT
+
+Rational
+Probability: 92%
+abstract
+OUR API SUPPORTS THE FOLLOWING LANGUAGES:
+
+English flagGerman flagSpanish flag
+AUTOMATIC LANGUAGE DETECTION
+en
+YOUR RESULTS
+
+SENTIMENT
+
+Positive
+Probability: 73%
+ACTION SEEKING
+
+No
+INFORMATION SEEKING
+
+No
+FACT-ORIENTED
+
+No
+SELF-REVEALING
+
+Yes
+Probability: 54%
+EMOTION
+
+Joy
+Probability: 46%
+PERSONALITY TRAIT
+
+Emotional
+Probability: 54%
+absurd
+OUR API SUPPORTS THE FOLLOWING LANGUAGES:
+
+English flagGerman flagSpanish flag
+AUTOMATIC LANGUAGE DETECTION
+en
+YOUR RESULTS
+
+SENTIMENT
+
+Positive
+Probability: 81%
+ACTION SEEKING
+
+No
+INFORMATION SEEKING
+
+No
+FACT-ORIENTED
+
+No
+SELF-REVEALING
+
+Yes
+Probability: 100%
+EMOTION
+
+Sadness
+Probability: 53%
+PERSONALITY TRAIT
+
+Emotional
+Probability: 100%
+abundance
+OUR API SUPPORTS THE FOLLOWING LANGUAGES:
+
+English flagGerman flagSpanish flag
+AUTOMATIC LANGUAGE DETECTION
+en
+YOUR RESULTS
+
+SENTIMENT
+
+Positive
+Probability: 81%
+ACTION SEEKING
+
+No
+INFORMATION SEEKING
+
+No
+FACT-ORIENTED
+
+No
+SELF-REVEALING
+
+Yes
+Probability: 99%
+EMOTION
+
+Fear
+Probability: 58%
+PERSONALITY TRAIT
+
+Emotional
+Probability: 84%
+abuse
+OUR API SUPPORTS THE FOLLOWING LANGUAGES:
+
+English flagGerman flagSpanish flag
+AUTOMATIC LANGUAGE DETECTION
+en
+YOUR RESULTS
+
+SENTIMENT
+
+Negative
+Probability: 94%
+ACTION SEEKING
+
+No
+INFORMATION SEEKING
+
+No
+FACT-ORIENTED
+
+No
+SELF-REVEALING
+
+Yes
+Probability: 99%
+EMOTION
+
+Sadness
+Probability: 43%
+PERSONALITY TRAIT
+
+Emotional
+Probability: 97%
+academy
+OUR API SUPPORTS THE FOLLOWING LANGUAGES:
+
+English flagGerman flagSpanish flag
+AUTOMATIC LANGUAGE DETECTION
+en
+YOUR RESULTS
+
+SENTIMENT
+
+Positive
+Probability: 77%
+ACTION SEEKING
+
+No
+INFORMATION SEEKING
+
+No
+FACT-ORIENTED
+
+No
+SELF-REVEALING
+
+Yes
+Probability: 100%
+EMOTION
+
+Surprise
+Probability: 53%
+PERSONALITY TRAIT
+
+Emotional
+Probability: 99%
+accelerate
+OUR API SUPPORTS THE FOLLOWING LANGUAGES:
+
+English flagGerman flagSpanish flag
+AUTOMATIC LANGUAGE DETECTION
+en
+YOUR RESULTS
+
+SENTIMENT
+
+Negative
+Probability: 73%
+ACTION SEEKING
+
+No
+INFORMATION SEEKING
+
+No
+FACT-ORIENTED
+
+No
+SELF-REVEALING
+
+Yes
+Probability: 88%
+EMOTION
+
+Sadness
+Probability: 41%
+PERSONALITY TRAIT
+
+Emotional
+Probability: 81%
 
 accent 
 
