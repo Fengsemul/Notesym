@@ -1,19 +1,11 @@
 abolish
-OUR API SUPPORTS THE FOLLOWING LANGUAGES:
-
-English flagGerman flagSpanish flag
-AUTOMATIC LANGUAGE DETECTION
-en
-YOUR RESULTS
 
 SENTIMENT
 
-Negative
-Probability: 99%
+Negative: 99%
 ACTION SEEKING
 
-Yes
-Probability: 68%
+Yes: 68%
 INFORMATION SEEKING
 
 No
@@ -25,24 +17,15 @@ SELF-REVEALING
 No
 EMOTION
 
-Fear
-Probability: 63%
+Fear: 63%
 PERSONALITY TRAIT
 
-Emotional
-Probability: 71%
+Emotional: 71%
 abortion
-OUR API SUPPORTS THE FOLLOWING LANGUAGES:
-
-English flagGerman flagSpanish flag
-AUTOMATIC LANGUAGE DETECTION
-en
-YOUR RESULTS
 
 SENTIMENT
 
-Positive
-Probability: 59%
+Positive: 59%
 ACTION SEEKING
 
 No
@@ -54,29 +37,19 @@ FACT-ORIENTED
 No
 SELF-REVEALING
 
-Yes
-Probability: 97%
+Yes: 97%
 EMOTION
 
-Joy
-Probability: 94%
+Joy: 94%
 PERSONALITY TRAIT
 
-Emotional
-Probability: 84%
+Emotional: 84%
 
 absence
-OUR API SUPPORTS THE FOLLOWING LANGUAGES:
-
-English flagGerman flagSpanish flag
-AUTOMATIC LANGUAGE DETECTION
-en
-YOUR RESULTS
 
 SENTIMENT
 
-Negative
-Probability: 83%
+Negative: 83%
 ACTION SEEKING
 
 No
@@ -91,24 +64,15 @@ SELF-REVEALING
 No
 EMOTION
 
-Sadness
-Probability: 91%
+Sadness: 91%
 PERSONALITY TRAIT
 
-Rational
-Probability: 77%
+Rational: 77%
 absent
-OUR API SUPPORTS THE FOLLOWING LANGUAGES:
-
-English flagGerman flagSpanish flag
-AUTOMATIC LANGUAGE DETECTION
-en
-YOUR RESULTS
 
 SENTIMENT
 
-Negative
-Probability: 82%
+Negative: 82%
 ACTION SEEKING
 
 No
@@ -117,31 +81,21 @@ INFORMATION SEEKING
 No
 FACT-ORIENTED
 
-Yes
-Probability: 77%
+Yes: 77%
 SELF-REVEALING
 
 No
 EMOTION
 
-Sadness
-Probability: 89%
+Sadness: 89%
 PERSONALITY TRAIT
 
-Rational
-Probability: 97%
+Rational: 97%
 absorb
-OUR API SUPPORTS THE FOLLOWING LANGUAGES:
-
-English flagGerman flagSpanish flag
-AUTOMATIC LANGUAGE DETECTION
-en
-YOUR RESULTS
 
 SENTIMENT
 
-Positive
-Probability: 81%
+Positive: 81%
 ACTION SEEKING
 
 No
@@ -156,24 +110,15 @@ SELF-REVEALING
 No
 EMOTION
 
-Joy
-Probability: 40%
+Joy: 40%
 PERSONALITY TRAIT
 
-Rational
-Probability: 92%
+Rational: 92%
 abstract
-OUR API SUPPORTS THE FOLLOWING LANGUAGES:
-
-English flagGerman flagSpanish flag
-AUTOMATIC LANGUAGE DETECTION
-en
-YOUR RESULTS
 
 SENTIMENT
 
-Positive
-Probability: 73%
+Positive: 73%
 ACTION SEEKING
 
 No
@@ -185,28 +130,18 @@ FACT-ORIENTED
 No
 SELF-REVEALING
 
-Yes
-Probability: 54%
+Yes: 54%
 EMOTION
 
-Joy
-Probability: 46%
+Joy: 46%
 PERSONALITY TRAIT
 
-Emotional
-Probability: 54%
+Emotional: 54%
 absurd
-OUR API SUPPORTS THE FOLLOWING LANGUAGES:
-
-English flagGerman flagSpanish flag
-AUTOMATIC LANGUAGE DETECTION
-en
-YOUR RESULTS
 
 SENTIMENT
 
-Positive
-Probability: 81%
+Positive: 81%
 ACTION SEEKING
 
 No
@@ -218,28 +153,18 @@ FACT-ORIENTED
 No
 SELF-REVEALING
 
-Yes
-Probability: 100%
+Yes: 100%
 EMOTION
 
-Sadness
-Probability: 53%
+Sadness: 53%
 PERSONALITY TRAIT
 
-Emotional
-Probability: 100%
+Emotional: 100%
 abundance
-OUR API SUPPORTS THE FOLLOWING LANGUAGES:
-
-English flagGerman flagSpanish flag
-AUTOMATIC LANGUAGE DETECTION
-en
-YOUR RESULTS
 
 SENTIMENT
 
-Positive
-Probability: 81%
+Positive: 81%
 ACTION SEEKING
 
 No
@@ -251,28 +176,18 @@ FACT-ORIENTED
 No
 SELF-REVEALING
 
-Yes
-Probability: 99%
+Yes: 99%
 EMOTION
 
-Fear
-Probability: 58%
+Fear: 58%
 PERSONALITY TRAIT
 
-Emotional
-Probability: 84%
+Emotional: 84%
 abuse
-OUR API SUPPORTS THE FOLLOWING LANGUAGES:
-
-English flagGerman flagSpanish flag
-AUTOMATIC LANGUAGE DETECTION
-en
-YOUR RESULTS
 
 SENTIMENT
 
-Negative
-Probability: 94%
+Negative: 94%
 ACTION SEEKING
 
 No
@@ -284,28 +199,18 @@ FACT-ORIENTED
 No
 SELF-REVEALING
 
-Yes
-Probability: 99%
+Yes: 99%
 EMOTION
 
-Sadness
-Probability: 43%
+Sadness: 43%
 PERSONALITY TRAIT
 
-Emotional
-Probability: 97%
+Emotional: 97%
 academy
-OUR API SUPPORTS THE FOLLOWING LANGUAGES:
-
-English flagGerman flagSpanish flag
-AUTOMATIC LANGUAGE DETECTION
-en
-YOUR RESULTS
 
 SENTIMENT
 
-Positive
-Probability: 77%
+Positive: 77%
 ACTION SEEKING
 
 No
@@ -317,28 +222,18 @@ FACT-ORIENTED
 No
 SELF-REVEALING
 
-Yes
-Probability: 100%
+Yes: 100%
 EMOTION
 
-Surprise
-Probability: 53%
+Surprise: 53%
 PERSONALITY TRAIT
 
-Emotional
-Probability: 99%
+Emotional: 99%
 accelerate
-OUR API SUPPORTS THE FOLLOWING LANGUAGES:
-
-English flagGerman flagSpanish flag
-AUTOMATIC LANGUAGE DETECTION
-en
-YOUR RESULTS
 
 SENTIMENT
 
-Negative
-Probability: 73%
+Negative: 73%
 ACTION SEEKING
 
 No
@@ -350,16 +245,13 @@ FACT-ORIENTED
 No
 SELF-REVEALING
 
-Yes
-Probability: 88%
+Yes: 88%
 EMOTION
 
-Sadness
-Probability: 41%
+Sadness: 41%
 PERSONALITY TRAIT
 
-Emotional
-Probability: 81%
+Emotional: 81%
 
 accent 
 
