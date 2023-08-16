@@ -244,6 +244,8 @@ odds detecting:V
 "Projects are shorter in length and need less equipment and crew members." Ne. 89% Sa. 96% Fa. 99%
 rewritten:"Granites changing into gneisses generally contain the same minerals." Po. 74% Dis. 67% Fa. 99% self. 0% Ra. 100% Act. 0% Inf. 0%
 "The tables were stationary." Ne. 51% No. 98% Fa. 0% Self. 99% Emo. 90% Act. 0% Inf. 0%
+"As a movement that reigned in the 1920s, Art Deco was defined by exuberance and luxury, and its glamorous aspects have made it a popular wedding theme." Po. 96% No. 57% Fa. 96% Self. 0% Ra. 99% Act. 0% Inf. 0%
+"Add sparkling accents to tabletops, mantles, and other decorative areas of the ceremony." Po. 97% No. 95% Fa. 0% Self. 0% Ra. 0% Act. 96% Inf. 0%
 odds detecting:^
 
 
