@@ -246,9 +246,12 @@ rewritten:"Granites changing into gneisses generally contain the same minerals."
 "The tables were stationary." Ne. 51% No. 98% Fa. 0% Self. 99% Emo. 90% Act. 0% Inf. 0%
 "As a movement that reigned in the 1920s, Art Deco was defined by exuberance and luxury, and its glamorous aspects have made it a popular wedding theme." Po. 96% No. 57% Fa. 96% Self. 0% Ra. 99% Act. 0% Inf. 0%
 "Add sparkling accents to tabletops, mantles, and other decorative areas of the ceremony." Po. 97% No. 95% Fa. 0% Self. 0% Ra. 0% Act. 96% Inf. 0%
+"This distinguishes the halberd from other weapons such as the battle axe, the billhook and the Kriegsgertel, a hooked blade with a spiked beak on the back." Po. 100% No. 98% Fa. 99% Self. 0% Ra. 100% Act. 0% Inf. 0%
 odds detecting:^
+
 less odd:V
 "Fear of confronting people she has known for a long time." Po. 58% Fe. 100% Fa. 0% Self. 100% Emo. 97% Act. 0% Inf. 0%
+"This passage in the Chronicle of Johannes von Winterthur is the first written account describing the iconic weapon in the hands of the ‘Old Confederates’, and its use: the halberd." Po. 100% No. 94% Fa. 99% Self. 0% Ra. 100% Act. 0% Inf. 0%
 less odd:^
 
 
