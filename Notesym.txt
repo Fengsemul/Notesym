@@ -238,6 +238,7 @@ rewritten Ulud...:"At about 30 feet long, Uludfwersfghbegsaurus was far larger t
 "They can be easily dressed and take a very fine polish." Po. 99% No. 97% Fa. 0% Ra. 100%
 "Mount Qingkou (箐口山) is the city's highest point, with an altitude of 2,889.1 meters." Sur. 30%
 "Has academically and socially proven that the corners of the compass are as extremist as society can get." Joy 27%
+
 odds:^
 
 odds detecting:V
@@ -249,6 +250,9 @@ rewritten:"Granites changing into gneisses generally contain the same minerals."
 "This distinguishes the halberd from other weapons such as the battle axe, the billhook and the Kriegsgertel, a hooked blade with a spiked beak on the back." Po. 100% No. 98% Fa. 99% Self. 0% Ra. 100% Act. 0% Inf. 0%
 "reload or tensional prestress allows cables to always be in tension, to maintain structural integrity." Po. 51% An. 95% Fa. 99% Self. 0% Ra. 100% Act. 0% Inf. 0%
 "Each end is connected to three cables (red), which provide tension and precisely define the position of that end in the same way as the three cables in the Skylon define the bottom end of its tapered pillar." Po. 99% No. 98% Fa. 100% Self. 0% Ra. 100% Act. 05 Inf. 0%
+"Six cables, three at each end, hold the tower in position." Po. 98% No. 98% Fa. 100% Self. 0% Ra. 100% Act. 0% Inf. 0%
+"The triangular elements of the dome are structurally rigid and distribute the structural stress throughout the structure, making geodesic domes able to withstand very heavy loads for their size." Po. 100% No. 95% Fa. 100% Self. 0% Ra. 100% Act. 0% Inf. 0%
+
 odds detecting:^
 
 less odd:V
