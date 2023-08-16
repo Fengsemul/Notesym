@@ -242,8 +242,10 @@ odds:^
 
 odds detecting:V
 "Projects are shorter in length and need less equipment and crew members." Ne. 89% Sa. 96% Fa. 99%
-rewritten:"Granites changing into gneisses generally contain the same minerals." Po. 74% Dis. 67% Fa. 99% self. 0% Ra. 100% act. 0% Inf. 0%
+rewritten:"Granites changing into gneisses generally contain the same minerals." Po. 74% Dis. 67% Fa. 99% self. 0% Ra. 100% Act. 0% Inf. 0%
+"The tables were stationary." Ne. 51% No. 98% Fa. 0% Self. 99% Emo. 90% Act. 0% Inf. 0%
 odds detecting:^
+
 
 
 Po./Ne. 50%:V
