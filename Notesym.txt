@@ -248,6 +248,7 @@ rewritten:"Granites changing into gneisses generally contain the same minerals."
 "Add sparkling accents to tabletops, mantles, and other decorative areas of the ceremony." Po. 97% No. 95% Fa. 0% Self. 0% Ra. 0% Act. 96% Inf. 0%
 "This distinguishes the halberd from other weapons such as the battle axe, the billhook and the Kriegsgertel, a hooked blade with a spiked beak on the back." Po. 100% No. 98% Fa. 99% Self. 0% Ra. 100% Act. 0% Inf. 0%
 "reload or tensional prestress allows cables to always be in tension, to maintain structural integrity." Po. 51% An. 95% Fa. 99% Self. 0% Ra. 100% Act. 0% Inf. 0%
+"Each end is connected to three cables (red), which provide tension and precisely define the position of that end in the same way as the three cables in the Skylon define the bottom end of its tapered pillar." Po. 99% No. 98% Fa. 100% Self. 0% Ra. 100% Act. 05 Inf. 0%
 odds detecting:^
 
 less odd:V
