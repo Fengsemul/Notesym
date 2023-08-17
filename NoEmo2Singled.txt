@@ -28,7 +28,7 @@ Ne. 50% No. 99% Fa. 100% non-sense:"The tables were on the tri above the plates.
 Ne. 51% No. 99% Fa. 100% n.-s.:"The tables were on the layoutss above the plates."
 
 Ne. 51% No. 99% Fa. 100%:"Finally on the west side the only protection tower is to the south, it is the Develin tower.","The tables were on the stick above the racks.","The plates were on the shelf above the cups.","The plates were on the shelfabove he cups.","The tables were on the lines above the plates.","The tables were on the metal above the plates."
-Po. 51% No. 99% Fa. 100%:"The section marker is shown slightly differently to an elevation marker with a larger arrow.","The tables were on the sides above the plates.","The lines is on the tables above the plates.",uclass 51/49,"The dishes were on the table below the plates.","The sections were on the stick above the frame.",
+Po. 51% No. 99% Fa. 100%:"The section marker is shown slightly differently to an elevation marker with a larger arrow.","The tables were on the sides above the plates.","The lines is on the tables above the plates.",uclass 51/49,"The dishes were on the table below the plates.","The sections were on the stick above the frame.","The assembly of the first level was reached the use of temporary wooden scaffold."
 
 Po./Ne. 50% I Po. 50% No. 99% Fa. 100%: "The tables were on the stick above the plates." "The tables were on the cups above the plates.","The tower was assembled using the wooden scaffolding and their small steam cranes mounted onto the tower itself.",
 Ne. 50% No. 99% Fa. 100%: "The tables were on the stick above the frame.","Their tower was assembled using their wooden scaffolding and small steam cranes mounted onto their tower itself.",
