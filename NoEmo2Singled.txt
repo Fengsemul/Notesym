@@ -41,6 +41,11 @@ close 51% No. 99% Fa. 100%:
 "There are also various divergent and transform boundaries in the area shown." Ne. 52% No. 93% Fa. 99%
 Po. 50% No. 98% Fa. 100%: "The section marker is shown slightly differently to an sticky marker with a larger arrow."
 
+No. 98%:
+"It was rebuilt at the top of the Penge next to the Sydenham Hill, the suburb of the large villas." Ne. 50% No. 98% Ra. 100%
+"It was rebuilt at the top of Penge  next to Sydenham Hill, an suburb of large villas." also with "it" Po. 50% No. 98% Ra. 100%
+No. 98%:^
+
 Po. 50% No. 99% Fa. 99%: "The cups were on the lines above the frame."
 close 51% No. 99% Fa. 100%::^
 
