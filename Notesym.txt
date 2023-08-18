@@ -255,7 +255,10 @@ rewritten:"Granites changing into gneisses generally contain the same minerals."
 "The assembly on the first level was tainted by the use of temporary wooden scaffold." Ne. 100% No. 99% Fa. 99% Self. 0% Ra. 100% Act. 0% Inf. 0%
 "The assembly was stabbed under the cups above the plates on the wrong side." Ne. 99% No. 99% Fa. 100% Self. 0% Ra. 100% Act. 0% Inf. 0%
 odds detecting:^
-
+odd switch:V
+"The cup was rebuilt at the top of Penge next to Sydenham Hill, an suburb of large villas." Po. 52% No. 98% Fa. 100% Self. 0% Ra. 100% Act. 0% Inf. 0%
+"The cups was rebuilt at the top of Penge next to Sydenham Hill, an suburb of large villas." Ne. 52% No. 98% Fa. 100% Self. 0% Ra. 100% Act. 0% Inf. 0%
+odd switch:^
 less odd:V
 "Fear of confronting people she has known for a long time." Po. 58% Fe. 100% Fa. 0% Self. 100% Emo. 97% Act. 0% Inf. 0%
 "This passage in the Chronicle of Johannes von Winterthur is the first written account describing the iconic weapon in the hands of the ‘Old Confederates’, and its use: the halberd." Po. 100% No. 94% Fa. 99% Self. 0% Ra. 100% Act. 0% Inf. 0%
