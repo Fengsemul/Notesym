@@ -265,6 +265,11 @@ Positive Fa. No. odds:V
 "The main exhibition space was two stories high, with the upper floor stepped in from the boundary." Po. 99% No. 99% Fa. 100%
 
 Positive Fa. No. odds:^
+Negative Fa. No. odds:V
+
+"The transcript was reduced and shagged with barrel roofs."
+
+Negative Fa. No. odds:^
 less odd:V
 "Fear of confronting people she has known for a long time." Po. 58% Fe. 100% Fa. 0% Self. 100% Emo. 97% Act. 0% Inf. 0%
 "This passage in the Chronicle of Johannes von Winterthur is the first written account describing the iconic weapon in the hands of the ‘Old Confederates’, and its use: the halberd." Po. 100% No. 94% Fa. 99% Self. 0% Ra. 100% Act. 0% Inf. 0%
