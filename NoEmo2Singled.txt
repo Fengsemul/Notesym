@@ -51,8 +51,9 @@ Po. 50% No. 98% Fa. 100%: "The section marker is shown slightly differently to a
 
 Po. 50% No. 99% Fa. 99%: "The bowls were on the saucers above the chopstick." also with s. 
 No. 98%:
-"It was rebuilt at the top of the Penge next to the Sydenham Hill, the suburb of the large villas." Ne. 50% No. 98% Ra. 100%
-"It was rebuilt at the top of Penge  next to Sydenham Hill, an suburb of large villas." also with "it" Po. 50% No. 98% Ra. 100%
+"It was rebuilt at the top of the Penge next to the Sydenham Hill, the suburb of the large villas." Ne. 50% No. 98% Fa. 100% Ra. 100%
+"It was rebuilt at the top of Penge  next to Sydenham Hill, an suburb of large villas." also with "it" Po. 50% No. 98% Fa. 100% Ra. 100%
+"The treadwheel was assembled using the vertical cities and the small steam load mounting into the tower." Ne. 50% No. 98% Fa. 100% Ra. 100%
 No. 98%:^
 
 Po. 50% No. 99% Fa. 99%: "The cups were on the lines above the frame."
