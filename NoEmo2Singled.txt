@@ -47,12 +47,12 @@ Long combined Po. 50% No. 99% Fa. 100%:"The tables were on the stick above the f
 close 51% No. 99% Fa. 100%:
 "There is hard wood beneath the carpet." Ne. 52% No. 99% Fa. 99%
 "There are also various divergent and transform boundaries in the area shown." Ne. 52% No. 93% Fa. 99%
-Po. 50% No. 98% Fa. 100%: "The section marker is shown slightly differently to an sticky marker with a larger arrow."
-
 Po. 50% No. 99% Fa. 99%: "The bowls were on the saucers above the chopstick." also with s. 
 No. 98%:
-"It was rebuilt at the top of the Penge next to the Sydenham Hill, the suburb of the large villas." Ne. 50% No. 98% Fa. 100% Ra. 100%
+Po. 50% No. 98% Fa. 100%: "The section marker is shown slightly differently to an sticky marker with a larger arrow."
 "It was rebuilt at the top of Penge  next to Sydenham Hill, an suburb of large villas." also with "it" Po. 50% No. 98% Fa. 100% Ra. 100%
+
+"It was rebuilt at the top of the Penge next to the Sydenham Hill, the suburb of the large villas." Ne. 50% No. 98% Fa. 100% Ra. 100%
 "The treadwheel was assembled using the vertical cities and the small steam load mounting into the tower." Ne. 50% No. 98% Fa. 100% Ra. 100%
 No. 98%:^
 
