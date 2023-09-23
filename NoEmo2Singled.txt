@@ -52,8 +52,11 @@ No. 98%:
 Po. 50% No. 98% Fa. 100%: "The section marker is shown slightly differently to an sticky marker with a larger arrow."
 "It was rebuilt at the top of Penge  next to Sydenham Hill, an suburb of large villas." also with "it" Po. 50% No. 98% Fa. 100% Ra. 100%
 
+Ne. 50% No. 98% Fa. 100% Ra. 100%:V
 "It was rebuilt at the top of the Penge next to the Sydenham Hill, the suburb of the large villas." Ne. 50% No. 98% Fa. 100% Ra. 100%
 "The treadwheel was assembled using the vertical cities and the small steam load mounting into the tower." Ne. 50% No. 98% Fa. 100% Ra. 100%
+"The sections are shown slightly differently to the sticky markers with the markers."
+ Ne. 50% No. 98% Fa. 100% Ra. 100%:^
 No. 98%:^
 
 Po. 50% No. 99% Fa. 99%: "The cups were on the lines above the frame."
