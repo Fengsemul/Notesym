@@ -264,6 +264,8 @@ odd switch:V
 "The cups was rebuilt at the top of Penge next to Sydenham Hill, an suburb of large villas." Ne. 52% No. 98% Fa. 100% Self. 0% Ra. 100% Act. 0% Inf. 0%
 "The towers was assembled using metal scaffolding and the small steam cranes mounted onto the showers." Po. 52%
 "The towers were assembled using metal scaffolding and the small steam cranes mounted onto the showers." also with "shower." same. Ne. 52%
+"Their markers is shown to the office to a elevation marker above the arrow." Po. 54% No. 99% Fa. 100%
+"Their markers are shown to the office to a elevation marker above the arrow." Ne. 54% No. 99% Fa. 100%
 odd switch:^
 
 Positive Fa. No. odds:V
