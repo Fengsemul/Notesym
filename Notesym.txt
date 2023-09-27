@@ -294,8 +294,9 @@ were a bit high." Po. 50% No. 74% Fa. 100%
 "The state licensing board found that the practitioner violated state 
 code section 432(b):" Po. 50% Sur. 91% Fa. 100%  Ra. 100%
 "Your answer of Continent was incorrect." Ne. 50%
-"A severe thunderstorm warning was in effect Tuesday for Adams, Arapahoe, Denver and Douglas counties until 6 p.m. A ground stop was also in effect for Denver International Airport as rain and hail hit the region." Po. 50% Joy 79% Fa. 100% Ra- 100%
+"A severe thunderstorm warning was in effect Tuesday for Adams, Arapahoe, Denver and Douglas counties until 6 p.m. A ground stop was also in effect for Denver International Airport as rain and hail hit the region." Po. 50% Joy 79% Fa. 100% Ra. 100%
 "Including the Antarctic and the South Atlantic territories, the area of Argentina is 3,761,274 square kilometres, of which approximately 2.8 million square kilometres are part of continental Argentina and Tierra del Fuego, an island province at the southern tip of the continent." Ne. 50% No. 52% Fa. 100%
+"The correct sharpening motion depends on the intended outcome." Po. 50% Fe. 46% Fa. 98% Ra. 100%
 Po./Ne. 50%:^
 Po./Ne. 51%:V
 "Mangshi has an area of 2,900.91 km2 (1,120.05 sq mi)." Ne. 51% Sur. 66% Fa. 100% https://en.wikipedia.org/wiki/Mangshi
