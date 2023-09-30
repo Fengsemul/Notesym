@@ -65,6 +65,8 @@ No. 98%:^
 Po. 50% No. 99% Fa. 99%: "The cups were on the lines above the frame."
 close 51% No. 99% Fa. 100%::^
 
+shortest statement: "The clock is circular." Ne. 76% No. 99% Fa. 100% Ra. 100%
+
 "The main floor level is indicated by a soldier course." Po. 73% No. 99% Fa. 100%
 similar-The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself. : "The tower was assembled using the wooden scaffolding and small steam cranes mounted onto the tower itself." Po. 51% No. 99% Fa. 100% "...their wooden scaffolding and small steam cranes mounted onto the tower itself." Po. 51% "Their tower was assembled using their wooden scaffolding and small steam cranes mounted onto their tower itself." Ne. 50%
 
