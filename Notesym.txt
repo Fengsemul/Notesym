@@ -245,6 +245,8 @@ rewritten Ulud...:"At about 30 feet long, Uludfwersfghbegsaurus was far larger t
 "Mount Qingkou (箐口山) is the city's highest point, with an altitude of 2,889.1 meters." Sur. 30%
 "Has academically and socially proven that the corners of the compass are as extremist as society can get." Joy 27%
 "These games have jackpots that grow as people play them. They payout when you hit the right payline, during a bonus game, or at random." Po. 84% No. 22% Fa. 100%
+"The south side faces the bad Thames, accumulated by the St. Thomas Tower and two smaller ones, the Cradle Tower and bad tower." Po. 72% No. 99% Fa. 100% Ra. 100%
+"The south side faces the bad Thames, accumulated by the St. Thomas Tower and three smaller ones, the Cradle Tower and bad tower." Po. 70% No. 98% Fa. 100% Ra. 100%
 odds:^
 
 odds detecting:V
