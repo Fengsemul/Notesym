@@ -21,6 +21,12 @@ with "Here's what to include:" Ne. 92% Fa. 92%
 
 "Abrasions are frequently encountered in minor accidents. In these injuries, the top skin layer is sloughed off however the bleeding may or may not be present. Abrasions are quite common on the bony prominences of knees, elbows, and face." po. 82% No. 50% Fa. 100%
 
+"This rather small 
+oceanic region connects three continents: Europe to the North, Asia to the East and Africa to the South." Ne. 55% No. 95% Fa. 100%
+delete:"rather" Po. 89% No. 97% Fa. 100%
+delete:"small" Po. 80% No. 98% Fa. 100%
+https://uicnmed.org/docs/deep-sea-eastern-med/GEOMORPHOLOGICAL-FEATURES.pdf
+
 roughly 50% Po./Ne. No. Fa. websites:
 1. roughly Po. 60%: https://www.finewoodworking.com/2005/09/13/a-short-history-of-tables
 
