@@ -63,8 +63,15 @@ Ne. 50% No. 98% Fa. 100% Ra. 100%:V
 No. 98%:^
 
 Po. 50% No. 99% Fa. 99%: "The cups were on the lines above the frame."
-close 51% No. 99% Fa. 100%::^
+close 51% No. 99% Fa. 100%:^
 
+around 50% No. 99% Fa. 100%:V
+"With a total length of 
+roughly 1500 km and a width ranging between 200 km 
+and 60 km, it constitutes a submarine mountain belt 
+made of deformed sediments that have been compressed between the African plate and the Hellenic 
+Arc." Po. 54% No. 97% Fa. 100%
+around 50% No. 99% Fa. 100%:^
 short statement No. 99% Fa. 100% Ra. 100%: "The clock is circular." Ne. 76%, "The table is rectangular." Po. 63%
 
 "The main floor level is indicated by a soldier course." Po. 73% No. 99% Fa. 100%
