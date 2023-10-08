@@ -259,6 +259,7 @@ with "...use of reed has been..." Ne. 54% No. 95% Fa. 98%
 "To understand how such gem wealth, gold, and silver were available to the Mughals, one needs to review the regional powers of Asia in the fifteenth and sixteenth centuries." Ne. 88% No. 96% Fa. 0%
 " Gem traders came from around the world, driven by their passion for acquiring what India produced, as well as the goods that flowed through Indian trade centers." https://www.gia.edu/gems-gemology/fall-2019-era-of-the-taj-mahal-and-mughals
 "UNESCO has identified 12 sites in India along the Silk Road." Po. 57% No. 51% Fa. 100%
+"This was underscored by the Prophet Muhammad’s favoring of the color green." Po. 69% No. 82% Fa. 0% Emo. 74% Self. 100%
 odds:^
 
 odds detecting:V
