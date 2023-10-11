@@ -266,6 +266,11 @@ with "...use of reed has been..." Ne. 54% No. 95% Fa. 98%
 lake is a condensed saline water." Po. 75% No. 39% Fa. 100%
 "The forest is overloaded by the excursion visitors so there is a lot of litter and illegal flower collection is also 
 frequently occurs (valley lily), and sometimes the Lady’s slipper orchid core are excavated. " Po. 66% No. 50% Fa. 100%
+"In the higher-lying cremassad - 
+Fem areas there are isolated saline ponds of which tend to dry out for several years." Po. 58% No. 98% Fa. 100%
+"In the higher-lying cremassad - 
+Fem areas there are isolated saline ponds of which tend to dry in for several years." Ne. 58% No. 98% Fa. 100%
+
 odds:^
 
 odds detecting:V
