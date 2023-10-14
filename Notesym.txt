@@ -195,9 +195,38 @@ Po./Ne. 45%-55% No. 97% DE:V
 "Der Zug hatte einen Unfall." Po. 51% No. 95% Fa. 100%
 Po./Ne. 45%-55% No. 97%:^
 
+No. 99%:V
+"There is a bookstore in the middle of town."  Po. 79% No. 99% Fa. 100%
+No. 99%:^
 
-"Topo lines and summit elevations are measured in meters." No. 98%
+Po./Ne. 50%:V
+"Type your text to be analyzed." Ne. 50%
+"Nylon filament yarn market sentiment was stable in Asia, as 
+nylon chip spot prices were a bit low and contract prices 
+were a bit high." Po. 50% No. 74% Fa. 100%
+"The state licensing board found that the practitioner violated state 
+code section 432(b):" Po. 50% Sur. 91% Fa. 100%  Ra. 100%
+"Your answer of Continent was incorrect." Ne. 50%
+"A severe thunderstorm warning was in effect Tuesday for Adams, Arapahoe, Denver and Douglas counties until 6 p.m. A ground stop was also in effect for Denver International Airport as rain and hail hit the region." Po. 50% Joy 79% Fa. 100% Ra. 100%
+"Including the Antarctic and the South Atlantic territories, the area of Argentina is 3,761,274 square kilometres, of which approximately 2.8 million square kilometres are part of continental Argentina and Tierra del Fuego, an island province at the southern tip of the continent." Ne. 50% No. 52% Fa. 100%
+"The correct sharpening motion depends on the intended outcome." Po. 50% Fe. 46% Fa. 98% Ra. 100%
+"Indian trade followed ancient land and sea routes." Po. 50% No. 98% Fa. 97%
+"The horse is down the hill." Po. 50% No. 98% Fa. 95%
+Po./Ne. 50%:^
 
+exceptions by prepositions:V
+"The bird flew over the house." Po. 93% No. 95% Fa. 0% Emo. 95% Self. 92%
+"The cat is up the tree." Po. 60% No. 95% Fa. 0% Self. 91% Emo. 74%
+"The parrot is off its perch." Ne. 71% No. 98% Fa. 0% Self. 97% Emo. 68%
+Projective prepositions (51) with more self. https://studylib.net/doc/13143572/spatial-p-in-english-1.-introduction-peter-svenonius-cast...
+(52) "Bounded prepositions like "A dive below the bridge would get us to Canada." with less Factual 68% yet 63%-80% Po./Ne. Sentiment variation.
+"Across a meadow a band is playing excerpts from H.M.S. Pinafore." Po. 75% Joy 54% Fa. 98% Ra. 97%
+"Fredrik's house is fifteen minutes through those trees." Po. 69% Fa. 99% No. 95% Ra. 99%
+exceptions by prepositions:^
+
+exception from prepositions away:V
+"Topo lines and summit elevations are measured in meters." Po. 78% No. 98% Fa. 100%
+exception from prepositions away:^
 
 odds:V
 https://www.hindawi.org/books/60390836/3.3/ Google-translated "Ismail assumed the throne of Egypt, its schools were closed and Muhammad Ali's projects were neglected; The creator worked again. If we look at the total reforms and important works that have been done during his reign, We know how much intelligence and genius he was, and what he aimed at advancing Egypt until It makes it at the level of the most prestigious European countries."
@@ -314,19 +343,7 @@ less odd:^
 
 
 
-Po./Ne. 50%:V
-"Type your text to be analyzed." Ne. 50%
-"Nylon filament yarn market sentiment was stable in Asia, as 
-nylon chip spot prices were a bit low and contract prices 
-were a bit high." Po. 50% No. 74% Fa. 100%
-"The state licensing board found that the practitioner violated state 
-code section 432(b):" Po. 50% Sur. 91% Fa. 100%  Ra. 100%
-"Your answer of Continent was incorrect." Ne. 50%
-"A severe thunderstorm warning was in effect Tuesday for Adams, Arapahoe, Denver and Douglas counties until 6 p.m. A ground stop was also in effect for Denver International Airport as rain and hail hit the region." Po. 50% Joy 79% Fa. 100% Ra. 100%
-"Including the Antarctic and the South Atlantic territories, the area of Argentina is 3,761,274 square kilometres, of which approximately 2.8 million square kilometres are part of continental Argentina and Tierra del Fuego, an island province at the southern tip of the continent." Ne. 50% No. 52% Fa. 100%
-"The correct sharpening motion depends on the intended outcome." Po. 50% Fe. 46% Fa. 98% Ra. 100%
-"Indian trade followed ancient land and sea routes." Po. 50% No. 98% Fa. 97%
-Po./Ne. 50%:^
+
 Po./Ne. 51%:V
 "Mangshi has an area of 2,900.91 km2 (1,120.05 sq mi)." Ne. 51% Sur. 66% Fa. 100% https://en.wikipedia.org/wiki/Mangshi
 Po./Ne. 51%:^
@@ -344,9 +361,7 @@ diff:V
 "For international mail, the country name should be written in capitals on the bottom line." Ne. 99% Joy 69% Fa. 96% Ra. 100%
 diff:^
 
-errors by prepositions:V
-"The bird flew over the house." Po. 93% No. 95% Fa. 0% Emo. 95% Self. 92%
-errors by prepositions:^
+
 
 errors by architeture ob.:V
 "The column-lined Great Hall is a grand and 
