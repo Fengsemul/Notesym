@@ -226,6 +226,7 @@ exceptions by prepositions:^
 
 exception from prepositions away:V
 "Topo lines and summit elevations are measured in meters." Po. 78% No. 98% Fa. 100%
+"It's him." Po. 90% No. 95% Fa. 0% Ra. 92% Self. 98%
 exception from prepositions away:^
 
 odds:V
