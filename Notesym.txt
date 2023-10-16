@@ -304,7 +304,7 @@ frequently occurs (valley lily), and sometimes the Lady’s slipper orchid core 
 Fem areas there are isolated saline ponds of which tend to dry out for several years." Po. 58% No. 98% Fa. 100%
 "In the higher-lying cremassad - 
 Fem areas there are isolated saline ponds of which tend to dry in for several years." Ne. 58% No. 98% Fa. 100%
-
+"Kitchens must have a window." Act. 0%
 odds:^
 
 odds detecting:V
