@@ -72,6 +72,7 @@ Ne. 50% No. 98% Fa. 100% Ra. 100%:V
 No. 98%:^
 
 Po. 50% No. 99% Fa. 99%: "The cups were on the lines above the frame."
+Ne. 50% No. 99% Fa. 99%: "The tables are in cup to the rar."
 close 51% No. 99% Fa. 100%:^
 
 around 50% No. 99% Fa. 100%:V
