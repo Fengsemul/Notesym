@@ -320,7 +320,10 @@ odds No-Emo.:V
 "The tables is on cup to the Rar." Po. 53% No. 99% Fa. 99%
 "The table is on cup to the rar." Po. 53% No. 99% Fa. 99%
 "The tables is on cup to rar." Po. 66% No. 88% Fa. 100%
-"The tables is on cup to the men." PO. 50% No. 98% Fa. 99%
+"The tables is on cup to the men." Po. 50% No. 98% Fa. 99%
+"The tables are on cup to the rar." Po. 51% No. 99% Fa. 100%
+"The tables are in cup to the rar." Ne. 50% No. 99% Fa. 99%
+"The tables are sideways to cup to the rar." Po. 50% No. 99% Fa. 100%
 
 
 odds No-Emo.:^
