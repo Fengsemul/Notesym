@@ -309,6 +309,22 @@ Fem areas there are isolated saline ponds of which tend to dry in for several ye
 "Kitchens must have a window." Act. 0%
 odds:^
 
+odds No-Emo.:V
+"The tables cups plates." Po. 61% No. 99% Fa. 99% Ra. 100%
+"The cups cups plates." Po. 55% No. 99% Fa. 99%
+"The tables was on cup above rar." Po. 54% No. 99% Fa. 100%
+"The tables is on cup above rar." Po. 57% No. 99% Fa. 100%
+"The tables is in cup above rar." Po. 58% No. 99% Fa. 100%
+"The tables is on cup under the rar." Ne. 50% No. 98% Fa. 100%
+"The tables is on cup near the rar." "The tables is on cup to the rar." Po. 53% No. 99% Fa. 100%
+"The tables is on cup to the Rar." Po. 53% No. 99% Fa. 99%
+"The table is on cup to the rar." Po. 53% No. 99% Fa. 99%
+"The tables is on cup to rar." Po. 66% No. 88% Fa. 100%
+"The tables is on cup to the men." PO. 50% No. 98% Fa. 99%
+
+
+odds No-Emo.:^
+
 odds detecting:V
 "Projects are shorter in length and need less equipment and crew members." Ne. 89% Sa. 96% Fa. 99%
 rewritten:"Granites changing into gneisses generally contain the same minerals." Po. 74% Dis. 67% Fa. 99% self. 0% Ra. 100% Act. 0% Inf. 0%
