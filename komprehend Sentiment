@@ -6,10 +6,21 @@ sym: Po. 50% No. 99% Fa. 100%:V
 "The table is in between the two chairs." sym: Ne. 50% No. 99% Fa. 100% k.: Po. 27.60 % Neu. 53.80 % Neg. 18.60 % News 15.40 % Feedback 22.30 % Query 7.40 % Marketing 13.50 % Spam 41.30 %
 sym: Po. 50% No. 99% Fa. 100%:^
 
-
+No. 99% Fa. 100%:V
 "The lamp is below the window." sym: Po. 62% No. 99% Fa. 100% k.: Pos. 5.40 % Neu. 53.40 % Neg. 41.20 % News 7.70 % Feedback 39.30 % (Appreciation 21.00 % Complaint 36.00 % Suggestion 43.00 %) Query 11.50 % Marketing 4.80 % Spam 36.70 %
 "The is in the below in the index." sym: Po. 80% No. 99% Fa. 100% k.: Pos. 24.60 % Neu. 44.10 % Neg. 31.30 % News 33.50 % Feedback 21.50 % Query 13.70 % Marketing 15.30 % Spam 16.00 %
 "There is a bookstore in the middle of town." sym: Po. 79% No. 99% Fa. 100% k.: Po. 7.90 % Neu. 27.50 % Neg. 64.60 % News 8.90 % Feedback 26.60 % Query 50.50 % Marketing 4.30 % Spam 9.80 %
 "The accommodation buildings are distributed to the east and west of the reception, positioned in circle formations." sym: Po. 74% No. 99% Fa. 100% k.: Po. 25.80 % Neu. 43.40 % Neg. 30.80 % News 63.30 % Feedback 17.70 % Query 6.40 % Marketing 7.00 % Spam 5.60 %
 "The south side faces the bad Thames, accumulated by the St. Thomas Tower and two smaller ones, the Cradle Tower and bad tower." sym: Po. 72% No. 99% Fa. 100% Ra. 100% k.: Pos. 9.60 % Neu. 22.20 % Neg. 68.20 % News 38.80 % Feedback 39.00 % (Appreciation 14.10 % Complaint 56.60 % Suggestion 29.20 %) Query 2.50 % Marketing 5.40 % Spam 14.20 %
+"The tables was on cup above rar." sym: Po. 54% No. 99% Fa. 100% k.: Po. 39.10 % Neu. 41.00 % Neg. 19.90 % News 29.40 % Feedback 24.80 % Query 3.90 % Marketing 8.30 % Spam 33.60 %
+"The tables is on cup above rar." sym: Po. 57% No. 99% Fa. 100% k.: Po. 51.30 % Neu. 37.80 % Neg. 10.90 % News 36.40 % Feedback 21.30 % Query 3.40 % Marketing 17.50 % Spam 21.40 %
+"The tables is in cup above rar." sym: Po. 58% No. 99% Fa. 100% k.: Po. 43.10 % Neu. 44.20 % Neg. 12.60 % News 46.60 % Feedback 19.00 % Query 3.90 % Marketing 11.70 % Spam 18.80 %
+"The tables is on cup near the rar." sym: Po. 53% No. 99% Fa. 100% k.: Pos. 48.80 % Neu. 39.60 % Neg. 11.60 % News 24.20 % Feedback 20.20 % Query 8.60 % Marketing 15.10 % Spam 31.80 %
+"The tables is on cup to the rar." sym: Po. 53% No. 99% Fa. 100% k.: Pos. 53.10 % Neu. 41.00 % Neg. 5.90 % News 20.80 % Feedback 22.80 % Query 6.90 % Marketing 12.80 % Spam 36.70 %
+"The tables are on cup to the rar." sym: Po. 51% No. 99% Fa. 100% k.: Po. 51.40% Neu. 41.70% Neg. 6.90% News 22.80 % Feedback 21.70 % Query 7.20 % Marketing 9.80 % Spam 38.40 %
+"The tables are sideways to cup to the rar." sym: Po. k.: Pos. 38.60 % Neu. 47.40 % Neg. 14.00 % News 24.10 % Feedback 32.70 % (Appreciation 17.30 % Complaint 34.20 % Suggestion 48.50 %) Query 10.00 % Marketing 5.30 % Spam 27.90 %
+
+
+
+No. 99% Fa. 100%:^
 
