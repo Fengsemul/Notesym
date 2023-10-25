@@ -1,5 +1,15 @@
 "This is a text." sym: Po. 84% No. 98% Fa. 87% k: Positive 18.10 % Neutral 67.70 % Negative 14.20 % News 0.10 % Feedback 31.60 % Query 19.90 % Marketing 2.30 % Spam46.10 %
 
+sym: Po. 50% No. 99% Fa. 100%:V
 "The tables were on the cups above the plates." sym: Po. 50% No. 99% Fa. 100% k: Po. 30.50 % Neu. 52.30 % Neg. 17.10 % News 9.00 % Feedback 27.60 % Query 2.80 % Marketing 16.50 % Spam 44.10 %
 "Small tower embedded into the pad support the bases of the cranes near the hot plates." Neg. 50% No. 99% Fa. 100% k.: Po. 38.80 % Neu. 51.90 % Neg. 9.30 % News 49.70 % Feedback 16.50 % Query 2.00 % Marketing 18.70 % Spam 13.10 %
 "The table is in between the two chairs." sym: Ne. 50% No. 99% Fa. 100% k.: Po. 27.60 % Neu. 53.80 % Neg. 18.60 % News 15.40 % Feedback 22.30 % Query 7.40 % Marketing 13.50 % Spam 41.30 %
+sym: Po. 50% No. 99% Fa. 100%:^
+
+
+"The lamp is below the window." sym: Po. 62% No. 99% Fa. 100% k.: Pos. 5.40 % Neu. 53.40 % Neg. 41.20 % News 7.70 % Feedback 39.30 % (Appreciation 21.00 % Complaint 36.00 % Suggestion 43.00 %) Query 11.50 % Marketing 4.80 % Spam 36.70 %
+"The is in the below in the index." sym: Po. 80% No. 99% Fa. 100% k.: Pos. 24.60 % Neu. 44.10 % Neg. 31.30 % News 33.50 % Feedback 21.50 % Query 13.70 % Marketing 15.30 % Spam 16.00 %
+"There is a bookstore in the middle of town." sym: Po. 79% No. 99% Fa. 100% k.: Po. 7.90 % Neu. 27.50 % Neg. 64.60 % News 8.90 % Feedback 26.60 % Query 50.50 % Marketing 4.30 % Spam 9.80 %
+"The accommodation buildings are distributed to the east and west of the reception, positioned in circle formations." sym: Po. 74% No. 99% Fa. 100% k.: Po. 25.80 % Neu. 43.40 % Neg. 30.80 % News 63.30 % Feedback 17.70 % Query 6.40 % Marketing 7.00 % Spam 5.60 %
+
+
