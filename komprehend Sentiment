@@ -4,7 +4,20 @@ sym: Po. 50% No. 99% Fa. 100%:V
 "The tables were on the cups above the plates." sym: Po. 50% No. 99% Fa. 100% k: Po. 30.50 % Neu. 52.30 % Neg. 17.10 % News 9.00 % Feedback 27.60 % Query 2.80 % Marketing 16.50 % Spam 44.10 %
 "Small tower embedded into the pad support the bases of the cranes near the hot plates." Neg. 50% No. 99% Fa. 100% k.: Po. 38.80 % Neu. 51.90 % Neg. 9.30 % News 49.70 % Feedback 16.50 % Query 2.00 % Marketing 18.70 % Spam 13.10 %
 "The table is in between the two chairs." sym: Ne. 50% No. 99% Fa. 100% k.: Po. 27.60 % Neu. 53.80 % Neg. 18.60 % News 15.40 % Feedback 22.30 % Query 7.40 % Marketing 13.50 % Spam 41.30 %
+"The tables were on the stick above the plates." Po. 34.20% Neu. 46.60% Neg. 19.30% News 9.90 % Feedback 32.90 % Query 3.70 % Marketing 19.10 % Spam 34.30 %
+"The tower was assembled using the wooden scaffolding and their small steam cranes mounted onto the tower itself." Po. 21.80% Neu. 41.50% Neg. 36.70% News 60.70% Feedback 23.60 % Query 3.70 % Marketing 4.00 % Spam 7.90 %
+"Their markers are shown to the office to an elevation marker above their arrows." Po. 24.60% Neu. 34.60% Neg. 40.70% News 65.30 % Feedback 21.70 % Query 3.90 % Marketing 2.50 % Spam 6.50 %
+"The Stores was assembled using iron scaffolding and small steam cranes mounted onto the Warehouse." Po. 42.80% Neu. 35.80% Neg. 21.40% News 57.60 % Feedback 14.00 % Query 3.70 % Marketing 17.50 % Spam 7.10 %
 sym: Po. 50% No. 99% Fa. 100%:^
+sym: Neg. 50% No. 99% Fa. 100%:V
+"The tables were on the stick above the frame." Po. 48.40% Neu. 36.20% Neg. 15.30% News 13.20 % Feedback 38.80 % Query 2.60 % Marketing 15.30 % Spam 30.20 %  Appreciation 23.50 % Complaint 13.80 % Suggestion 62.70 %
+
+sym: Neg. 50% No. 99% Fa. 100%:^
+
+sym: Neg. 50% No. 98% Fa. 100%:V
+"In the higher-lying Fertőzug - 
+Seewinkel area there are isolated saline ponds, some of which tend to dry out for several years." Pos. 21.80% Neu. Neg. 42.80% News 50.60 % Feedback 23.00 % Query 18.40 % Marketing 3.60 % Spam 4.40 %
+sym: Neg. 50% No. 98% Fa. 100%:^
 
 No. 99% Fa. 100%:V
 "The lamp is below the window." sym: Po. 62% No. 99% Fa. 100% k.: Pos. 5.40 % Neu. 53.40 % Neg. 41.20 % News 7.70 % Feedback 39.30 % (Appreciation 21.00 % Complaint 36.00 % Suggestion 43.00 %) Query 11.50 % Marketing 4.80 % Spam 36.70 %
