@@ -325,6 +325,8 @@ odds No-Emo.:V
 "The tables are in cup to the rar." Ne. 50% No. 99% Fa. 99%
 "The tables are sideways to cup to the rar." Po. 50% No. 99% Fa. 100%
 
+"The protruding part of the cushion." Po. 78% No. 34% Fa. 82% Ra. 99%
+
 
 odds No-Emo.:^
 
