@@ -1,23 +1,75 @@
 "This is a text." sym: Po. 84% No. 98% Fa. 87% k: Positive 18.10 % Neutral 67.70 % Negative 14.20 % News 0.10 % Feedback 31.60 % Query 19.90 % Marketing 2.30 % Spam46.10 %
 
-sym: Po. 50% No. 99% Fa. 100%:V
-"The tables were on the cups above the plates." sym: Po. 50% No. 99% Fa. 100% k: Po. 30.50 % Neu. 52.30 % Neg. 17.10 % News 9.00 % Feedback 27.60 % Query 2.80 % Marketing 16.50 % Spam 44.10 %
-"Small tower embedded into the pad support the bases of the cranes near the hot plates." Neg. 50% No. 99% Fa. 100% k.: Po. 38.80 % Neu. 51.90 % Neg. 9.30 % News 49.70 % Feedback 16.50 % Query 2.00 % Marketing 18.70 % Spam 13.10 %
-"The table is in between the two chairs." sym: Ne. 50% No. 99% Fa. 100% k.: Po. 27.60 % Neu. 53.80 % Neg. 18.60 % News 15.40 % Feedback 22.30 % Query 7.40 % Marketing 13.50 % Spam 41.30 %
+sym: Po. 50% No. 99% Fa. 100% with k.:V
+"The tables were on the cups above the plates." k: Po. 30.50 % Neu. 52.30 % Neg. 17.10 % News 9.00 % Feedback 27.60 % Query 2.80 % Marketing 16.50 % Spam 44.10 %
 "The tables were on the stick above the plates." Po. 34.20% Neu. 46.60% Neg. 19.30% News 9.90 % Feedback 32.90 % Query 3.70 % Marketing 19.10 % Spam 34.30 %
 "The tower was assembled using the wooden scaffolding and their small steam cranes mounted onto the tower itself." Po. 21.80% Neu. 41.50% Neg. 36.70% News 60.70% Feedback 23.60 % Query 3.70 % Marketing 4.00 % Spam 7.90 %
 "Their markers are shown to the office to an elevation marker above their arrows." Po. 24.60% Neu. 34.60% Neg. 40.70% News 65.30 % Feedback 21.70 % Query 3.90 % Marketing 2.50 % Spam 6.50 %
 "The Stores was assembled using iron scaffolding and small steam cranes mounted onto the Warehouse." Po. 42.80% Neu. 35.80% Neg. 21.40% News 57.60 % Feedback 14.00 % Query 3.70 % Marketing 17.50 % Spam 7.10 %
-sym: Po. 50% No. 99% Fa. 100%:^
-sym: Neg. 50% No. 99% Fa. 100%:V
+sym: Po. 50% No. 99% Fa. 100% with k.:^
+sym: Neg. 50% No. 99% Fa. 100% with k.:V
 "The tables were on the stick above the frame." Po. 48.40% Neu. 36.20% Neg. 15.30% News 13.20 % Feedback 38.80 % Query 2.60 % Marketing 15.30 % Spam 30.20 %  Appreciation 23.50 % Complaint 13.80 % Suggestion 62.70 %
-
-sym: Neg. 50% No. 99% Fa. 100%:^
+"Their tower was assembled using their wooden scaffolding and small steam cranes mounted onto their tower itself." Po. 22.10 % Neu. 37.70 % Neg. 40.20 % News 69.90 % Feedback 20.90 % Query 2.50 % Marketing 2.20 % Spam 4.60 %
+"The tower was assembled using wooden scaffolding and small steam cranes mounted onto the showers." Pos. 30.40 % Neu. 43.30 % Neg. 26.30 % News 55.10 % Feedback 25.40 % Query 2.80 % Marketing 6.90 % Spam 9.90 %
+"The tables were on the plates above the dishes." Pos. 28.90 % Neu. 47.10 % Neg. 24.00 % News 13.00 % Feedback 30.30 % Query 5.00 % Marketing 18.60 % Spam 33.10 %
+"Their markers are shown to the office to an elevation marker above their arrow." Pos. 24.70 % Neu. 34.30 % Neg. 40.90 % News 60.00 % Feedback 22.60 % Query 7.10 % Marketing 3.60 % Spam 6.70 %
+"The knife blades are placed with the smoothing circle near the plates." Pos. 15.70 % Neu. 44.30 % Neg. 40.00 % News 54.00 % Feedback 21.60 % Query 4.60 % Marketing 8.80 % Spam 11.00 %
+"Small tower embedded into the pad support the bases of the cranes near the hot plates." Pos. 38.80 % Neu. 51.90 % Neg. 9.30 % News 49.70 % Feedback 16.50 % Query 2.00 % Marketing 18.70 % Spam 13.10 %
+"The table is in between the two chairs." Pos. 27.60 % Neu. 53.80 % Neg. 18.60 % News 15.40 % Feedback 22.30 % Query 7.40 % Marketing 13.50 % Spam 41.30 %
+sym: Neg. 50% No. 99% Fa. 100% with k.:^
 
 sym: Neg. 50% No. 98% Fa. 100%:V
 "In the higher-lying Fertőzug - 
 Seewinkel area there are isolated saline ponds, some of which tend to dry out for several years." Pos. 21.80% Neu. Neg. 42.80% News 50.60 % Feedback 23.00 % Query 18.40 % Marketing 3.60 % Spam 4.40 %
 sym: Neg. 50% No. 98% Fa. 100%:^
+
+Po. 51% No. 99% Fa. 100% with k.:V
+"The section marker is shown slightly differently to an elevation marker with a larger arrow." Pos. 28.40 % Neu. 48.00 % Neg. 23.50 % News 39.50 % Feedback 25.30 % Query 11.40 % Marketing 16.30 % Spam 7.60 %
+"The tables were on the sides above the plates." Pos. 38.10 % Neu. 43.50 % Neg. 18.50 % News 12.40 % Feedback 35.20 % Query 3.50 % Marketing 18.60 % Spam 30.20 % Appreciation 11.90 % Complaint 16.30 % Suggestion 71.80 %
+"The lines is on the tables above the plates." Pos. 29.00 % Neu. 48.60 % Neg. 22.40 % News 10.60 % Feedback 31.90 % Query 6.40 % Marketing 19.10 % Spam 32.00 %
+"The dishes were on the table below the plates." Pos. 11.30 % Neu. 48.10 % Neg. 40.50 % News 8.40 % Feedback 37.50 % Query 19.40 % Marketing 11.30 % Spam 23.30 %  Appreciation 18.80 % Complaint 46.00 % Suggestion 35.20 %
+"The sections were on the stick above the frame." Pos. 25.80 % Neu. 44.70 % Neg. 29.50 % News 15.90 % Feedback 39.90 % Query 4.70 % Marketing 12.80 % Spam 26.70 % Appreciation 35.90 % Complaint 19.60 % Suggestion 44.50 %
+"The assembly of the first level was reached the use of temporary wooden scaffold." Pos. 22.30 % Neu. 47.70 % Neg. 30.10 % News 41.60 % Feedback 23.80 % Query 8.10 % Marketing 5.60 % Spam 20.90 %
+"The assembly of the first metal level was reached by the sand box of temporary sand scaffold box." Pos. 31.00 % Neu. 43.80 % Neg. 25.20 % News 66.30 % Feedback 14.10 % Query 2.30 % Marketing 5.50 % Spam 11.90 %
+"A main gallery was redesigned and covered with the barrel roof." Positive
+
+56.40 %
+
+Neutral
+
+33.50 %
+
+Negative
+
+10.10 %
+
+News
+
+17.20 %
+
+Feedback
+
+30.60 %
+
+Query
+
+2.80 %
+
+Marketing
+
+19.90 %
+
+Spam
+
+29.60 %
+
+
+
+
+
+
+
+Po. 51% No. 99% Fa. 100% with k.:^
 
 No. 99% Fa. 100%:V
 "The lamp is below the window." sym: Po. 62% No. 99% Fa. 100% k.: Pos. 5.40 % Neu. 53.40 % Neg. 41.20 % News 7.70 % Feedback 39.30 % (Appreciation 21.00 % Complaint 36.00 % Suggestion 43.00 %) Query 11.50 % Marketing 4.80 % Spam 36.70 %
