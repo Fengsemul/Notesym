@@ -155,16 +155,27 @@ floors three to sixteen.“ Po. 99% No. 99% Fa. 100% mon: Pos. 66.7%
 „Rising above the cab is the tower peak, also known as the apex, where the pendants extend out to support the jib and counter jib.“ sym: Po. 60% No. 99% Fa. 100% mon: Pos. 51.9%
 No. 99% Fa. 100%:^
 
-collected mon: Neu.: "The section marker is shown slightly differently to an sticky marker with a larger arrow." sym: Po. 50% No. 98% Fa. 100% mon: Neu. 38.6% 
+"Individual mountains within the same mountain range do not necessarily have the same geologic structure or petrology." sym: Ne. 71% No. 89% Fa. 98% mon: Neg. 51.1%
+
+exceptions in mon: Neu.:V
+"The mountain ranges in geological structure." mon: Pos. 75.0%
+"The mountain ranges greatly in geological structure." mon: Pos. 49.8%
+exceptions in mon: Neu.:^
+
+collected mon: Neu.:V
+"The section marker is shown slightly differently to an sticky marker with a larger arrow." sym: Po. 50% No. 98% Fa. 100% mon: Neu. 38.6% 
 "In the higher-lying Fertőzug - 
-Seewinkel area there are isolated saline ponds, some of which tend to dry out for several years." sy,: Ne. 50% No. 98% Fa. 100% mon: Neu. 44.7% 
+Seewinkel area there are isolated saline ponds, some of which tend to dry out for several years." sym: Ne. 50% No. 98% Fa. 100% mon: Neu. 44.7% regarless of linebreak
 „The section marker is shown slightly differently to an elevation marker with a larger arrow." sym: Po. 51% No. 99% Fa. 100% mon: Neu. 39.2%
 "The mountain ridges of the south are composed of old, red sandstone separated by limestone river valleys." Po. 91% No. 99% Fa. 100% mon: Neu. 43.7%
 "The exterior brick is striated on the street facades and common brick on the sides and rear." Po. 97% No. 99% Fa. 100% mon: Neu. 41.8%
-„The mountain ranges vary greatly in geological structure.“ Pos. 69% No. 98% Fa. 100% Mon: Neu. 50.9%
 „The mountain ridges of the south are composed of old, red sandstone separated by limestone river valleys.“ Po. 91% No. 99% Fa. 100% mon: Neu. 43.7%
 „They are called Legge Mounts (in the West) and Brass (in the East).“ Po. 64% No. 98% Fa. 100% mon: Neu. 37.3%, 
 „On the west side there are no towers except the Byward tower which controls the entrance, and of course the middle towers which are in front of the entrance.“ Sym: Po. 61% No. 98% Fa. 100% mon: Neu. 42.8%,
 „This framework may or may not be supported intermediately by girders, beams, or walls.“ sym: Po. 80% No. 98% Fa. 100% mon: 44.5%,
 „Behind the entrance patio surrounded by arcades pierced by four gates, an idyllic view is offered to the gaze:“ Po. 91% No. 99% Fa. 97% Ra. 94% mon: Neu. 44.5%
 „Usually there were two, but occasionally three pillars on each longitudinal wall.“ sym: Po. 67% No. 99% Fa. 100% mon: Neu. 48.7%
+"The mountain ranges vary in geological structure." sym: Po. 72% No. 98% Fa. 99% mon: Neu. 52.3%
+„The mountain ranges vary greatly in geological structure.“ Pos. 69% No. 98% Fa. 100% Mon: Neu. 50.9%
+"They may be a mix of different orogenic expressions and terranes, for example thrust sheets, uplifted blocks, fold mountains, and volcanic landforms resulting in a variety of rock types." sym: Ne. 64% No. 93% Fa. 99% mon: Neu. 46.6%
+collected mon: Neu.:^
