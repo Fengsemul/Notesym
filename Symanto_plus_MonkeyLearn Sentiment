@@ -6,7 +6,7 @@ sym: Po./Ne. 50% I Po. 50% No. 99% Fa. 100%: "The tables were on the stick above
 Ne. 50% No. 99% Fa. 100%:"The tables were on the stick above the frame." Ne. 56.8%, "Their tower was assembled using their wooden scaffolding and small steam cranes mounted onto their tower itself." Po. 83.8%, "The tower was assembled using wooden scaffolding and small steam cranes mounted onto the showers." Po. 74.6 loading, "The tables were on the plates above the dishes." Ne. 48, "Their markers are shown to the office to an elevation marker above their arrow." Ne. 38.4, "The knife blades are placed with the smoothing circle near the plates." P54.4, "Small tower embedded into the pad support the bases of the cranes near the hot plates." Po. 61.4, "The table is in between the two chairs." Po. 38.2,
 
 Ne. 51% No. 99% Fa. 100%:"Finally on the west side the only protection tower is to the south, it is the Develin tower." mon: Pos. 51.3%,"The tables were on the stick above the racks." mon: Neg. 49.1%,"The plates were on the shelf above the cups." mon: Neg. 55.3%, "The plates were on the shelfabove he cups." mon: Neg. 47.9%,"The tables were on the lines above the plates." mon: Neg. 52.6%,"The tables were on the metal above the plates." mon: Neg. 57.3%,"The main gallery was redesigned and covered with the barrel roof." mon: Pos. 61.9%,"The tower was assembled using wooden scaffolding and small steam cranes mounted onto the woods." mon: Pos. 73.6%,
-from others:"The plates were on the shelf above the cups." mon: 55.3%,"Their markers are shown to the office to an elevation marker above the arrow." mon: Neg. 40.9%, "The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself." mon: Pos. 68.0%,"The shopping center was assembled using the scaffolding and their large steam cranes mounted onto the tower itself." mon: Pos. 83.5% & "The warehouse was assembled using the scaffolding and their large steam cranes mounted onto the tower itself." mon: Pos. 82.2%,"Small anchor bolts embedded into the pad support the bases of the cranes near the hot plates.“ mon: Pos. 64.5%
+from others:"Their markers are shown to the office to an elevation marker above the arrow." mon: Neg. 40.9%, "The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself." mon: Pos. 68.0%,"The shopping center was assembled using the scaffolding and their large steam cranes mounted onto the tower itself." mon: Pos. 83.5% & "The warehouse was assembled using the scaffolding and their large steam cranes mounted onto the tower itself." mon: Pos. 82.2%,"Small anchor bolts embedded into the pad support the bases of the cranes near the hot plates.“ mon: Pos. 64.5%
 
 Po. 51% No. 99% Fa. 100%:"The section marker is shown slightly differently to an elevation marker with a larger arrow." mon: Neu. 39.2%,"The tables were on the sides above the plates." mon: Neg. 52.2%,"The lines is on the tables above the plates." mon: 44.9% ,uclass 51/49,"The dishes were on the table below the plates." mon: Neg. 54.8%,"The sections were on the stick above the frame." mon: Neg. 63.4%,"The assembly of the first level was reached the use of temporary wooden scaffold." mon: Pos. 46.4%,"The assembly of the first metal level was reached by the sand box of temporary sand scaffold box." mon: Pos. 50.0%,"A main gallery was redesigned and covered with the barrel roof." mon: 72.6%,"The table is in front of the two chairs." mon: Pos. 53.3%,"The tables were on the crack above the plates." mon: Neg. 74.0%,"The desk top is made of aged scaffold wood and has a pinewood base that is painted anthracite." mon: Pos. 36.3%
 
@@ -45,7 +45,7 @@ short statement No. 99% Fa. 100% Ra. 100%: "The clock is circular." Ne. 76%, mon
 similar: The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself.  Mon: 68.0%: "The tower was assembled using the wooden scaffolding and small steam cranes mounted onto the tower itself." Po. 51% No. 99% Fa. 100% mon: Pos. 78.4%"The tower was assembled using their wooden scaffolding and small steam cranes mounted onto the tower itself." Po. 51% mon: Pos. 79.3% "Their tower was assembled using their wooden scaffolding and small steam cranes mounted onto their tower itself." Ne. 50% mon: Pos. 83.8%
 
 except 99%-The-is-above-plates sum of 51% No. 99%: „The above outline map represents Northern Ireland, a constitutionally distinct region of the United Kingdom, located in the northeastern part of the island of Ireland.“ Mon: 49.7% speakai P.50/50/0
-„The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself. The plates were on the shelf above the cups.“ byteviews.net: Neu. 78,98% Neu. 95,99% Feed. 87,22% Que. 11,74% sym: Po. 63% No. 99% Fa. 100% „Finally on the west side the only protection tower is to the south, it is the Develin tower. The section marker is shown slightly differently to an elevation marker with a larger arrow.“
+„The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself. The plates were on the shelf above the cups.“ byteviews.net: Neu. 78,98% Neu. 95,99% Feed. 87,22% Que. 11,74% sym: Po. 63% No. 99% Fa. 100% mon: Neg. 55.3%,„Finally on the west side the only protection tower is to the south, it is the Develin tower. The section marker is shown slightly differently to an elevation marker with a larger arrow.“
 sym: Po. 64% No. 99% Fa. 100% Mon: Po. 53.7%
 
 "The former capital features funerary monuments, like rock tombs, mastabas, temples, and pyramids." Po. 79% No. 99% Fa. 100% mon: Pos. 69.4%
@@ -71,6 +71,89 @@ on the west and seven on the north;" Po. 94% No. 99% Fa. 100% mon: Pos. 61.7%
 "the oldest known saunas in Finland were made from pits dug into a slope in the ground and primarily used as dwellings in the wintertime." Po. 65% No. 99% Fa. 100% mon: Pos. 67.5%
 „The oldest known saunas in Finland were made from pits dug into a slope in the ground and primarily used as dwellings in the wintertime.“ Po. 65% No. 99% Fa. 100% mon: Pos. 67.5%
 
+No. 99% Fa. 100%:V
+„The above outline map represents Northern Ireland, a constitutionally distinct region of the United Kingdom, located in the northeastern part of the island of Ireland.“ mon: Pos. 49.7%
+The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself. mon: Pos. 68.0%
+The accommodation buildings are distributed to the east and west of the reception, positioned in circle formations. Mon: Pos. 56.1%
+The Roman aqueduct was constructed in the 1st century, the medieval Alcázar palace in the 11th century, and the cathedral in the 16th. mon: Pos. 67.1%
+The Kasbah of Algiers is a unique Islamic city on the Mediterranean coast. mon: Pos. 83.2%
+It contains remains of a citadel, medieval mosques and Ottoman palaces. Mon: Pos. 59.6%
+The fortified former Portuguese trading post has used the same architectural techniques, style, and materials since the 16th century. mon: Pos. 78.2%
+The former capital features funerary monuments, like rock tombs, mastabas, temples, and pyramids. Mon: Pos. 69.4%
+It is one of the Seven Wonders of the Ancient World. mon: Pos. 93.5%
+A tall brass or bronze lamp on a stand where the wicks are placed at a certain height. mon: Pos. 56.7%
+The elevation marker is shown as a circle with an arrow pointing toward the elevation. mon: Neg. 49.3%
+The section marker is shown slightly differently to an elevation marker with a larger arrow. Mon: Neu. 39.2%,
+ The arrow shows the direction that the section is being taken. mon: Pos. 48.4%, 
+The section marker is attached to a line that runs through the floor plan showing the cut of the section. mon:  Po. 72% No. 98% Fa. 100% Pos. 38.8%
+The mountain ranges vary greatly in geological structure. Pos. 69% No. 98% Fa. 100% Mon: Neu. 50.9%
+„The mountain ridges of the south are composed of old, red sandstone separated by limestone river valleys.“ Po. 91% No. 99% Fa. 100% mon: Neu. 43.7%
+„The exterior brick is striated on the street facades and common brick on the sides and rear.“ Po. 97% No. 99% Fa. 100% mon: Neu. 41.8%, 
+The original mortar was tinted with iron ore, but the joints have since been repointed with white cement mortar. Po. 76% No. 99% Fa. 100% Mon: Neg. 36.8% The main floor level is indicated by a soldier course. Po. 73% No. 99% Fa. 100% mon: Pos. 42.7%
+An example of these seamounts that are above the ocean's surface are the islands of Hawaii. Po. 92% No. 99% Fa. 100% Mon: 41.5%
+„The South Tower stood over a quarter-mile tall at 1,362 feet.“ Pos. 73% No. 99% Fa. 100% Mon: 61.8%
+„An earlier bridge was built in 1885 by the Milwaukee Bridge & Iron Works one block east of the current bridge to carry traffic over the river at the foot of Washington Street.“ Sym: Po. 73% No. 98% Fa. 100% Mon: 58.5%
+„It was an iron camelback truss bridge with three spans, supported on stone piers. The northernmost span swung open to allow boats to pass.“ Po. 92% No. 99% Fa. 100% mon: 44.7%
+It had to be operated by a bridge tender, whose house remains at the bridge site to the present day. Sym: Ne. 87% No. 99% Fa. 100% mon: Pos. 38.4%
+On the north side the outer rampart has only two massive towers (20m in diameter, about), one at each angle. Sym: Po. 55% No. 99% Fa. 100% mon: Neg. 55.6%
+„They are called Legge Mounts (in the West) and Brass (in the East).“ Po. 64% No. 98% Fa. 100% mon: Neu. 37.3%
+ „On the west side there are no towers except the Byward tower which controls the entrance, and of course the middle towers which are in front of the entrance.“ Sym: Po. 61% No. 98% Fa. 100% mon: Neu. 42.8%,
+„The south side faces the Thames, protected by the St. Thomas Tower and two smaller ones, the Cradle Tower and the Well Tower.“ Sym: Po. 89% No. 99% Fa. 100% Mon: 58.9%,
+„Finally on the west side the only protection tower is to the south, it is the Develin tower.“ Sym: Ne. 51% No. 99% Fa. 100% mon: Pos. 51.3%
+„A raised floor is constructed with a wooden framework that bridges from one exterior wall to another.“ Po. 99% No. 99% Fa. 100% mon: Pos. 50.8%,
+„This framework may or may not be supported intermediately by girders, beams, or walls.“ sym: Po. 80% No. 98% Fa. 100% mon: 44.5%
+„Behind the entrance patio surrounded by arcades pierced by four gates, an idyllic view is offered to the gaze:“ Po. 91% No. 99% Fa. 97% Ra. 94% mon: Neu. 44.5%
+„In the south, a garden divided into four, with marble terrace and central fountain, to the north, on a sandstone terrace 'extending across the width of the garden, the mausoleum and its annexes, a mosque to the west and a meeting hall identical to the east.“ Po. 84% No. 98% Fa. 100% mon: Pos. 62.6%
+„Behind the entrance patio surrounded by arcades pierced by four gates, an idyllic view is offered to the gaze: In the south, a garden divided into four, with marble terrace and central fountain, to the north, on a sandstone terrace 'extending across the width of the garden, the mausoleum and its annexes, a mosque to the west and a meeting hall identical to the east.“ Po. 99% No. 99% Fa. 100% mon: Pos. 78.1%, 
+„The plinth or covered area shall include, in addition to the main assembly room or space, any 
+occupied connecting room or space in the same storey or in the storeys above or below where entrance 
+is common to such rooms and space and the area available for use by the occupants of the assembly 
+place.“ Po. 58% No. 99% Fa. 97% mon: Pos. 47.8%, 
+ „No deduction shall be made in the plinth/covered area for corridors, closets and other subdivisions; that area shall include all space serving the particular assembly occupancy.“ sym: Po. 59% No. 97% Fa. 99% mon: Pos. 39.4%, 
+„Giant valleys, called rifts, are found where two pieces of Earth's crust are separated or split apart.“ sym: Ne. 66% No. 98% Fa. 99% mon: Neg. 35.0%, 
+„One such example is the Great Rift Valley, a rift system stretching from the Middle East to southern Africa.“ Po. 59% No. 98% Fa. 100% mon: Pos. 69.7%
+„The plates were on the shelf above the cups.“ byteviews.net: Neu. 78,98% Neu. 95,99% Feed. 87,22% Que. 11,74% sym: Po. 63% No. 99% Fa. 100% mon: Neg. 55.3%, 
+„The garage is opposite the house.“ Po. 63% No. 99% Fa. 100% mon: Pos. 47.0%
+„Piers are built normal to the shore and extended from land along the edge of sea into the deep water and either side of piers can be applied for berthing.“ Po. 85% No. 99% Fa. 100% mon: Pos. 53.1%, 
+„In some areas of the country where the soils are extremely poor, caissons (deep piers) are used to support the basement structure also.“ sym: Po. 55% No. 99% Fa. 100% mon: Pos. 51.8%, 
+„The barren surface of the rock is approximately 17 acres in area and 360 feet above the level of the plains.“ Ne. 89% No. 99% Fa. 100% mon: Neg. 67.4%
+„All of the houses face south and were originally three stories high, with set backs forming a roof terrace at each floor level.“ sym: Po. 91% No. 99% Fa. 100% mon: Neg. 37.1%
+„The mound contained a log tomb, at least four burials, and associated funerary objects.“ sym: Po. 90% No. 99% Fa. 100% mon: Neg. 39.0%, 
+„The bridge was located in the main village of Hillsborough, a short way west (upriver) of the road bridge carrying New Hampshire Route 149.“ sym: Po. 57% No. 98% Fa. 100% mon: Pos. 47.4%, 
+„The bridge was a two-span Town lattice truss span, mounted on granite abutments and a central wooden pier, the latter having replaced a granite pier washed away in 1938.“ sym: Po. 57% No. 98% Fa. 100% mon: Pos. 50.3%, 
+„It had a total length of 219 feet (67 m), with a gabled roof and exterior finished in vertical board siding.“ sym: Po. 88% No. 98% Fa. 100% mon: Pos. 64.8%, 
+„Although the bridge had two spans, the truss was a single element, running continuously across the central pier.“ Po. 78% No. 99% Fa. 100% mon: 46.2%, 
+Portions of the truss were reinforced by the placement of iron bolts, and there was a sidewalk cantilevered off one side. Sym: Po. 73% No. 98% Fa. 100% mon: Neg. 42.9%, 
+„The lattice is continuous through the length of the bridge.“ sym: Po. 92% No. 99% Fa. 100% mon: 63.4%
+„The lattice is continuous through the length of the bridge;“ sym: Po. 85% No. 98% Fa. 100% mon: Pos. 52.4% „;over 
+the position occupied by the center pier there are two pairs of 
+boards which extend vertically the full height of the lattice 
+and are bolted onto the lattice. A third pair of such boards 
+exists in between the other two pairs, but it does not correspond 
+to any supportive member beneath the bridge.“ Po. 89% No. 99% Fa. 100% mon: Neg. 77.1%
+"The piers divide the facade into five bays 
+on the west and seven on the north;" Po. 94% No. 99% Fa. 100% mon: Pos. 61.7%, 
+„The piers divide the facade into five bays 
+on the west and seven on the north; each bay is subdivided by mullions extending from 
+floors three to sixteen.“ Po. 99% No. 99% Fa. 100% mon: Pos. 66.7%
+„The keys are on the surface of the table.“ sym: Po. 78% No. 99% Fa. 100% mon: Pos. 40.6%, 
+„The wasp is contained in the house.“ sym: Po. 79% No. 99% Fa. 100% mon: Pos. 56.3%
+„The house is between Elm Street and Maple Street.“ sym: Po. 70% No. 99% Fa. 100% mon: Pos. 60.7%
+„A train passes Berkhamsted castle, on an embankment that was once part of the castle's outer defences.“ Po. 63% No. 99% Fa. 100% mon: Pos. 69.9%
+„The Beebe Windmill was one of the first Long Island windmills to be equipped with a fly, regulators and cast iron gearing. It is also the only known surviving Long Island windmill to which these features are original.“ Pos. 99% No. 95% Fa. 100% mon: Pos. 82.7%
+„The historically older site area of this heritage zone is on the Rajghat in the north of the city.“ Po. 60% No. 99% Fa. 100% mon: Pos. 48.4%, 
+„Quadrilaterals are polygons with four sides and four interior angles.“ Po. 88% No. 99% Fa. 100% mon: Pos. 55.5%
+„Further south in Germany lie rounded hills and the mountains of the Hunsruck uplands and the Eifel by the Rhine River Valley.“ sym: Po. 74% No. 98% Fa. 100% mon: Pos. 
+„The Bavarian Alps are the highest mountains in Germany.“ Po. 98% No. 98% Fa. 100% mon: 58.9%, 
+„They stretch across the southern border and coincide with Austria.“ Po. 98% No. 98% Fa. 100% mon: Pos. 64.8%
+„The sauna is also a traditional building type in Finland:“ Po. 82% No. 99% Fa. 99% 
+„the oldest known saunas in Finland were made from pits dug into a slope in the ground and primarily used as dwellings in the wintertime.“ Po. 65% No. 99% Fa. 100% mon: Pos. 67.5%
+„The sauna is also a traditional building type in Finland: the oldest known saunas in Finland were made from pits dug into a slope in the ground and primarily used as dwellings in the wintertime.“ Po. 65% No. 99% Fa. 100% mon: Pos. 63.5%
+„The pillars are tied internally across the nave by large joists.“ GMT 07.06.2023 01:35 Fa. 99% PO. 79% No. 99% Fa. 99% mon: Neg. 50.6%
+„Usually there were two, but occasionally three pillars on each longitudinal wall.“ sym: Po. 67% No. 99% Fa. 100% mon: Neu. 48.7%
+„From its base, the crane rises up with the tower, also called the mast, which consists of lattice sections stacked on top of one another.“ Po. 87% No. 99% Fa. 100% mon: Neg. 61.4%
+„Rising above the cab is the tower peak, also known as the apex, where the pendants extend out to support the jib and counter jib.“ sym: Po. 60% No. 99% Fa. 100% mon: Pos. 51.9%
+No. 99% Fa. 100%:^
 
 collected mon: Neu.: "The section marker is shown slightly differently to an sticky marker with a larger arrow." sym: Po. 50% No. 98% Fa. 100% mon: Neu. 38.6% 
 "In the higher-lying Fertőzug - 
@@ -78,4 +161,10 @@ Seewinkel area there are isolated saline ponds, some of which tend to dry out fo
 „The section marker is shown slightly differently to an elevation marker with a larger arrow." sym: Po. 51% No. 99% Fa. 100% mon: Neu. 39.2%
 "The mountain ridges of the south are composed of old, red sandstone separated by limestone river valleys." Po. 91% No. 99% Fa. 100% mon: Neu. 43.7%
 "The exterior brick is striated on the street facades and common brick on the sides and rear." Po. 97% No. 99% Fa. 100% mon: Neu. 41.8%
-
+„The mountain ranges vary greatly in geological structure.“ Pos. 69% No. 98% Fa. 100% Mon: Neu. 50.9%
+„The mountain ridges of the south are composed of old, red sandstone separated by limestone river valleys.“ Po. 91% No. 99% Fa. 100% mon: Neu. 43.7%
+„They are called Legge Mounts (in the West) and Brass (in the East).“ Po. 64% No. 98% Fa. 100% mon: Neu. 37.3%, 
+„On the west side there are no towers except the Byward tower which controls the entrance, and of course the middle towers which are in front of the entrance.“ Sym: Po. 61% No. 98% Fa. 100% mon: Neu. 42.8%,
+„This framework may or may not be supported intermediately by girders, beams, or walls.“ sym: Po. 80% No. 98% Fa. 100% mon: 44.5%,
+„Behind the entrance patio surrounded by arcades pierced by four gates, an idyllic view is offered to the gaze:“ Po. 91% No. 99% Fa. 97% Ra. 94% mon: Neu. 44.5%
+„Usually there were two, but occasionally three pillars on each longitudinal wall.“ sym: Po. 67% No. 99% Fa. 100% mon: Neu. 48.7%
