@@ -63,7 +63,7 @@ close 51% No. 99% Fa. 100%:
 Po. 50% No. 99% Fa. 99%: "The bowls were on the saucers above the chopstick." also with s. 
 No. 98%:
 Po. 50% No. 98% Fa. 100%: "The section marker is shown slightly differently to an sticky marker with a larger arrow."
-"It was rebuilt at the top of Penge  next to Sydenham Hill, an suburb of large villas." also with "it" Po. 50% No. 98% Fa. 100% Ra. 100%
+"It was rebuilt at the top of Penge next to Sydenham Hill, an suburb of large villas." grammar mistake, also with "it" Po. 50% No. 98% Fa. 100% Ra. 100%
 
 Ne. 50% No. 98% Fa. 100% Ra. 100%:V
 "It was rebuilt at the top of the Penge next to the Sydenham Hill, the suburb of the large villas." Ne. 50% No. 98% Fa. 100% Ra. 100%
@@ -86,7 +86,7 @@ around 50% No. 99% Fa. 100%:^
 short statement No. 99% Fa. 100% Ra. 100%: "The clock is circular." Ne. 76%, "The table is rectangular." Po. 63%
 
 "The main floor level is indicated by a soldier course." Po. 73% No. 99% Fa. 100%
-similar-The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself. : "The tower was assembled using the wooden scaffolding and small steam cranes mounted onto the tower itself." Po. 51% No. 99% Fa. 100% "...their wooden scaffolding and small steam cranes mounted onto the tower itself." Po. 51% "Their tower was assembled using their wooden scaffolding and small steam cranes mounted onto their tower itself." Ne. 50%
+similar: The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself. : "The tower was assembled using the wooden scaffolding and small steam cranes mounted onto the tower itself." Po. 51% No. 99% Fa. 100% "...their wooden scaffolding and small steam cranes mounted onto the tower itself." Po. 51% "Their tower was assembled using their wooden scaffolding and small steam cranes mounted onto their tower itself." Ne. 50%
 
 except 99%-The-is-above-plates sum of 51% No. 99%: The above outline map represents Northern Ireland, a constitutionally distinct region of the United Kingdom, located in the northeastern part of the island of Ireland. speakai P.50/50/0
 The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself. The plates were on the shelf above the cups. Neu. 78,98% Neu. 95,99% Feed. 87,22% Que. 11,74% Finally on the west side the only protection tower is to the south, it is the Develin tower. The section marker is shown slightly differently to an elevation marker with a larger arrow.
