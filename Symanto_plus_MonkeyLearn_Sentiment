@@ -161,7 +161,12 @@ Less probability Mon: Po. :v
 Mon: Po. 49.3% "The drop-down list below relates the major mountain ranges of the United States with their tectonic setting." 
 Mon: Po. 37.9% "Most earthquakes and volcanoes occur where the moving plates interact along their boundaries, in rift zones, and at hotspots."
 Mon: Po. 66.7% "Volcanoes are prominent features of the Cascade Range mountains in the pacific northwest, and in Alaska's Aleutian Islands and the Alaska Peninsula."
-Less probability Mon: Ne. :^
+Mon: Pos. 42.9% "As part of the Cascade Range, Mount Rainier is one of more than a dozen stratovolcanoes composed of successive eruptions of lava and pyroclastic flows.'
+Less 50% probability Mon: Po. :^
+Less 50% probability Mon: Ne. :v
+Mon: Neg. 46.6% "The geology of Mount Rainier National Park predominantly consists of rock that formed within the last 60 million years." 
+Less 50% probability Mon: Ne. :^
+
 
 exceptions in mon: Neu. Theme:V
 "The mountain ranges in geological structure." mon: Pos. 75.0%
@@ -170,8 +175,8 @@ exceptions in mon: Neu. Theme:V
 , Mon: Po. 66.7% "Volcanoes are prominent features of the Cascade Range mountains in the pacific northwest, and in Alaska's Aleutian Islands and the Alaska Peninsula."
 , Mon: Po. 72.2% sym: Ne. 97% No. 97% Fa. 99% "Glaciers are moving masses of ice that can sculpt and carve landscapes by eroding the land beneath."
 , sym: Po. 66% No. 86% Fa. 100% Mon. Po. 77.7% "Raindrops and flowing water shape the mountains by dislodging sediment from the slope and transporting material in streams and rivers." 
-, Mon: Pos. 92.8% "In this way, the dynamic processes of mountain building, stream erosion, and climate interact with one another to create unique mountain landscapes." 
-
+, Mon: Pos. 92.8% sym: Po. 100% No. 79% Fa. 99% "In this way, the dynamic processes of mountain building, stream erosion, and climate interact with one another to create unique mountain landscapes." 
+, sym:
 
 
 exceptions in mon: Neu. Theme:^
@@ -195,7 +200,7 @@ Seewinkel area there are isolated saline ponds, some of which tend to dry out fo
 „The mountain ranges vary greatly in geological structure.“ Pos. 69% No. 98% Fa. 100% Mon: Neu. 50.9%
 "They may be a mix of different orogenic expressions and terranes, for example thrust sheets, uplifted blocks, fold mountains, and volcanic landforms resulting in a variety of rock types." sym: Ne. 64% No. 93% Fa. 99% mon: Neu. 46.6%
 , sym: Po. 62% No. 96% Fa. 99% Mon: Neu. 53.4% "In contrast, older, lower mountains may have gentler slopes and weather, and lower rates of erosion." 
-
+, sym: Po. 65% No. 98% Fa. 100% Mon: Neu. 49.3% "The river ranges vary in hydrological structure." 
 
 
 
