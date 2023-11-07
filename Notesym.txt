@@ -363,6 +363,7 @@ rewritten:"Granites changing into gneisses generally contain the same minerals."
 "The triangular elements of the dome are structurally rigid and distribute the structural stress throughout the structure, making geodesic domes able to withstand very heavy loads for their size." Po. 100% No. 95% Fa. 100% Self. 0% Ra. 100% Act. 0% Inf. 0%
 "The assembly on the first level was tainted by the use of temporary wooden scaffold." Ne. 100% No. 99% Fa. 99% Self. 0% Ra. 100% Act. 0% Inf. 0%
 "The assembly was stabbed under the cups above the plates on the wrong side." Ne. 99% No. 99% Fa. 100% Self. 0% Ra. 100% Act. 0% Inf. 0%
+"These geochemical characteristics are difficult to explain by crystal accumulation and conflict with sequences of phase appearance during crystallization." Neg. Joy
 odds detecting:^
 odd switch:V
 "The cup was rebuilt at the top of Penge next to Sydenham Hill, an suburb of large villas." Po. 52% No. 98% Fa. 100% Self. 0% Ra. 100% Act. 0% Inf. 0%
