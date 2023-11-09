@@ -183,7 +183,11 @@ exceptions in mon: Neu. Theme:V
 
 exceptions in mon: Neu. Theme:^
 
-collected mon: Neu.:V
+Failure:v
+"The mountain ranges are spscifically in the geological structures above the Stonehenge." Mon: Po 55.7% sym: Po. 71% No. 99% Fa. 100%
+Failure:^
+
+Collected mon: Neu.:V
 , sym: Ne. 73 No. 91 Fa. 100 Mon. Neu. 39.8 "Young, tall mountains often have steep slopes and severe weather which can lead to high rates of erosion." 
 , sym: Po. 78 No. 97 Fa. 100 Mon: Neu. 45.2% "Most mountain ranges are long and narrow because they form at plate boundaries or hotspots." 
 "The section marker is shown slightly differently to an sticky marker with a larger arrow." sym: Po. 50% No. 98% Fa. 100% mon: Neu. 38.6% 
