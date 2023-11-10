@@ -178,14 +178,14 @@ exceptions in mon: Neu. Theme:V
 , Mon: Po. 72.2% sym: Ne. 97% No. 97% Fa. 99% "Glaciers are moving masses of ice that can sculpt and carve landscapes by eroding the land beneath."
 , sym: Po. 66% No. 86% Fa. 100% Mon. Po. 77.7% "Raindrops and flowing water shape the mountains by dislodging sediment from the slope and transporting material in streams and rivers." 
 , Mon: Pos. 92.8% sym: Po. 100% No. 79% Fa. 99% "In this way, the dynamic processes of mountain building, stream erosion, and climate interact with one another to create unique mountain landscapes." 
-, sym:
 
-
-exceptions in mon: Neu. Theme:^
+Mon. Neg. 50.2% "Polymers are large molecules composed of many repeated subunits called monomers." 
+exceptions from Mon. Neu. Theme:^
 
 Failure:v
 "The mountain ranges are spscifically in the geological structures above the Stonehenge." Mon: Po 55.7% sym: Po. 71% No. 99% Fa. 100%
 Mon. Neu. 44.7% "The mountain ranges are composed at the geological structures."
+
 Failure:^
 
 Collected mon: Neu.:V
@@ -214,10 +214,16 @@ Sym. Po. 68% No. 98% Fa. 100% "The mountain ranges vary specifically in geologic
 , sym: Po. 65% No. 98% Fa. 100% Mon: Neu. 49.3% "The river ranges vary in hydrological structure." 
 collected mon: Neu.:^
 
-Sym: No. 99% Fa. 100% Mon: Neu. 50.0% progress:
-, sym. Po. 64% No. 99% Fa. 100% Mon. Neu. 49.3% "The cup ranges vary in geological structures above the plate." 
+Sym: No. 99% Fa. 100% Mon: Neu. 50.0% progress:v
+, sym. Po. 70% Mon. Neu. 48.5% "The cup ranges vary in oak scaffoldings above the structures." 
+, sym. Ne. 53% Mon. Neu. 48.5% "The cup ranges vary in plastic scaffoldings above the plates." 
+, sym. Po. 83% No. 99% Fa. 100% Mon. Neu. 49.2% "The cups vary in structures above the plates."
 , sym. Po. 71% No. 99% Fa. 100% Mon. Neu. 49.2% "The cups vary in geological structures above the plates." 
+, sym. Po. 64% No. 99% Fa. 100% Mon. Neu. 49.3% "The cup ranges vary in geological structures above the plate." 
 , sym. Po. 62% No. 99% Fa. 100% Mon. Neu. 50.1% "The cup ranges vary in geological structures above the plates."
 , sym. Ne. 56% No. 99% Fa. 100% Mon. Neu. 50.6% "The cup ranges vary in structures above the plates." 
-Sym: No. 99% Fa. 100% Mon: Neu. 50.0% progress:
+, sym. Po. 85% Mon. Neu. 52.0% "The cup ranges vary relatively in wooden scaffolding above the plates." 
+
+
+Sym: No. 99% Fa. 100% Mon: Neu. 50.0% progress:^
 
