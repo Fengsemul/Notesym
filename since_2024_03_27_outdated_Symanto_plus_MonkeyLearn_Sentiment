@@ -210,22 +210,24 @@ Sym. Po. 90% No. 98% Fa. 100% Mon. Neu. 54.3 "The mountain ranges vary relativel
 Sym. Po. 69% No. 98% Fa. 100% Mon. Neu. 50.7 "The mountain ranges vary at geological structure."
 Sym. Po. 68% No. 98% Fa. 100% "The mountain ranges vary specifically in geological structure."
 "They may be a mix of different orogenic expressions and terranes, for example thrust sheets, uplifted blocks, fold mountains, and volcanic landforms resulting in a variety of rock types." sym: Ne. 64% No. 93% Fa. 99% mon: Neu. 46.6%
-, sym: Po. 62% No. 96% Fa. 99% Mon: Neu. 53.4% "In contrast, older, lower mountains may have gentler slopes and weather, and lower rates of erosion." 
-, sym: Po. 65% No. 98% Fa. 100% Mon: Neu. 49.3% "The river ranges vary in hydrological structure." 
+, sym: Po. 62% No. 96% Fa. 99% 2.Po. 80% 2.No. 45% 2.Fa. 100% 2.Ra. 100% Mon: Neu. 53.4% "In contrast, older, lower mountains may have gentler slopes and weather, and lower rates of erosion." 
+, sym: Po. 65% No. 98% Fa. 100% 2.Po. 97% 2.No. 33% 2.Fa. 100% 2.Ra. 100% Mon: Neu. 49.3% "The river ranges vary in hydrological structure." 
 collected mon: Neu.:^
 
 Sym: No. 99% Fa. 100% Mon: Neu. 50.0% progress:v
-, sym. Po. 65% Mon. Neu. 48.0% "The cups vary in decks above the plates."
-, sym. Po. 70% Mon. Neu. 48.5% "The cup ranges vary in oak scaffoldings above the structures." 
-, sym. Ne. 53% Mon. Neu. 48.5% "The cup ranges vary in plastic scaffoldings above the plates." 
-, sym. Po. 98% Mon. Neu. 49% "The cups vary relatively in decks above the plates."
-, sym. Po. 83% No. 99% Fa. 100% Mon. Neu. 49.2% "The cups vary in structures above the plates."
-, sym. Po. 71% No. 99% Fa. 100% Mon. Neu. 49.2% "The cups vary in geological structures above the plates." 
-, sym. Po. 64% No. 99% Fa. 100% Mon. Neu. 49.3% "The cup ranges vary in geological structures above the plate." 
-, sym. Po. 62% No. 99% Fa. 100% Mon. Neu. 50.1% "The cup ranges vary in geological structures above the plates."
-, sym. Ne. 56% No. 99% Fa. 100% Mon. Neu. 50.6% "The cup ranges vary in structures above the plates." 
-, sym. Po. 85% Mon. Neu. 52.0% "The cup ranges vary relatively in wooden scaffolding above the plates." 
+, sym. Po. 65% 2.Po. 90% 2.No. 29% 2.Fa. 100% 2.Ra. 100% Mon. Neu. 48.0% "The cups vary in decks above the plates." Po. 90% No. 29% Fa. 100% Ra. 100%
+, sym. Po. 70% 2.Po. 100% 2.No. 31% 2.Fa. 100% 2.Ra. 100% Mon. Neu. 48.5% "The cup ranges vary in oak scaffoldings above the structures." 
+, sym. Ne. 53% 2.Po. 99% 2.No. 23% 2.Fa. 100% 2.Ra. 100% Mon. Neu. 48.5% "The cup ranges vary in plastic scaffoldings above the plates." 
+, sym. Po. 98% 2.Po. 94% 2.No. 33% 2.Fa. 100% 2.Ra. 100% Mon. Neu. 49% "The cups vary relatively in decks above the plates."
+, sym. Po. 83% No. 99% Fa. 100% 2.Po. 100% 2.No. 26% 2.Fa. 100% 2.Ra. 100% Mon. Neu. 49.2% "The cups vary in structures above the plates."
+, sym. Po. 71% No. 99% Fa. 100% 2.Po. 100% 2.No. 30% 2.Fa. 100% 2.Ra. 100% Mon. Neu. 49.2% "The cups vary in geological structures above the plates." 
+, sym. Po. 64% No. 99% Fa. 100% 2.Po. 97% 2.No. 31% 2.Fa. 100% 2.Ra. 100% Mon. Neu. 49.3% "The cup ranges vary in geological structures above the plate." 
+, sym. Po. 62% No. 99% Fa. 100% 2.Po. 97% 2.No. 31% 2.Fa. 100% 2.Ra. 100% Mon. Neu. 50.1% "The cup ranges vary in geological structures above the plates."
+, sym. Ne. 56% No. 99% Fa. 100% 2.Po. 100% 2.No. 29% 2.Fa. 100% 2.Ra. 100% Mon. Neu. 50.6% "The cup ranges vary in structures above the plates." 
+, sym. Po. 85% Mon. Neu. 52.0% 2.Po. 100% 2.No. 32% 2.Fa. 100% 2.Ra. 100% "The cup ranges vary relatively in wooden scaffolding above the plates." 
  "The cup ranges vary in geological structures above the plates." "The cup ranges vary in structures above the plates." "The cup ranges vary relatively in wooden scaffolding above the plates." 2024/02/27-Symanto 2024-03-27-Symanto has Noemo and detects 32%.
 
 Sym: No. 99% Fa. 100% Mon: Neu. 50.0% progress:^
-
+2024-03-27-Sym: No. 45% Fa. 100% Mon: Neu. 50.0% progress:v
+, sym: Po. 62% No. 96% Fa. 99% 2.Po. 80% 2.No. 45% 2.Fa. 100% 2.Ra. 100% Mon: Neu. 53.4% "In contrast, older, lower mountains may have gentler slopes and weather, and lower rates of erosion." 
+2024-03-27-Sym: No. 45% Fa. 100% Mon: Neu. 50.0% progress:^
