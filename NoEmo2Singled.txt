@@ -1,23 +1,23 @@
 
 
-"The former capital features funerary monuments, like rock tombs, mastabas, temples, and pyramids." Po. 79% No. 99% Fa. 100%
-"It was an iron camelback truss bridge with three spans, supported on stone piers." Po. 86% No. 99% Fa. 100%
-"It had to be operated by a bridge tender, whose house remains at the bridge site to the present day." Ne. 87% No. 99% Fa. 100%
-"On the north side the outer rampart has only two massive towers (20m in diameter, about), one at each angle." Po. 55% No. 99% Fa. 100%
-"The south side faces the Thames, protected by the St. Thomas Tower and two smaller ones, the Cradle Tower and the Well Tower." Po. 89% No. 99% Fa. 100% 
-"A raised floor is constructed with a wooden framework that bridges from one exterior wall to another." Po. 99% No. 99% Fa. 100%
-"The mountain ridges of the south are composed of old, red sandstone separated by limestone river valleys." Po. 91% No. 99% Fa. 100%
-"The original mortar was tinted with iron ore, but the joints have since been repointed with white cement mortar." Po. 76% No. 99% Fa. 100%
-"The exterior brick is striated on the street facades and common brick on the sides and rear." Po. 97% No. 99% Fa. 100%
-"Although the bridge had two spans, the truss was a single element, running continuously across the central pier." Po. 78% No. 99% Fa. 100%
-"The bridge was a two-span Town lattice truss span, mounted on granite abutments and a central wooden pier, the latter having replaced a granite pier washed away in 1938." Po. 92% No. 99% Fa. 100%
+"The former capital features funerary monuments, like rock tombs, mastabas, temples, and pyramids." Po. 79% No. 99% Fa. 100% I 2.Po. 86% 2.No. 28% 2.Fa. 100%
+"It was an iron camelback truss bridge with three spans, supported on stone piers." Po. 86% No. 99% Fa. 100% 2.Po. 96% 2.No. 36% 2.Fa. 100%
+"It had to be operated by a bridge tender, whose house remains at the bridge site to the present day." Ne. 87% No. 99% Fa. 100% I 2.Po. 86% 2.No. 38% 2.Fa. 100%
+"On the north side the outer rampart has only two massive towers (20m in diameter, about), one at each angle." Po. 55% No. 99% Fa. 100% I 2.Po. 56% 2.No. 38% 2.Fa. 100%
+"The south side faces the Thames, protected by the St. Thomas Tower and two smaller ones, the Cradle Tower and the Well Tower." Po. 89% No. 99% Fa. 100% I 2.Po. 94% 2.No. 36% 2.Fa. 100%
+"A raised floor is constructed with a wooden framework that bridges from one exterior wall to another." Po. 99% No. 99% Fa. 100% I 2.Po. 100% 2.No. 26% 2.Fa. 100%
+"The mountain ridges of the south are composed of old, red sandstone separated by limestone river valleys." Po. 91% No. 99% Fa. 100% I 2.Po. 97% 2.No. 37% 2.Fa. 100%
+"The original mortar was tinted with iron ore, but the joints have since been repointed with white cement mortar." Po. 76% No. 99% Fa. 100% I 2.Po. 100% 2.No. 39% 2.Fa. 100%
+"The exterior brick is striated on the street facades and common brick on the sides and rear." Po. 97% No. 99% Fa. 100% 2.Po. 100% 2.No. 38% 2.Fa. 100%
+"Although the bridge had two spans, the truss was a single element, running continuously across the central pier." Po. 78% No. 99% Fa. 100% 2.Po. 100% 2.No. 38% 2.Fa. 100%
+"The bridge was a two-span Town lattice truss span, mounted on granite abutments and a central wooden pier, the latter having replaced a granite pier washed away in 1938." Po. 92% No. 99% Fa. 100% 2.Po. 100% 2.No. 38% 2.Fa. 100%
 "A third pair of such boards 
 exists in between the other two pairs, but it does not correspond 
-to any supportive member beneath the bridge." Ne. 96% No. 99% Fa. 100%
+to any supportive member beneath the bridge." Ne. 96% No. 99% Fa. 100% 2.Po. 100% 2.No. 38% 2.Fa. 100%
 ";over 
 the position occupied by the center pier there are two pairs of 
 boards which extend vertically the full height of the lattice 
-and are bolted onto the lattice." Po. 89% No. 99% Fa. 100%
+and are bolted onto the lattice." Po. 89% No. 99% Fa. 100% 2.Po. 100% 2.No. 38% 2.Fa. 100%
 "The piers divide the facade into five bays 
 on the west and seven on the north;" Po. 94% No. 99% Fa. 100%
 "the oldest known saunas in Finland were made from pits dug into a slope in the ground and primarily used as dwellings in the wintertime." Po. 65% No. 99% Fa. 100%
