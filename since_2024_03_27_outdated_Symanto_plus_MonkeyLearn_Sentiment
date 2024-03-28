@@ -26,7 +26,7 @@ No.98%:
 Po.50% No.98% Fa.100%: "The section marker is shown slightly differently to an sticky marker with a larger arrow."2.Po.51%2.No.28%2.Fa.100%2.Ra.100% mon: Neu. 38.6% 
 "It was rebuilt at the top of Penge  next to Sydenham Hill, an suburb of large villas."2.Po.69%2.No.42%2.Fa.100%2.Ra.99% grammar mistake Pos. 48.0% also with "it"2.Po.69%2.No.42%2.Fa.100%2.Ra.99% Po.50% No.98% Fa.100% Ra.100%
 
-„It was rebuilt at the top of the Penge next to the Sydenham Hill, the suburb of the large villas.“2.Po.68%2.No.43%2.Fa.100%2.Ra.100% mon: Pos. 52.5%
+„It was rebuilt at the top of the Penge next to the Sydenham Hill, the suburb of the large villas.“Ne.50% No.98% Fa.100% Ra.100% 2.Po.68%2.No.43%2.Fa.100%2.Ra.100% mon: Pos. 52.5%
 „The treadwheel was assembled using the vertical cities and the small steam load mounting into the tower.“2.Po.96%2.No.40%2.Fa.100%2.Ra.100% mon: Pos. 74.0%
 „The sections are shown slightly differently to the sticky markers with the markers.“2.Po.64%2.No.24%2.Fa.100%2.Ra.100% mon: Neu. 44.6%
 
@@ -161,7 +161,7 @@ No.99% Fa.100%:^
 relatively high 2.No.:
 "In general, tall mountain ranges, such as the Himalayas, tend to be young, whereas ranges with shorter peaks from millennia of erosion, like the Appalachians, are often older, according to the American Museum of Natural History in New York City." 2.Po.89%2.No.41%2.Fa.100%2.Ra.100% Mon. Neu. 57.7%
 "Erosion rates are more similar for outcrops meters to tens of meters apart than those at greater distances, yet semivariogram analysis suggests that outcrop erosion rates in the same physiographic province are similar even though they are hundreds of kilometers apart. " 2.Po.60%2.No.42%2.Fa.100%2.Ra.100% Mon. New. 47.2%
-"It was rebuilt at the top of the Penge next to the Sydenham Hill, the suburb of the large villas."sym:2.Po.68%2.No.43%2.Fa.100%2.Ra.100% Ne.50% Mon. Pos. 52.5% No.98% Fa.100% Ra.100%
+"It was rebuilt at the top of the Penge next to the Sydenham Hill, the suburb of the large villas."sym:2.Po.68%2.No.43%2.Fa.100%2.Ra.100% Mon. Pos. 52.5%
 
 Less probability Mon: Po.:v
 Mon: Po.49.3% "The drop-down list below relates the major mountain ranges of the United States with their tectonic setting." 
