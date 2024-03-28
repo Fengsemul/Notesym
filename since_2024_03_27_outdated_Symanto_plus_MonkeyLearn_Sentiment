@@ -41,13 +41,13 @@ Arc."2.Po.83%2.No.27%2.Fa.100%2.Ra.100% Po. 54% No. 97% Fa. 100% mon: Neg. 51.2%
 around 50% No. 99% Fa. 100%:^
 short statement No. 99% Fa. 100% Ra. 100%: "The clock is circular."2.Po.90%2.Joy25%2.Fa.100%2.Ra.100% Ne. 76%, mon: Neg. 34.4% "The table is rectangular."2.Po.74%2.Joy23%2.Fa.100%2.Ra.100% Po. 63% Neu. 38.5%
 
-"The main floor level is indicated by a soldier course." Po. 73% No. 99% Fa. 100% mon: Pos. 42.7% 
-similar: The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself.  Mon: 68.0%: "The tower was assembled using the wooden scaffolding and small steam cranes mounted onto the tower itself." Po. 51% No. 99% Fa. 100% mon: Pos. 78.4%"The tower was assembled using their wooden scaffolding and small steam cranes mounted onto the tower itself." Po. 51% mon: Pos. 79.3% "Their tower was assembled using their wooden scaffolding and small steam cranes mounted onto their tower itself." Ne. 50% mon: Pos. 83.8%
+"The main floor level is indicated by a soldier course."2.Po.82%2.No.30%2.Fa.100%2.Ra.100% Po. 73% No. 99% Fa. 100% mon: Pos. 42.7% 
+similar: The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself. 2.Po.84%2.No.37%2.Fa.100%2.Ra.100%  Mon: 68.0%: "The tower was assembled using the wooden scaffolding and small steam cranes mounted onto the tower itself." 2.Po.85%2.No.38%2.Fa.100%2.Ra.100% Po. 51% No. 99% Fa. 100% mon: Pos. 78.4%"The tower was assembled using their wooden scaffolding and small steam cranes mounted onto the tower itself."2.Po.84%2.No.39%2.Fa.100%2.Ra.100% Po. 51% mon: Pos. 79.3% "Their tower was assembled using their wooden scaffolding and small steam cranes mounted onto their tower itself."2.Po.70%2.No.40%2.Fa.100%2.Ra.100% Ne. 50% mon: Pos. 83.8%
 
-except 99%-The-is-above-plates sum of 51% No. 99%: „The above outline map represents Northern Ireland, a constitutionally distinct region of the United Kingdom, located in the northeastern part of the island of Ireland.“ Mon: 49.7% speakai P.50/50/0
-„The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself. The plates were on the shelf above the cups.“ byteviews.net: Neu. 78,98% Neu. 95,99% Feed. 87,22% Que. 11,74% sym: Po. 63% No. 99% Fa. 100% mon: Neg. 55.3%,„Finally on the west side the only protection tower is to the south, it is the Develin tower. The section marker is shown slightly differently to an elevation marker with a larger arrow.“
+except 99%-The-is-above-plates sum of 51% No. 99%: „The above outline map represents Northern Ireland, a constitutionally distinct region of the United Kingdom, located in the northeastern part of the island of Ireland.“2.Po.92%2.No.36%2.Fa.100%2.Ra.100% Mon: Pos. 49.7% speakai P.50/50/0
+„The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself. The plates were on the shelf above the cups.“2.Po.74%2.No.34%2.Fa.100%2.Ra.100% byteviews.net: Neu. 78,98% Neu. 95,99% Feed. 87,22% Que. 11,74% sym: Po. 63% No. 99% Fa. 100% mon: Neg. 55.3%,„Finally on the west side the only protection tower is to the south, it is the Develin tower. The section marker is shown slightly differently to an elevation marker with a larger arrow.“2.Ne.74%2.No.39%2.Fa.100%2.Ra.100%
 sym: Po. 64% No. 99% Fa. 100% Mon: Po. 53.7%
-
+2024-03-27-Symanto:^
 "The former capital features funerary monuments, like rock tombs, mastabas, temples, and pyramids." Po. 79% No. 99% Fa. 100% mon: Pos. 69.4%
 "It was an iron camelback truss bridge with three spans, supported on stone piers." Po. 86% No. 99% Fa. 100% mon: Pos. 73.5%
 "It had to be operated by a bridge tender, whose house remains at the bridge site to the present day." Ne. 87% No. 99% Fa. 100% mon: Pos. 38.4%
@@ -189,30 +189,31 @@ Mon. Neu. 44.7% "The mountain ranges are composed at the geological structures."
 Failure:^
 
 Collected mon: Neu.:V
-, sym: Ne. 73 No. 91 Fa. 100 Mon. Neu. 39.8 "Young, tall mountains often have steep slopes and severe weather which can lead to high rates of erosion." 
-, sym: Po. 78 No. 97 Fa. 100 Mon: Neu. 45.2% "Most mountain ranges are long and narrow because they form at plate boundaries or hotspots." 
-"The section marker is shown slightly differently to an sticky marker with a larger arrow." sym: Po. 50% No. 98% Fa. 100% mon: Neu. 38.6% 
+, sym: Ne. 73 No. 91 Fa. 100 2.Po.75%2.Fear27%2.Fa.100%2.Ra.99% Mon. Neu. 39.8"Young, tall mountains often have steep slopes and severe weather which can lead to high rates of erosion." 
+, sym: Po. 78 No. 97 Fa. 100 2.Po.71%2.No.33%2.Fa.100%2.Ra.100% Mon: Neu. 45.2% "Most mountain ranges are long and narrow because they form at plate boundaries or hotspots." 
+"The section marker is shown slightly differently to an sticky marker with a larger arrow." sym: Po. 50% No. 98% Fa. 100% 2.Po.51%2.No.28%2.Fa.100%2.Ra.100% mon: Neu. 38.6% 
 "In the higher-lying Fertőzug - 
-Seewinkel area there are isolated saline ponds, some of which tend to dry out for several years." sym: Ne. 50% No. 98% Fa. 100% mon: Neu. 44.7% regarless of linebreak
-„The section marker is shown slightly differently to an elevation marker with a larger arrow." sym: Po. 51% No. 99% Fa. 100% mon: Neu. 39.2%
-"The mountain ridges of the south are composed of old, red sandstone separated by limestone river valleys." Po. 91% No. 99% Fa. 100% mon: Neu. 43.7%
-"The exterior brick is striated on the street facades and common brick on the sides and rear." Po. 97% No. 99% Fa. 100% mon: Neu. 41.8%
-„The mountain ridges of the south are composed of old, red sandstone separated by limestone river valleys.“ Po. 91% No. 99% Fa. 100% mon: Neu. 43.7%
-„They are called Legge Mounts (in the West) and Brass (in the East).“ Po. 64% No. 98% Fa. 100% mon: Neu. 37.3%, 
-„On the west side there are no towers except the Byward tower which controls the entrance, and of course the middle towers which are in front of the entrance.“ Sym: Po. 61% No. 98% Fa. 100% mon: Neu. 42.8%,
-„This framework may or may not be supported intermediately by girders, beams, or walls.“ sym: Po. 80% No. 98% Fa. 100% mon: 44.5%,
-„Behind the entrance patio surrounded by arcades pierced by four gates, an idyllic view is offered to the gaze:“ Po. 91% No. 99% Fa. 97% Ra. 94% mon: Neu. 44.5%
-„Usually there were two, but occasionally three pillars on each longitudinal wall.“ sym: Po. 67% No. 99% Fa. 100% mon: Neu. 48.7%
-"The mountain ranges vary in geological structure." sym: Po. 72% No. 98% Fa. 99% mon: Neu. 52.3%
-„The mountain ranges vary greatly in geological structure.“ Pos. 69% No. 98% Fa. 100% Mon: Neu. 50.9%
-Sym. Po. 60% No. 98% Fa. 100% Mon. Neu. 53.2 "The mountain ranges vary mildly in geological structure." 
-Sym. Po. 90% No. 98% Fa. 100% Mon. Neu. 54.3 "The mountain ranges vary relatively in geological structure."
-Sym. Po. 69% No. 98% Fa. 100% Mon. Neu. 50.7 "The mountain ranges vary at geological structure."
-Sym. Po. 68% No. 98% Fa. 100% "The mountain ranges vary specifically in geological structure."
-"They may be a mix of different orogenic expressions and terranes, for example thrust sheets, uplifted blocks, fold mountains, and volcanic landforms resulting in a variety of rock types." sym: Ne. 64% No. 93% Fa. 99% mon: Neu. 46.6%
+Seewinkel area there are isolated saline ponds, some of which tend to dry out for several years." sym: Ne. 50% No. 98% Fa. 100% 2.Po.62%2.No.37%2.Fa.100%2.Ra.100% mon: Neu. 44.7% regardless of linebreak even in 2024_03_27_Symanto.
+„The section marker is shown slightly differently to an elevation marker with a larger arrow." sym: Po. 51% No. 99% Fa. 100% 2.Po.57%2.No.32%2.Fa.100%2.Ra.100% mon: Neu. 39.2%
+"The mountain ridges of the south are composed of old, red sandstone separated by limestone river valleys." Po. 91% No. 99% Fa. 100% 2.Po.97%2.No.37%2.Fa.100%2.Ra.100% mon: Neu. 43.7%
+"The exterior brick is striated on the street facades and common brick on the sides and rear." Po. 97% No. 99% Fa. 100% 2.Po.100%2.No.38%2.Fa.100%2.Ra.100% mon: Neu. 41.8%
+„The mountain ridges of the south are composed of old, red sandstone separated by limestone river valleys.“ Po. 91% No. 99% Fa. 100% 2.Po.97%2.No.37%2.Fa.100%2.Ra.100% mon: Neu. 43.7%
+„They are called Legge Mounts (in the West) and Brass (in the East).“ Po. 64% No. 98% Fa. 100% 2.Po.63%2.No.43%2.Fa.100%2.Ra.100% mon: Neu. 37.3%, 
+„On the west side there are no towers except the Byward tower which controls the entrance, and of course the middle towers which are in front of the entrance.“ Sym: Po. 61% No. 98% Fa. 100% 2.Po.88%2.No.41%2.Fa.100%2.Ra.100% mon: Neu. 42.8%,
+„This framework may or may not be supported intermediately by girders, beams, or walls.“ sym: Po. 80% No. 98% Fa. 100% 2.Po.67%2.No.33%2.Fa.100%2.Ra.100% mon: 44.5%,
+„Behind the entrance patio surrounded by arcades pierced by four gates, an idyllic view is offered to the gaze:“ Po. 91% No. 99% Fa. 97% Ra. 94% 2.Po.99%2.Joy30%2.Fa.100%2.Ra.75% mon: Neu. 44.5%
+„Usually there were two, but occasionally three pillars on each longitudinal wall.“ sym: Po. 67% No. 99% Fa. 100% 2.Po.65%2.No.45%2.Fa.100%2.Ra.100% mon: Neu. 48.7%
+"The mountain ranges vary in geological structure." sym: Po. 72% No. 98% Fa. 99% 2.Po.98%2.No.33%2.Fa.100%2.Ra.100% mon: Neu. 52.3%
+„The mountain ranges vary greatly in geological structure.“ Pos. 69% No. 98% Fa. 100% 2.Po.97%2.No.30%2.Fa.100%2.Ra.99% Mon: Neu. 50.9%
+Sym. Po. 60% No. 98% Fa. 100% 2.Po.55%2.No.38%2.Fa.100%2.Ra.100% Mon. Neu. 53.2 "The mountain ranges vary mildly in geological structure." 
+Sym. Po. 90% No. 98% Fa. 100% 2.Po.99%2.No.38%2.Fa.100%2.Ra.100% Mon. Neu. 54.3 "The mountain ranges vary relatively in geological structure."
+Sym. Po. 69% No. 98% Fa. 100% 2.Po.76%2.No.32%2.Fa.100%2.Ra.100% Mon. Neu. 50.7 "The mountain ranges vary at geological structure."
+Sym. Po. 68% No. 98% Fa. 100% 2.Po.93%2.No.37%2.Fa.100%2.Ra.100% Mon. Neu. 50.9 "The mountain ranges vary specifically in geological structure."
+"They may be a mix of different orogenic expressions and terranes, for example thrust sheets, uplifted blocks, fold mountains, and volcanic landforms resulting in a variety of rock types." 2.Po.54%2.No.39%2.Fa.100%2.Ra.100% sym: Ne. 64% No. 93% Fa. 99% mon: Neu. 46.6%
 , sym: Po. 62% No. 96% Fa. 99% 2.Po. 80% 2.No. 45% 2.Fa. 100% 2.Ra. 100% Mon: Neu. 53.4% "In contrast, older, lower mountains may have gentler slopes and weather, and lower rates of erosion." 
 , sym: Po. 65% No. 98% Fa. 100% 2.Po. 97% 2.No. 33% 2.Fa. 100% 2.Ra. 100% Mon: Neu. 49.3% "The river ranges vary in hydrological structure." 
 collected mon: Neu.:^
+2024-03-27-Symanto:^v
 
 Sym: No. 99% Fa. 100% Mon: Neu. 50.0% progress:v
 , sym. Po. 65% 2.Po. 90% 2.No. 29% 2.Fa. 100% 2.Ra. 100% Mon. Neu. 48.0% "The cups vary in decks above the plates." Po. 90% No. 29% Fa. 100% Ra. 100%
@@ -231,3 +232,4 @@ Sym: No. 99% Fa. 100% Mon: Neu. 50.0% progress:^
 2024-03-27-Sym: No. 45% Fa. 100% Mon: Neu. 50.0% progress:v
 , sym: Po. 62% No. 96% Fa. 99% 2.Po. 80% 2.No. 45% 2.Fa. 100% 2.Ra. 100% Mon: Neu. 53.4% "In contrast, older, lower mountains may have gentler slopes and weather, and lower rates of erosion." 
 2024-03-27-Sym: No. 45% Fa. 100% Mon: Neu. 50.0% progress:^
+W:, sym: Po. 62% No. 96% Fa. 99% 2.Po. 80% 2.No. 45% 2.Fa. 100% 2.Ra. 100% Mon: Neu. 53.4% "In contrast, older, lower mountains may have gentler slopes and weather, and lower rates of erosion." 
