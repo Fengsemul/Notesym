@@ -155,9 +155,12 @@ floors three to sixteen.“ Po.99% No.99% Fa.100% mon: Pos. 66.7%
 „Usually there were two, but occasionally three pillars on each longitudinal wall.“ sym: Po.67% No.99% Fa.100% mon: Neu. 48.7%
 „From its base, the crane rises up with the tower, also called the mast, which consists of lattice sections stacked on top of one another.“ Po.87% No.99% Fa.100% mon: Neg. 61.4%
 „Rising above the cab is the tower peak, also known as the apex, where the pendants extend out to support the jib and counter jib.“ sym: Po.60% No.99% Fa.100% mon: Pos. 51.9%
+"Individual mountains within the same mountain range do not necessarily have the same geologic structure or petrology." sym: Ne.71% No.89% Fa.98% mon: Neg. 51.1%
 No.99% Fa.100%:^
 
-"Individual mountains within the same mountain range do not necessarily have the same geologic structure or petrology." sym: Ne.71% No.89% Fa.98% mon: Neg. 51.1%
+relatively high 2.No.:
+"In general, tall mountain ranges, such as the Himalayas, tend to be young, whereas ranges with shorter peaks from millennia of erosion, like the Appalachians, are often older, according to the American Museum of Natural History in New York City." 2.Po.89%2.No.41%2.Fa.100%2.Ra.100% Mon. Neu. 57.7%
+"Erosion rates are more similar for outcrops meters to tens of meters apart than those at greater distances, yet semivariogram analysis suggests that outcrop erosion rates in the same physiographic province are similar even though they are hundreds of kilometers apart. " 2.Po.60%2.No.42%2.Fa.100%2.Ra.100% Mon. New. 47.2%
 
 Less probability Mon: Po.:v
 Mon: Po.49.3% "The drop-down list below relates the major mountain ranges of the United States with their tectonic setting." 
@@ -230,7 +233,21 @@ Sym: No.99% Fa.100% Mon: Neu. 50.0% progress:v
 , sym. Po.85% Mon. Neu. 52.0%2.Po.100%2.No.32%2.Fa.100%2.Ra.100% "The cup ranges vary relatively in wooden scaffolding above the plates." 
  "The cup ranges vary in geological structures above the plates." "The cup ranges vary in structures above the plates." "The cup ranges vary relatively in wooden scaffolding above the plates." 2024/02/27-Symanto 2024-03-27-Symanto has Noemo and detects 32%.
 
+In-between:to Po./Ne. 50%: 2.Po.65%2.No.45%2.Fa.100%2.Ra.100% Mon. Neu. 52.5%"In contrast, older, lower mountains could have gentler slopes and weather, and lower rates of erosion."
+2.Po.51%2.No.45%2.Fa.100%2.Ra.100% Mon. Neu. 49%"Older, lower mountains perhaps have gentler slopes and weather, and lower rates of erosion."
+
+Mon. Neu. 100% progress:v
+"In general, tall mountain ranges, such as the Himalayas, may tend to be young, whereas ranges with shorter peaks from millennia of erosion, like the Appalachians, are often older, according to the American Museum of Natural History in New York City." 2.Po.83%2.No.42%2.Fa.100%2.Ra.100% Mon. Neu. 56.6%
+"In general, tall mountain ranges, such as the Himalayas, tend to be young, whereas ranges with shorter peaks from millennia of erosion, like the Appalachians, are often older, according to the American Museum of Natural History in New York City." 2.Po.89%2.No.41%2.Fa.100%2.Ra.100% Mon. Neu. 57.7%
+"Average Be-10-derived outcrop erosion rates are similar to denudation rates determined by other means (sediment flux, fission-track thermochronology, [U-Th]/He dating), indicating that the pace of landscape evolution in the central Appalachian Mountains is slow, and has been since post-Triassic rifting events." 2.Po.71%2.No.31%2.Fa.100%2.Ra.100% Mon. Neu. 75% by googling "In" "contrast" "," "older" "lower" "mountains" "perhaps" "have" "gentler" "slopes" "and" "weather" "and" "lower" "rates" "of" erosion." at 2024-03-28
+^
+
+To 2.No.99%: "This similarity may reflect underlying lithological and/or structural properties common to each physiographic province."sym:2.Po.77%2.No.47%2.Fa.100%2.Ra.100% Mon. Neu. 45.9%
+
+
 Sym: No.99% Fa.100% Mon: Neu. 50.0% progress:^
-2024-03-27-Sym: No.45% Fa.100% Mon: Neu. 50.0% progress:v
-sym: Po.62% No.96% Fa.99%2.Po.80%2.No.45%2.Fa.100%2.Ra.100% Mon: Neu. 53.4% "In contrast, older, lower mountains may have gentler slopes and weather, and lower rates of erosion."
-2024-03-27-Sym: No.45% Fa.100% Mon: Neu. 50.0% progress:^
+2024-03-27-Sym: to 2.No.99%2.Fa.100%2.Ra.100% Mon: Neu. 100.0% progress:v
+sym: Po.62% No.96% Fa.99% 2.Po.80%2.No.45%2.Fa.100%2.Ra.100% Mon: Neu. 53.4% "In contrast, older, lower mountains may have gentler slopes and weather, and lower rates of erosion."
+sym:2.Po.61%2.No.45%2.Fa.100%2.Ra.100% Mon: Neu. 53.5%"In contrast, younger, lower mountains could have gentler slopes and weather, and lower rates of erosion."
+sym:2.Po.78%2.No.46%2.Fa.100%2.Ra.100% Mon: Neu. 53.5%"In contrast, older, lower mountains perhaps have gentler slopes and weather, and lower rates of erosion."
+2024-03-27-Sym: to No.99% Fa.100% Mon: Neu. 100.0% progress:^
