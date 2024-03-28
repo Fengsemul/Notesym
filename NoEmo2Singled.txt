@@ -62,18 +62,18 @@ close 51% No. 99% Fa. 100%:
 "There are also various divergent and transform boundaries in the area shown." 2.Po. 58% 2.No. 34% 2.Fa. 100% 2.Ra. 100% Ne. 52% No. 93% Fa. 99%
 Po. 50% No. 99% Fa. 99%: "The bowls were on the saucers above the chopstick." 2.Po. 57% 2.No. 35% 2.Fa. 100% 2.Ra. 100% also with "chopstick">"s"<"." 2.Po. 61% 2.No. 35% 2.Fa. 100% 2.Ra. 100%
 No. 98%:
-Po. 50% No. 98% Fa. 100%: "The section marker is shown slightly differently to an sticky marker with a larger arrow."
-"It was rebuilt at the top of Penge next to Sydenham Hill, an suburb of large villas." grammar mistake, also with "it" Po. 50% No. 98% Fa. 100% Ra. 100%
+Po. 50% No. 98% Fa. 100%: "The section marker is shown slightly differently to an sticky marker with a larger arrow."2.Po. 51% 2.No. 28% 2.Fa. 100% 2.Ra. 100%
+"It was rebuilt at the top of Penge next to Sydenham Hill, an suburb of large villas."2.Po. 69% 2.No. 42% 2.Fa. 100% 2.Ra. 99% grammar mistake, also with "it"<"was rebuilt" Po. 50% No. 98% Fa. 100% Ra. 100% 2.Po. 69% 2.No. 42% 2.Fa. 100% 2.Ra. 99%
 
 Ne. 50% No. 98% Fa. 100% Ra. 100%:V
-"It was rebuilt at the top of the Penge next to the Sydenham Hill, the suburb of the large villas." Ne. 50% No. 98% Fa. 100% Ra. 100%
-"The treadwheel was assembled using the vertical cities and the small steam load mounting into the tower." Ne. 50% No. 98% Fa. 100% Ra. 100%
-"The sections are shown slightly differently to the sticky markers with the markers."
+"It was rebuilt at the top of the Penge next to the Sydenham Hill, the suburb of the large villas." 2.Po. 68% 2.No. 43% 2.Fa. 100% 2.Ra. 100% Ne. 50% No. 98% Fa. 100% Ra. 100%
+"The treadwheel was assembled using the vertical cities and the small steam load mounting into the tower." 2.Po. 96% 2.No. 40% 2.Fa. 100% 2.Ra. 100% Ne. 50% No. 98% Fa. 100% Ra. 100%
+"The sections are shown slightly differently to the sticky markers with the markers." 2.Po. 64% 2.No. 24% 2.Fa. 100% 2.Ra. 100%
  Ne. 50% No. 98% Fa. 100% Ra. 100%:^
 No. 98%:^
 
-Po. 50% No. 99% Fa. 99%: "The cups were on the lines above the frame."
-Ne. 50% No. 99% Fa. 99%: "The tables are in cup to the rar."
+Po. 50% No. 99% Fa. 99%: "The cups were on the lines above the frame." 2.Po. 53% 2.No. 31% 2.Fa. 100% 2.Ra. 99%
+Ne. 50% No. 99% Fa. 99%: "The tables are in cup to the rar." 2.Po. 97% 2.No. 23% 2.Fa. 100% 2.Ra. 99%
 close 51% No. 99% Fa. 100%:^
 
 around 50% No. 99% Fa. 100%:V
@@ -81,18 +81,18 @@ around 50% No. 99% Fa. 100%:V
 roughly 1500 km and a width ranging between 200 km 
 and 60 km, it constitutes a submarine mountain belt 
 made of deformed sediments that have been compressed between the African plate and the Hellenic 
-Arc." Po. 54% No. 97% Fa. 100%
+Arc." 2.Po. 83% 2.No. 27% 2.Fa. 100% 2.Ra. 100% Po. 54% No. 97% Fa. 100%
 around 50% No. 99% Fa. 100%:^
-short statement No. 99% Fa. 100% Ra. 100%: "The clock is circular." Ne. 76%, "The table is rectangular." Po. 63%
+short statement No. 99% Fa. 100% Ra. 100%: "The clock is circular." 2.Po. 90% 2.Joy 25% 2.Fa. 100% 2.Ra. 100% Ne. 76%, "The table is rectangular." 2.Po. 74% 2.Joy 23% 2.Fa. 100% 2.Ra. 100% Po. 63%
 
-"The main floor level is indicated by a soldier course." Po. 73% No. 99% Fa. 100%
-similar: The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself. : "The tower was assembled using the wooden scaffolding and small steam cranes mounted onto the tower itself." Po. 51% No. 99% Fa. 100% "...their wooden scaffolding and small steam cranes mounted onto the tower itself." Po. 51% "Their tower was assembled using their wooden scaffolding and small steam cranes mounted onto their tower itself." Ne. 50%
+"The main floor level is indicated by a soldier course." Po. 82% 2.Po. 74% 2.No. 30% 2.Fa. 100% 2.Ra. 100% Po. 73% No. 99% Fa. 100%
+similar: The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself. : "The tower was assembled using the wooden scaffolding and small steam cranes mounted onto the tower itself." 2.Po. 85% 2.No. 38% 2.Fa. 100% 2.Ra. 100% Po. 51% No. 99% Fa. 100% ...>"their"<"wooden scaffolding"..."itself." 2.Po. 84% 2.No. 39% 2.Fa. 100% 2.Ra. 100% Po. 51% "Their tower was assembled using their wooden scaffolding and small steam cranes mounted onto their tower itself." 2.Po. 76% 2.No. 40% 2.Fa. 100% 2.Ra. 100% Ne. 50%
 
-except 99%-The-is-above-plates sum of 51% No. 99%: The above outline map represents Northern Ireland, a constitutionally distinct region of the United Kingdom, located in the northeastern part of the island of Ireland. speakai P.50/50/0
-The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself. The plates were on the shelf above the cups. Neu. 78,98% Neu. 95,99% Feed. 87,22% Que. 11,74% Finally on the west side the only protection tower is to the south, it is the Develin tower. The section marker is shown slightly differently to an elevation marker with a larger arrow.
-MonkeyLearn Po. 53.7%
+except 99%-The-is-above-plates sum of 51% No. 99%: The above outline map represents Northern Ireland, a constitutionally distinct region of the United Kingdom, located in the northeastern part of the island of Ireland. 2.Po. 92% 2.No. 36% 2.Fa. 100% 2.Ra. 100% speakai P.50/50/0
+The tower was assembled using wooden scaffolding and small steam cranes mounted onto the tower itself. The plates were on the shelf above the cups. 2.Po. 74% 2.No. 34% 2.Fa. 100% 2.Ra. 100% Neu. 78,98% Neu. 95,99% Feed. 87,22% Que. 11,74% Finally on the west side the only protection tower is to the south, it is the Develin tower. The section marker is shown slightly differently to an elevation marker with a larger arrow.
+2.Ne. 74% 2.No. 39% 2.Fa. 100% 2.Ra. 100% MonkeyLearn Po. 53.7%
 
-"The plates were on the shelf above the cups." Neu. 78,98% Neu. 95,99% Feed. 87,22% Que. 11,74%
+"The plates were on the shelf above the cups." 2.Po. 71% 2.No. 27% 2.Fa. 100% 2.Ra. 99% Neu. 78,98% Neu. 95,99% Feed. 87,22% Que. 11,74%
 https://www.uclassify.com/browse/uclassify/topics?input=Text
 Arts 18% Recreation 17% Science 14% Home 10% Games 9% Business 7% Computers 7% Society 6% Health 6% Sports 4% 
 Art: Crafts 22% Humanities 19% Design 7% Architecture 7% Literature 7% Performing_Arts 6% Art_History 5% Education 5% Illustration 3% Video 3% Movies_Television 3% Graphic_Design 3% Photography 2% Classical_Studies 2% Visual_Arts 2% Bodyart 1% Radio 1% Animation 1% Music 1% 
